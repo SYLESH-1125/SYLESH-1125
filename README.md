@@ -41,7 +41,7 @@ Learning, building, competing — I’m driven by technology that creates **real
 # 🧩 LeetCode Profile
 
 <p align="center">
-  <a href="https://leetcode.com/u/SYLESH_1125/">
+  <a href="https://leetcode.com/u/SYLESH_/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-F5E36A?style=for-the-badge&logo=leetcode&logoColor=F5E36A&color=000000" />
   </a>
 </p>
@@ -57,7 +57,7 @@ Learning, building, competing — I’m driven by technology that creates **real
 <p align="center">
 <a href="https://discord.com/invite/YzzuBVk9"><img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=F5E36A" /></a>
 <a href="https://instagram.com/syl._.star"><img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=F5E36A" /></a>
-<a href="https://linkedin.com/in/sylesh-pavendan"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=F5E36A" /></a>
+<a href="https://www.linkedin.com/in/sylesh-pavendan-361a69328/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=F5E36A" /></a>
 <a href="mailto:sylesh1125@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=F5E36A" /></a>
 </p>
 
