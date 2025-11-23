@@ -1,36 +1,74 @@
 <!-- ===================================== -->
-<!-- 🥇 CYBERPUNK GOLD HEADER -->
+<!-- 🥇 CYBERPUNK GOLD HEADER (FIXED) -->
 <!-- ===================================== -->
 
 <div align="center">
 
-  <!-- GOLD PARTICLE FIELD (Particles Animation) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=800&color=F5E36A&center=true&vCenter=true&width=900&height=30&lines=✦+.+.+✦+.+.+✦+.+.+✦+.+.+✦" />
+<!-- PULSE GLOW AROUND NAME (no broken image) -->
+<h1 style="
+  font-family: 'Orbitron', sans-serif;
+  font-size: 64px;
+  font-weight: 900;
+  color: #F5E36A;
+  text-shadow: 
+      0 0 10px #F5E36A,
+      0 0 20px #F5E36A,
+      0 0 40px #D4B953,
+      0 0 80px #D4B953;
+  animation: pulseGlow 2s infinite;
+">
+  SYLESH PAVENDAN
+</h1>
 
-  <!-- CYBERPUNK NEON PERMANENT NAME -->
-  <h1 style="font-weight:900; font-size:48px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=48&duration=1&pause=1&color=F5E36A&center=true&vCenter=true&repeat=false&width=900&height=100&lines=SYLESH+PAVENDAN" />
-  </h1>
+<!-- PULSE KEYFRAMES -->
+<style>
+@keyframes pulseGlow {
+  0% {
+    text-shadow:
+      0 0 5px #F5E36A,
+      0 0 15px #F5E36A,
+      0 0 30px #D4B953,
+      0 0 60px #D4B953;
+  }
+  50% {
+    text-shadow:
+      0 0 15px #F5E36A,
+      0 0 30px #F5E36A,
+      0 0 60px #D4B953,
+      0 0 100px #D4B953;
+  }
+  100% {
+    text-shadow:
+      0 0 5px #F5E36A,
+      0 0 15px #F5E36A,
+      0 0 30px #D4B953,
+      0 0 60px #D4B953;
+  }
+}
+</style>
 
-  <!-- PULSE ANIMATION (Gold Ring Pulse) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=700&pause=400&color=F5E36A&center=true&vCenter=true&width=260&height=30&lines=◎;◉;◍;○;◌" />
+<!-- GOLD LINE -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A"/>
 
-  <!-- CYBERPUNK GOLD UNDERLINE -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A"/>
+<!-- FIXED LARGE ANIMATION (NO CUT TEXT) -->
+<img src="https://readme-typing-svg.demolab.com?
+font=Fira+Code&weight=700&size=30&pause=800&color=F5E36A&
+center=true&vCenter=true&width=1000&height=60&
+lines=Full-Stack+Developer;
+AI%2FML+Explorer;
+Web3+Learner;
+700%2B+LeetCode+Problems+Solved;
+1x+National+Runner-Up;
+13%2B+Hackathon+Finalist;
+15th+Place+Codeathon;
+30%2B+Client+Projects+Delivered;
+Team+DYNAMITE+Lead" />
 
-  <!-- BIGGER ANIMATED ROLES + ACHIEVEMENTS -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=900&color=F5E36A&center=true&vCenter=true&width=1100&height=55&lines=Full-Stack+Developer;AI%2FML+Explorer;Web3+Learner;700%2B+LeetCode+Problems+Solved;1x+National+Runner-Up;13%2B+Hackathon+Finalist;15th+Place+Codeathon;30%2B+Client+Projects+Delivered;Team+DYNAMITE+Lead" />
-
-  <!-- FUTURISTIC GOLD SCANLINE EFFECT -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=350&pause=500&color=F5E36A&center=true&vCenter=true&width=900&height=30&lines=▁▂▃▄▅▆▇█▇▆▅▄▃▂▁" />
-
-  <!-- FLOATING HOLOGRAM REFLECTION -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=26&duration=1&pause=1&color=777777&center=true&vCenter=true&repeat=false&width=900&height=60&lines=SYLESH+PAVENDAN" />
-
-  <!-- GOLD HOLOGRAM LINE -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A"/>
+<!-- GOLD LINE -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A"/>
 
 </div>
+
 
 ---
 
