@@ -4,20 +4,25 @@
 
 <div align="center">
 
-<!-- 3D-ish GOLD NAME (permanent) -->
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=40&duration=1800&pause=900&color=F5C542&center=true&vCenter=true&width=900&height=70&lines=SYLESH+PAVENDAN;FULL-STACK+DEVELOPER" />
+<!-- PERMANENT GLITCH NEON GOLD NAME -->
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=48&duration=1&pause=1&color=F5C542&center=true&vCenter=true&width=900&height=100&lines=SYLESH+PAVENDAN" />
+</h1>
 
-<!-- HOLOGRAM SUBTITLE -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2200&pause=1200&color=FACC15&center=true&vCenter=true&width=800&height=40&lines=AI%2FML+Explorer+%7C+Web3+Learner+%7C+Product+Builder" />
+<!-- CYBERPUNK GOLD GLITCH LINE -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FACC15"/>
 
-<!-- Neon gold border -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FACC15&height=2"/>
+<!-- ACHIEVEMENT + TITLES TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F5C542&center=true&vCenter=true&width=900&height=50&lines=Full-Stack+Developer;AI%2FML+Explorer;Web3+Learner;1x+National+Hackathon+Runner-Up;13%2B+Hackathon+Finalist;700%2B+LeetCode+Problems+Solved;Codeathon+15th+Place;30%2B+Client+%26+Personal+Projects+Built;Team+DYNAMITE+Lead" />
+
+<!-- LUXURY GOLD HOLOGRAM BAR -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FACC15"/>
 
 </div>
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
 I’m **Sylesh Pavendan**, a full-stack developer proficient in **Flutter, Next.js, Node.js, and Firebase**.  
 I specialize in engineering scalable, production-grade applications with clean architecture and rapid iteration cycles.  
@@ -38,7 +43,7 @@ Learning, building, competing — I’m driven by technology that creates **real
 <!-- ===================================== -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=120&pause=1200&color=FACC15&center=true&vCenter=true&width=900&height=30&lines=///+SYLESH+//+DYNAMITE+LEAD+//+1x+RUNNER-UP+//+13%2B+FINALS+//+FULL-STACK+%2B+AI%2FML+%2B+WEB3+///" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=120&pause=1200&color=FACC15&center=true&vCenter=true&width=900&height=30&lines=///+FULL-STACK+DEV+//+AI%2FML+//+BLOCKCHAIN+//+TEAM+DYNAMITE+///" />
 </div>
 
 ---
@@ -98,28 +103,27 @@ Learning, building, competing — I’m driven by technology that creates **real
 
 ---
 
-<!-- Cyberpunk purple divider -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=8e44ad&height=80&section=header"/>
+<!-- Clean gold divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FACC15&height=2"/>
 
 ---
 
 # 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SYLESH-1125&theme=great-gatsby&show_icons=true&hide_border=false" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=SYLESH-1125&theme=great-gatsby&hide_border=false" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SYLESH-1125&theme=great-gatsby&show_icons=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=SYLESH-1125&theme=great-gatsby" height="160" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SYLESH-1125&theme=great-gatsby&layout=compact&hide_border=false" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SYLESH-1125&theme=great-gatsby&layout=compact" height="140" />
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SYLESH-1125&theme=juicyfresh&no-frame=true&margin-w=10" />
 </div>
@@ -127,14 +131,13 @@ Learning, building, competing — I’m driven by technology that creates **real
 ---
 
 ### ✍️ Random Dev Quote
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
 </div>
 
 ---
 
-<!-- MATRIX RAIN / SNAKE EFFECT -->
+<!-- MATRIX RAIN -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="900" />
 </div>
@@ -144,16 +147,14 @@ Learning, building, competing — I’m driven by technology that creates **real
 <!-- SCROLLING MARQUEE -->
 <p align="center">
 <marquee width="80%" direction="left" scrollamount="6">
-🔥 Always Learning • Always Building • Always Competing • Full-Stack + AI/ML + Web3 • 1x National Runner-Up • 13+ Hackathon Finals • Team DYNAMITE 🔥
+🔥 Always Learning • Always Building • Always Competing • Full-Stack + AI/ML + Web3 • Team DYNAMITE • Hackathon Achievements • 700+ LeetCode 🔥
 </marquee>
 </p>
 
 ---
 
 <div align="center">
-  
+
 [![](https://visitcount.itsvg.in/api?id=SYLESH-1125&icon=8&color=0)](https://visitcount.itsvg.in)
 
 </div>
-
----
