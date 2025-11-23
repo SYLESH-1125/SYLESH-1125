@@ -11,7 +11,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A"/>
 
 <!-- BIGGER ANIMATED ROLES + ACHIEVEMENTS -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=900&color=F5E36A&center=true&vCenter=true&width=1100&height=53&lines=Full-Stack+Developer;AI/ML+Explorer;Web3+Learner;700%2B+LeetCode+Problems+Solved;1x+National+Hackathon+Winner;13%2B+Hackathon+Finalist;15th+Place+Codeathon;30%2B+Client+Projects+Delivered;Team+DYNAMITE+Lead" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=900&color=F5E36A&center=true&vCenter=true&width=1100&height=53&lines=Full-Stack+Developer;AI/ML+Explorer;Web3+Learner;700%2B+LeetCode+Problems+Solved;1x+National+Hackathon+Winner;13%2B+Hackathon+Finalist;15th+Place+Codeathon;30%2B+Client+Projects+Delivered;Team+DYNAMITE+Lead" />
 
 <!-- GOLD HOLOGRAM LINE -->
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A"/>
