@@ -69,11 +69,7 @@ Learning, building, competing — I’m driven by technology that creates **real
 </a>
 </p>
 
----
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F5E36A&height=2"/>
-
----
 
 # 💻 Tech Stack
 
