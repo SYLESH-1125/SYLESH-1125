@@ -59,7 +59,43 @@ Relentlessly learning, building, competing — I’m driven by engineering that 
 ---
 
 # 💻 Tech Stack
-*(kept same — safe + clean)*
+### 🧠 Core
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=F5E36A)
+![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=c%2B%2B&logoColor=F5E36A)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=F5E36A)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=F5E36A)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=F5E36A)
+
+### 🎨 Frontend
+![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter&logoColor=F5E36A)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=F5E36A)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=F5E36A)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwind-css&logoColor=F5E36A)
+
+### ⚙ Backend
+![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=F5E36A)
+![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=F5E36A)
+![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=F5E36A)
+![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=F5E36A)
+
+### 🗄 Databases
+![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=F5E36A)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=F5E36A)
+![PostgreSQL](https://img.shields.io/badge/Postgres-000?style=for-the-badge&logo=postgresql&logoColor=F5E36A)
+![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase&logoColor=F5E36A)
+![GoogleCloud](https://img.shields.io/badge/GoogleCloud-000?style=for-the-badge&logo=google-cloud&logoColor=F5E36A)
+
+### 🤖 AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow&logoColor=F5E36A)
+![PyTorch](https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch&logoColor=F5E36A)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000?style=for-the-badge&logo=scikit-learn&logoColor=F5E36A)
+![OpenCV](https://img.shields.io/badge/OpenCV-000?style=for-the-badge&logo=opencv&logoColor=F5E36A)
+![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas&logoColor=F5E36A)
+![NumPy](https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy&logoColor=F5E36A)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F5E36A&height=2"/>
 
 ---
 
