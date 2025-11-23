@@ -12,8 +12,8 @@
 <!-- CYBERPUNK GOLD UNDERLINE -->
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A"/>
 
-<!-- ANIMATED ROLES + ACHIEVEMENTS -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=F5E36A&center=true&vCenter=true&width=900&height=40&lines=Full-Stack+Developer;AI%2FML+Explorer;Web3+Learner;700%2B+LeetCode+Problems+Solved;1x+National+Runner-Up;13%2B+Hackathon+Finalist;15th+Place+Codeathon;30%2B+Client+Projects+Delivered;Team+DYNAMITE+Lead" />
+<!-- BIGGER ANIMATED ROLES + ACHIEVEMENTS -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=900&color=F5E36A&center=true&vCenter=true&width=1100&height=55&lines=Full-Stack+Developer;AI%2FML+Explorer;Web3+Learner;700%2B+LeetCode+Problems+Solved;1x+National+Runner-Up;13%2B+Hackathon+Finalist;15th+Place+Codeathon;30%2B+Client+Projects+Delivered;Team+DYNAMITE+Lead" />
 
 <!-- GOLD HOLOGRAM LINE -->
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A"/>
@@ -47,7 +47,7 @@ Learning, building, competing — I’m driven by technology that creates **real
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/SYLESH_1125?theme=dark&font=K2D&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/SYLESH_?theme=dark&font=K2D&ext=contest&border=0&radius=8" />
 </p>
 
 ---
@@ -55,10 +55,18 @@ Learning, building, competing — I’m driven by technology that creates **real
 ## 🌐 Socials
 
 <p align="center">
-<a href="https://discord.com/invite/YzzuBVk9"><img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=F5E36A" /></a>
-<a href="https://instagram.com/syl._.star"><img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=F5E36A" /></a>
-<a href="https://www.linkedin.com/in/sylesh-pavendan-361a69328/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=F5E36A" /></a>
-<a href="mailto:sylesh1125@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=F5E36A" /></a>
+<a href="https://discord.com/invite/YzzuBVk9">
+  <img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=F5E36A" />
+</a>
+<a href="https://instagram.com/syl._.star">
+  <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=F5E36A" />
+</a>
+<a href="https://www.linkedin.com/in/sylesh-pavendan-361a69328/">
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=F5E36A" />
+</a>
+<a href="mailto:sylesh1125@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=F5E36A" />
+</a>
 </p>
 
 ---
