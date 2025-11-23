@@ -59,43 +59,98 @@ Relentlessly learning, building, competing — I’m driven by engineering that 
 ---
 
 # 💻 Tech Stack
-### 🧠 Core
+
+### 🧠 Core Languages
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=F5E36A)
 ![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=c%2B%2B&logoColor=F5E36A)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=F5E36A)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=F5E36A)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=F5E36A)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F5E36A)
 
-### 🎨 Frontend
+---
+
+### 🎨 Frontend & Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter&logoColor=F5E36A)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=F5E36A)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=F5E36A)
+![React Native](https://img.shields.io/badge/React%20Native-000?style=for-the-badge&logo=react&logoColor=F5E36A)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwind-css&logoColor=F5E36A)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=F5E36A)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=F5E36A)
 
-### ⚙ Backend
+---
+
+### ⚙ Backend & APIs
 ![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=F5E36A)
 ![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=F5E36A)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=F5E36A)
 ![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=F5E36A)
+![Firebase Functions](https://img.shields.io/badge/Firebase%20Functions-000?style=for-the-badge&logo=firebase&logoColor=F5E36A)
+![REST API](https://img.shields.io/badge/REST%20API-000?style=for-the-badge&logo=fastapi&logoColor=F5E36A)
+![WebSockets](https://img.shields.io/badge/WebSockets-000?style=for-the-badge&logo=socketdotio&logoColor=F5E36A)
 
-### 🗄 Databases
+---
+
+### 🗄 Databases & Cloud
 ![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=F5E36A)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=F5E36A)
 ![PostgreSQL](https://img.shields.io/badge/Postgres-000?style=for-the-badge&logo=postgresql&logoColor=F5E36A)
 ![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase&logoColor=F5E36A)
-![GoogleCloud](https://img.shields.io/badge/GoogleCloud-000?style=for-the-badge&logo=google-cloud&logoColor=F5E36A)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-000?style=for-the-badge&logo=google-cloud&logoColor=F5E36A)
+![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis&logoColor=F5E36A)
+![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=F5E36A)
 
-### 🤖 AI / ML
+---
+
+### 🔐 Auth & Security
+![JWT](https://img.shields.io/badge/JWT-000?style=for-the-badge&logo=jsonwebtokens&logoColor=F5E36A)
+![OAuth](https://img.shields.io/badge/OAuth-000?style=for-the-badge&logo=auth0&logoColor=F5E36A)
+![FirebaseAuth](https://img.shields.io/badge/Firebase%20Auth-000?style=for-the-badge&logo=firebase&logoColor=F5E36A)
+
+---
+
+### 🤖 AI / Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow&logoColor=F5E36A)
 ![PyTorch](https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch&logoColor=F5E36A)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-000?style=for-the-badge&logo=scikit-learn&logoColor=F5E36A)
 ![OpenCV](https://img.shields.io/badge/OpenCV-000?style=for-the-badge&logo=opencv&logoColor=F5E36A)
 ![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas&logoColor=F5E36A)
 ![NumPy](https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy&logoColor=F5E36A)
+![NLTK](https://img.shields.io/badge/NLTK-000?style=for-the-badge&logo=python&logoColor=F5E36A)
+![LangChain](https://img.shields.io/badge/LangChain-000?style=for-the-badge&logo=chainlink&logoColor=F5E36A)
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F5E36A&height=2"/>
+### 📱 State Management
+![BLoC](https://img.shields.io/badge/Flutter%20BLoC-000?style=for-the-badge&logo=flutter&logoColor=F5E36A)
+![Provider](https://img.shields.io/badge/Provider-000?style=for-the-badge&logo=flutter&logoColor=F5E36A)
+![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux&logoColor=F5E36A)
+
+---
+
+### 🛠️ Tools & Utilities
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F5E36A)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=F5E36A)
+![VSCode](https://img.shields.io/badge/VSCode-000?style=for-the-badge&logo=visual-studio-code&logoColor=F5E36A)
+![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman&logoColor=F5E36A)
+![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=F5E36A)
+
+---
+
+### 🕸️ Web Scraping & Automation
+![Selenium](https://img.shields.io/badge/Selenium-000?style=for-the-badge&logo=selenium&logoColor=F5E36A)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-000?style=for-the-badge&logo=puppeteer&logoColor=F5E36A)
+
+---
+
+### 🎥 Editing & Design
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-000?style=for-the-badge&logo=adobe-photoshop&logoColor=F5E36A)
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-000?style=for-the-badge&logo=adobe-premiere-pro&logoColor=F5E36A)
+![Canva](https://img.shields.io/badge/Canva-000?style=for-the-badge&logo=canva&logoColor=F5E36A)
+
+
+
 
 ---
 
