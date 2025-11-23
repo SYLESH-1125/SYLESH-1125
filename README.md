@@ -1,22 +1,22 @@
 <!-- ===================================== -->
-<!-- 🥇 GOLD + CYBERPUNK HERO HEADER      -->
+<!-- 🥇 CYBERPUNK GOLD HEADER -->
 <!-- ===================================== -->
 
 <div align="center">
 
-<!-- PERMANENT GLITCH NEON GOLD NAME -->
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=48&duration=1&pause=1&color=F5C542&center=true&vCenter=true&width=900&height=100&lines=SYLESH+PAVENDAN" />
+<!-- CYBERPUNK NEON PERMANENT NAME -->
+<h1 style="font-weight:900; font-size:48px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=48&duration=1&pause=1&color=F5E36A&center=true&vCenter=true&repeat=false&width=900&height=100&lines=SYLESH+PAVENDAN" />
 </h1>
 
-<!-- CYBERPUNK GOLD GLITCH LINE -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FACC15"/>
+<!-- CYBERPUNK GOLD UNDERLINE -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A"/>
 
-<!-- ACHIEVEMENT + TITLES TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F5C542&center=true&vCenter=true&width=900&height=50&lines=Full-Stack+Developer;AI%2FML+Explorer;Web3+Learner;1x+National+Hackathon+Runner-Up;13%2B+Hackathon+Finalist;700%2B+LeetCode+Problems+Solved;Codeathon+15th+Place;30%2B+Client+%26+Personal+Projects+Built;Team+DYNAMITE+Lead" />
+<!-- ANIMATED ROLES + ACHIEVEMENTS -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=F5E36A&center=true&vCenter=true&width=900&height=40&lines=Full-Stack+Developer;AI%2FML+Explorer;Web3+Learner;700%2B+LeetCode+Problems+Solved;1x+National+Runner-Up;13%2B+Hackathon+Finalist;15th+Place+Codeathon;30%2B+Client+Projects+Delivered;Team+DYNAMITE+Lead" />
 
-<!-- LUXURY GOLD HOLOGRAM BAR -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FACC15"/>
+<!-- GOLD HOLOGRAM LINE -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A"/>
 
 </div>
 
@@ -38,73 +38,74 @@ Learning, building, competing — I’m driven by technology that creates **real
 
 ---
 
-<!-- ===================================== -->
-<!-- ⚡ CYBERPUNK GLITCH STRIP            -->
-<!-- ===================================== -->
+# 🧩 LeetCode Profile
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=120&pause=1200&color=FACC15&center=true&vCenter=true&width=900&height=30&lines=///+FULL-STACK+DEV+//+AI%2FML+//+BLOCKCHAIN+//+TEAM+DYNAMITE+///" />
-</div>
+<p align="center">
+  <a href="https://leetcode.com/u/SYLESH_1125/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-F5E36A?style=for-the-badge&logo=leetcode&logoColor=F5E36A&color=000000" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/SYLESH_1125?theme=dark&font=K2D&ext=heatmap" />
+</p>
 
 ---
 
 ## 🌐 Socials
 
 <p align="center">
-<a href="https://discord.com/invite/YzzuBVk9"><img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=FACC15" /></a>
-<a href="https://instagram.com/syl._.star"><img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=FACC15" /></a>
-<a href="https://linkedin.com/in/sylesh-pavendan"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=FACC15" /></a>
-<a href="mailto:sylesh1125@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=FACC15" /></a>
+<a href="https://discord.com/invite/YzzuBVk9"><img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=F5E36A" /></a>
+<a href="https://instagram.com/syl._.star"><img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=F5E36A" /></a>
+<a href="https://linkedin.com/in/sylesh-pavendan"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=F5E36A" /></a>
+<a href="mailto:sylesh1125@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=F5E36A" /></a>
 </p>
 
 ---
 
-<!-- Neon gold border -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FACC15&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F5E36A&height=2"/>
 
 ---
 
 # 💻 Tech Stack
 
-### 🧠 Core Languages & Foundations
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=FACC15)
-![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=c%2B%2B&logoColor=FACC15)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=FACC15)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=FACC15)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=FACC15)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=FACC15)
+### 🧠 Core
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=F5E36A)
+![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=c%2B%2B&logoColor=F5E36A)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=F5E36A)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=F5E36A)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=F5E36A)
 
-### 🎨 Frontend & Mobile
-![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter&logoColor=FACC15)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=FACC15)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=FACC15)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwind-css&logoColor=FACC15)
+### 🎨 Frontend
+![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter&logoColor=F5E36A)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=F5E36A)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=F5E36A)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwind-css&logoColor=F5E36A)
 
-### ⚙️ Backend & APIs
-![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=FACC15)
-![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=FACC15)
-![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=FACC15)
-![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=FACC15)
+### ⚙ Backend
+![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=F5E36A)
+![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=F5E36A)
+![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=F5E36A)
+![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=F5E36A)
 
-### 🗄 Databases & Cloud
-![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=FACC15)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=FACC15)
-![PostgreSQL](https://img.shields.io/badge/Postgres-000?style=for-the-badge&logo=postgresql&logoColor=FACC15)
-![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase&logoColor=FACC15)
-![GoogleCloud](https://img.shields.io/badge/GoogleCloud-000?style=for-the-badge&logo=google-cloud&logoColor=FACC15)
+### 🗄 Databases
+![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=F5E36A)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=F5E36A)
+![PostgreSQL](https://img.shields.io/badge/Postgres-000?style=for-the-badge&logo=postgresql&logoColor=F5E36A)
+![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase&logoColor=F5E36A)
+![GoogleCloud](https://img.shields.io/badge/GoogleCloud-000?style=for-the-badge&logo=google-cloud&logoColor=F5E36A)
 
-### 🤖 AI / ML & Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow&logoColor=FACC15)
-![PyTorch](https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch&logoColor=FACC15)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-000?style=for-the-badge&logo=scikit-learn&logoColor=FACC15)
-![OpenCV](https://img.shields.io/badge/OpenCV-000?style=for-the-badge&logo=opencv&logoColor=FACC15)
-![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas&logoColor=FACC15)
-![NumPy](https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy&logoColor=FACC15)
+### 🤖 AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow&logoColor=F5E36A)
+![PyTorch](https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch&logoColor=F5E36A)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000?style=for-the-badge&logo=scikit-learn&logoColor=F5E36A)
+![OpenCV](https://img.shields.io/badge/OpenCV-000?style=for-the-badge&logo=opencv&logoColor=F5E36A)
+![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas&logoColor=F5E36A)
+![NumPy](https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy&logoColor=F5E36A)
 
 ---
 
-<!-- Clean gold divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FACC15&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F5E36A&height=2"/>
 
 ---
 
@@ -123,7 +124,7 @@ Learning, building, competing — I’m driven by technology that creates **real
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SYLESH-1125&theme=juicyfresh&no-frame=true&margin-w=10" />
 </div>
