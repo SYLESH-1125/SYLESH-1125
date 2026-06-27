@@ -12,8 +12,8 @@
 <!-- GOLD 3D WAVE RIBBON -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F5E36A&height=130&section=header&reversal=true" width="100%" />
 
-<!-- 🪙 CUSTOM 3D HOLOGRAPHIC AVATAR (hand-crafted animated SVG) -->
-<a href="https://www.linkedin.com/in/sylesh-pavendan-361a69328/" title="Explore my profile"><img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/avatar-3d.svg" width="230" alt="3D holographic avatar — click to explore" /></a>
+<!-- 🪙 CUSTOM 3D HOLOGRAPHIC AVATAR + STANDING FIGURE -->
+<a href="https://www.linkedin.com/in/sylesh-pavendan-361a69328/" title="Connect on LinkedIn"><img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/avatar-3d.svg" width="210" alt="3D holographic avatar" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/figure-3d.svg" width="210" alt="3D standing developer avatar" />
 
 <!-- CYBERPUNK GLITCH NAME (SVG glow, 100% GitHub-safe) -->
 <img src="https://svg-banners.vercel.app/api?type=glitch&text1=SYLESH%20PAVENDAN&width=900&height=190" />
