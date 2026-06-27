@@ -8,23 +8,32 @@
 
 <!-- ░░░░░░░░░░░░░░░░░░  3D HERO  ░░░░░░░░░░░░░░░░░░ -->
 
-<!-- GOLD WAVE HEADER WITH NAME -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F5E36A&height=160&section=header&reversal=true&text=SYLESH%20PAVENDAN&fontColor=0D0B00&fontSize=46&fontAlignY=62&animation=fadeIn" width="100%" />
+<!-- GOLD WAVE RIBBON (decorative only) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F5E36A&height=130&section=header&reversal=true" width="100%" />
 
 <div align="center">
 
-<!-- SP SPHERE + FIGURE: inline, no table, bottom-aligned naturally -->
+<!-- SP SPHERE + FIGURE: inline, no table, no borders -->
 <a href="https://www.linkedin.com/in/sylesh-pavendan-361a69328/" title="Connect on LinkedIn"><img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/avatar-3d.svg" height="260" alt="3D holographic avatar" /></a>&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/figure-3d.svg" height="340" alt="3D standing developer avatar" />
 
 <br/><br/>
 
-<!-- ROLE TITLES -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=900&color=F5E36A&center=true&vCenter=true&width=700&height=54&lines=Full-Stack+Developer+%7C+AI%2FML+Engineer;LeetCode+Knight+%E2%80%94+Top+4.39%25+Globally;3%C3%97+National+Hackathon+Winner+%7C+Team+DYNAMITE;Web3+Explorer+%7C+Agentic+AI+Builder" />
+<!-- CYBERPUNK GLITCH NAME BANNER -->
+<img src="https://svg-banners.vercel.app/api?type=glitch&text1=SYLESH%20PAVENDAN&width=860&height=160" alt="SYLESH PAVENDAN" />
 
 <br/>
 
-<!-- ACHIEVEMENT BADGES -->
-<img src="https://img.shields.io/badge/%F0%9F%8F%86%203%C3%97%20National%20Hackathon-Winner-F5E36A?style=for-the-badge&labelColor=1a1500" />&nbsp;<img src="https://img.shields.io/badge/%E2%9A%94%EF%B8%8F%201000%2B%20LeetCode-Problems%20Solved-F5E36A?style=for-the-badge&labelColor=1a1500" />&nbsp;<img src="https://img.shields.io/badge/%F0%9F%A5%87%2025%2B%20Hackathon-Finalist-F5E36A?style=for-the-badge&labelColor=1a1500" />
+<!-- ANIMATED ROLE TITLES -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=F5E36A&center=true&vCenter=true&width=780&height=56&lines=Full-Stack+Developer+%7C+AI%2FML+Engineer;LeetCode+Knight+%E2%80%94+Top+4.39%25+Globally;3%C3%97+National+Hackathon+Winner+%7C+Team+DYNAMITE;Web3+Explorer+%7C+Agentic+AI+Builder" />
+
+<br/><br/>
+
+<!-- BIG ACHIEVEMENT HIGHLIGHTS -->
+<img src="https://img.shields.io/badge/🏆_3×_NATIONAL_HACKATHON_WINNER-TEAM_DYNAMITE_LEAD-F5E36A?style=for-the-badge&labelColor=1a1500&color=F5E36A" />
+<br/><br/>
+<img src="https://img.shields.io/badge/⚔️_LEETCODE_KNIGHT-TOP_4.39%25_GLOBALLY_|_1000%2B_PROBLEMS_SOLVED-F5E36A?style=for-the-badge&labelColor=1a1500&color=F5E36A" />
+<br/><br/>
+<img src="https://img.shields.io/badge/🎯_25%2B_HACKATHON_FINALIST-FULL--STACK_+_AI_+_WEB3_ENGINEER-F5E36A?style=for-the-badge&labelColor=1a1500&color=F5E36A" />
 
 </div>
 
