@@ -7,27 +7,41 @@
 <a id="top"></a>
 
 <!-- ░░░░░░░░░░░░░░░░░░  3D HERO  ░░░░░░░░░░░░░░░░░░ -->
-<div align="center">
 
 <!-- GOLD 3D WAVE RIBBON -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F5E36A&height=130&section=header&reversal=true" width="100%" />
 
-<!-- 🪙 CUSTOM 3D HOLOGRAPHIC AVATAR + STANDING FIGURE -->
-<a href="https://www.linkedin.com/in/sylesh-pavendan-361a69328/" title="Connect on LinkedIn"><img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/avatar-3d.svg" width="210" alt="3D holographic avatar" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/figure-3d.svg" width="210" alt="3D standing developer avatar" />
+<table width="100%" border="0" cellspacing="0" cellpadding="20">
+<tr>
+<td align="center" valign="middle">
 
-<!-- CYBERPUNK GLITCH NAME (SVG glow, 100% GitHub-safe) -->
-<img src="https://svg-banners.vercel.app/api?type=glitch&text1=SYLESH%20PAVENDAN&width=900&height=190" />
+<!-- 🪙 SP HOLOGRAPHIC SPHERE -->
+<a href="https://www.linkedin.com/in/sylesh-pavendan-361a69328/" title="Connect on LinkedIn">
+<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/avatar-3d.svg" width="200" alt="3D holographic avatar" />
+</a>
+
+<br/>
+
+<!-- CYBERPUNK GLITCH NAME -->
+<img src="https://svg-banners.vercel.app/api?type=glitch&text1=SYLESH%20PAVENDAN&width=580&height=120" />
+
+<br/>
+
+<!-- ANIMATED ROLES -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&pause=900&color=F5E36A&center=true&vCenter=true&width=560&height=56&lines=Full-Stack+Developer;AI%2FML+%26+Agentic+AI+Explorer;Web3+Learner;1000%2B+LeetCode+Problems+Solved;LeetCode+Knight+%7C+Top+4.39%25+Globally;3x+National+Hackathon+Winner;25%2B+Hackathon+Finalist;Team+DYNAMITE+Lead" />
+
+</td>
+<td align="center" valign="middle">
+
+<!-- 🤖 3D STANDING DEVELOPER FIGURE -->
+<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/figure-3d.svg" width="300" alt="3D standing developer avatar" />
+
+</td>
+</tr>
+</table>
 
 <!-- GOLD HOLOGRAM LINE -->
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
-
-<!-- BIGGER ANIMATED ROLES + ACHIEVEMENTS -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&pause=900&color=F5E36A&center=true&vCenter=true&width=1100&height=70&lines=Full-Stack+Developer;AI%2FML+%26+Agentic+AI+Explorer;Web3+Learner;1000%2B+LeetCode+Problems+Solved;LeetCode+Knight+%7C+Top+4.39%25+Globally;3x+National+Hackathon+Winner;25%2B+Hackathon+Finalist;Team+DYNAMITE+Lead" />
-
-<!-- GOLD HOLOGRAM LINE -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
-
-</div>
 
 <br/>
 
