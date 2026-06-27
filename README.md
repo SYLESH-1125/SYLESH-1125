@@ -444,25 +444,9 @@ Relentlessly learning, building, competing — I'm driven by engineering that ma
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
 
-<!-- ░░░░░░░░░░░░░░░░░░  TROPHIES  ░░░░░░░░░░░░░░░░░░ -->
-# 🥇 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SYLESH-1125&theme=juicyfresh&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
-
-<!-- ░░░░░░░░░░░░░░░░░░  QUOTE  ░░░░░░░░░░░░░░░░░░ -->
-### ✍️ Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
-
 <!-- ░░░░░░░░░░░░░░░░░░  SNAKE  ░░░░░░░░░░░░░░░░░░ -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://raw.githack.com/SYLESH-1125/SYLESH-1125/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
@@ -473,6 +457,26 @@ Relentlessly learning, building, competing — I'm driven by engineering that ma
 🔥 Always Learning • Always Building • Always Competing • Full-Stack + AI/ML + Agentic AI + Web3 • Team DYNAMITE • 3x Hackathon Winner • 25+ Finalist • LeetCode Knight • 1000+ Solved 🔥
 </marquee>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
+
+<!-- ░░░░░░░░░░░░░░░░░░  TROPHIES  ░░░░░░░░░░░░░░░░░░ -->
+# 🥇 GitHub Achievements
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SYLESH-1125&theme=github_dark" width="100%" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SYLESH-1125&theme=github_dark" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SYLESH-1125&theme=github_dark&utcOffset=5.5" height="180"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
+
+<!-- ░░░░░░░░░░░░░░░░░░  QUOTE  ░░░░░░░░░░░░░░░░░░ -->
+### ✍️ Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
 
