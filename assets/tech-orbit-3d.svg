@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" fill="none" role="img" aria-label="Animated 3D skill constellation orbit">
+  <defs>
+    <radialGradient id="core" cx="40%" cy="35%" r="75%">
+      <stop offset="0%" stop-color="#FFF8D6"/>
+      <stop offset="30%" stop-color="#F5E36A"/>
+      <stop offset="72%" stop-color="#A9851C"/>
+      <stop offset="100%" stop-color="#1C1604"/>
+    </radialGradient>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F5E36A"/>
+      <stop offset="100%" stop-color="#7A5E10"/>
+    </linearGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- starfield -->
+  <g fill="#F5E36A">
+    <circle cx="70" cy="90" r="1.6"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="530" cy="120" r="2"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.6s" begin="0.5s" repeatCount="indefinite"/></circle>
+    <circle cx="500" cy="500" r="1.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="4s" begin="1s" repeatCount="indefinite"/></circle>
+    <circle cx="90" cy="470" r="1.8"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.2s" begin="1.4s" repeatCount="indefinite"/></circle>
+    <circle cx="300" cy="40" r="1.4"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.8s" begin="0.8s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- decorative tilted orbit rings (depth cues) -->
+  <ellipse cx="300" cy="300" rx="230" ry="92" fill="none" stroke="url(#ring)" stroke-width="1.5" stroke-dasharray="2 9" opacity="0.45">
+    <animateTransform attributeName="transform" type="rotate" from="0 300 300" to="360 300 300" dur="40s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="300" cy="300" rx="150" ry="150" fill="none" stroke="url(#ring)" stroke-width="1.5" stroke-dasharray="2 9" opacity="0.40"/>
+  <ellipse cx="300" cy="300" rx="92" ry="230" fill="none" stroke="url(#ring)" stroke-width="1.5" stroke-dasharray="2 9" opacity="0.35">
+    <animateTransform attributeName="transform" type="rotate" from="360 300 300" to="0 300 300" dur="48s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- ===== OUTER RING NODES (radius 230, 18s) ===== -->
+  <!-- node template: parent revolves, child counter-rotates to keep label upright -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0 300 300" to="360 300 300" dur="18s" repeatCount="indefinite"/>
+    <g transform="translate(300,70)">
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="18s" repeatCount="indefinite"/>
+        <circle r="30" fill="#0D1117" stroke="url(#ring)" stroke-width="2" filter="url(#glow)"/>
+        <text x="0" y="5" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="13" font-weight="800" fill="#F5E36A">AI/ML</text>
+      </g>
+    </g>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="120 300 300" to="480 300 300" dur="18s" repeatCount="indefinite"/>
+    <g transform="translate(300,70)">
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="-120 0 0" to="-480 0 0" dur="18s" repeatCount="indefinite"/>
+        <circle r="30" fill="#0D1117" stroke="url(#ring)" stroke-width="2" filter="url(#glow)"/>
+        <text x="0" y="5" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="13" font-weight="800" fill="#F5E36A">Flutter</text>
+      </g>
+    </g>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="240 300 300" to="600 300 300" dur="18s" repeatCount="indefinite"/>
+    <g transform="translate(300,70)">
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="-240 0 0" to="-600 0 0" dur="18s" repeatCount="indefinite"/>
+        <circle r="30" fill="#0D1117" stroke="url(#ring)" stroke-width="2" filter="url(#glow)"/>
+        <text x="0" y="5" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="12" font-weight="800" fill="#F5E36A">Next.js</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- ===== INNER RING NODES (radius 150, 26s reverse) ===== -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="360 300 300" to="0 300 300" dur="26s" repeatCount="indefinite"/>
+    <g transform="translate(300,150)">
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="-360 0 0" to="0 0 0" dur="26s" repeatCount="indefinite"/>
+        <circle r="27" fill="#0D1117" stroke="url(#ring)" stroke-width="2" filter="url(#glow)"/>
+        <text x="0" y="5" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="12" font-weight="800" fill="#F5E36A">Node</text>
+      </g>
+    </g>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="180 300 300" to="-180 300 300" dur="26s" repeatCount="indefinite"/>
+    <g transform="translate(300,150)">
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="-180 0 0" to="180 0 0" dur="26s" repeatCount="indefinite"/>
+        <circle r="27" fill="#0D1117" stroke="url(#ring)" stroke-width="2" filter="url(#glow)"/>
+        <text x="0" y="5" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="12" font-weight="800" fill="#F5E36A">Python</text>
+      </g>
+    </g>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="60 300 300" to="-300 300 300" dur="26s" repeatCount="indefinite"/>
+    <g transform="translate(300,150)">
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="-60 0 0" to="300 0 0" dur="26s" repeatCount="indefinite"/>
+        <circle r="27" fill="#0D1117" stroke="url(#ring)" stroke-width="2" filter="url(#glow)"/>
+        <text x="0" y="5" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="12.5" font-weight="800" fill="#F5E36A">Cloud</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- pulsing core -->
+  <circle cx="300" cy="300" r="58" fill="url(#core)" filter="url(#glow)">
+    <animate attributeName="r" values="56;64;56" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <ellipse cx="282" cy="282" rx="20" ry="12" fill="#FFFFFF" opacity="0.35"/>
+  <text x="300" y="309" text-anchor="middle" font-family="'Fira Code',monospace" font-size="30" font-weight="800" fill="#1A1500">&lt;/&gt;</text>
+</svg>

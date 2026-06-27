@@ -1,0 +1,38 @@
+name: Generate 3D Contribution Graph
+
+on:
+  # Run automatically every day at 00:30 UTC
+  schedule:
+    - cron: "30 0 * * *"
+  # Allow manual trigger from the Actions tab
+  workflow_dispatch:
+  # Regenerate on every push to the default branch
+  push:
+    branches:
+      - main
+      - master
+
+permissions:
+  contents: write
+
+jobs:
+  build-3d-contrib:
+    runs-on: ubuntu-latest
+    name: Render isometric 3D contribution skyline
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Generate 3D contribution SVGs
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit & push generated assets
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A profile-3d-contrib
+          git diff --staged --quiet || git commit -m "chore: refresh 3D contribution graph"
+          git push

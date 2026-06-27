@@ -1,0 +1,17 @@
+# Personal / private files (contains phone & email — keep out of public profile repo)
+*.pdf
+
+# Python tooling used locally for PDF extraction
+.venv/
+__pycache__/
+*.pyc
+
+# Local preview / scratch artifacts
+_preview_*.png
+*.bin
+extract_*.py
+resume_*.png
+
+# OS / editor
+.DS_Store
+Thumbs.db

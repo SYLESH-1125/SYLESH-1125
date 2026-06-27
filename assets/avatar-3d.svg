@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" fill="none" role="img" aria-label="3D holographic avatar emblem">
+  <defs>
+    <radialGradient id="avatarSphere" cx="38%" cy="30%" r="78%">
+      <stop offset="0%" stop-color="#FFF8D6"/>
+      <stop offset="26%" stop-color="#F5E36A"/>
+      <stop offset="68%" stop-color="#A9851C"/>
+      <stop offset="100%" stop-color="#221B04"/>
+    </radialGradient>
+    <linearGradient id="avatarGold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFF1A6"/>
+      <stop offset="50%" stop-color="#F5E36A"/>
+      <stop offset="100%" stop-color="#B8901F"/>
+    </linearGradient>
+    <filter id="avatarGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- ground shadow (static, for depth parallax) -->
+  <ellipse cx="200" cy="356" rx="86" ry="14" fill="#F5E36A" opacity="0.18">
+    <animate attributeName="rx" values="86;68;86" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.20;0.34;0.20" dur="4s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <g>
+    <!-- floating bob -->
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -16; 0 0" dur="4s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+
+    <!-- orbit ring 1 -->
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0 200 200" to="360 200 200" dur="14s" repeatCount="indefinite"/>
+      <ellipse cx="200" cy="200" rx="150" ry="56" fill="none" stroke="url(#avatarGold)" stroke-width="2" stroke-dasharray="3 11" opacity="0.55"/>
+      <circle cx="350" cy="200" r="6" fill="#F5E36A" filter="url(#avatarGlow)"/>
+      <circle cx="50" cy="200" r="4" fill="#FFF1A6" filter="url(#avatarGlow)"/>
+    </g>
+
+    <!-- orbit ring 2 -->
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="360 200 200" to="0 200 200" dur="20s" repeatCount="indefinite"/>
+      <ellipse cx="200" cy="200" rx="56" ry="150" fill="none" stroke="url(#avatarGold)" stroke-width="2" stroke-dasharray="2 10" opacity="0.40"/>
+      <circle cx="200" cy="50" r="5" fill="#FFF1A6" filter="url(#avatarGlow)"/>
+    </g>
+
+    <!-- core sphere -->
+    <circle cx="200" cy="200" r="84" fill="url(#avatarSphere)" filter="url(#avatarGlow)"/>
+    <ellipse cx="172" cy="166" rx="34" ry="20" fill="#FFFFFF" opacity="0.35"/>
+    <circle cx="200" cy="200" r="84" fill="none" stroke="#FFF1A6" stroke-width="1.5" opacity="0.6"/>
+
+    <!-- monogram -->
+    <text x="201" y="233" text-anchor="middle" font-family="'Fira Code','Courier New',monospace" font-size="84" font-weight="800" fill="#1A1500">SP</text>
+  </g>
+</svg>
