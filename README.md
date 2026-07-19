@@ -1,11 +1,11 @@
 <!-- ============================================================= -->
-<!--  SYLESH PAVENDAN · LUXURY BLACK & ROYAL GOLD PORTFOLIO · v7.4 -->
+<!--  SYLESH PAVENDAN · LUXURY BLACK & ROYAL GOLD PORTFOLIO · v7.5 -->
 <!--  Theme  → Black #0A0A0B · Charcoal #17171A · Royal Gold      -->
 <!--           #D4AF37 · Amber #E8A33D · Soft White #F2F1EC ·     -->
 <!--           tiny orange accent #FF6B35. Minimal, no neon.      -->
 <!--  All facts sourced from resume + github.com/SYLESH-1125.     -->
 <!--  Badge images kept to services verified reachable; nav/CTA links use     -->
-<!--  themed shields.io for-the-badge buttons in Royal Gold / Black.          -->
+<!--  self-hosted SVG badge buttons in Royal Gold / Black (assets/badges/).          -->
 <!-- ============================================================= -->
 
 <a id="top"></a>
@@ -32,19 +32,19 @@
 
 <br/><br/>
 
-<a href="mailto:sylesh1125@gmail.com"><img src="https://img.shields.io/badge/GET_IN_TOUCH-EMAIL-D4AF37?style=for-the-badge&labelColor=0A0A0B&logo=gmail&logoColor=white&v=20260719" alt="Email" /></a>
+<a href="mailto:sylesh1125@gmail.com"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/get-in-touch.svg" alt="Email" /></a>
 &nbsp;
-<a href="https://github.com/SYLESH-1125?tab=repositories"><img src="https://img.shields.io/badge/VIEW-PROJECTS-D4AF37?style=for-the-badge&labelColor=0A0A0B&logo=github&logoColor=white&v=20260719" alt="Projects" /></a>
+<a href="https://github.com/SYLESH-1125?tab=repositories"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/view-projects.svg" alt="Projects" /></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/sylesh-pavendan-361a69328/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-D4AF37?style=for-the-badge&labelColor=0A0A0B&logo=linkedin&logoColor=white&v=20260719" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/sylesh-pavendan-361a69328/"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/linkedin-connect.svg" alt="LinkedIn" /></a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=SYLESH-1125&label=PROFILE+VIEWS&color=D4AF37&style=for-the-badge" alt="Profile view counter" />
 &nbsp;
-<a href="https://github.com/SYLESH-1125?tab=followers"><img src="https://img.shields.io/github/followers/SYLESH-1125?label=FOLLOWERS&style=for-the-badge&color=D4AF37&labelColor=0A0A0B&logo=github&logoColor=white&v=20260719" alt="GitHub followers" /></a>
+<a href="https://github.com/SYLESH-1125?tab=followers"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/followers.svg" alt="GitHub followers" /></a>
 &nbsp;
-<a href="https://github.com/SYLESH-1125?tab=stars"><img src="https://img.shields.io/github/stars/SYLESH-1125?affiliations=OWNER&label=TOTAL+STARS&style=for-the-badge&color=D4AF37&labelColor=0A0A0B&logo=github&logoColor=white&v=20260719" alt="Total stars" /></a>
+<a href="https://github.com/SYLESH-1125?tab=stars"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/total-stars.svg" alt="Total stars" /></a>
 
 </div>
 
@@ -52,21 +52,21 @@
 
 <div align="center">
 
-<a href="#about"><img src="https://img.shields.io/badge/ABOUT-SECTION-D4AF37?style=flat-square&labelColor=0A0A0B&color=D4AF37&v=20260719" alt="About" /></a>
+<a href="#about"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/about-section.svg" alt="About" /></a>
 &nbsp;
-<a href="#about"><img src="https://img.shields.io/badge/EXPERIENCE-TIMELINE-D4AF37?style=flat-square&labelColor=0A0A0B&color=D4AF37&v=20260719" alt="Experience" /></a>
+<a href="#about"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/experience-timeline.svg" alt="Experience" /></a>
 &nbsp;
-<a href="#tech-stack"><img src="https://img.shields.io/badge/TECH-STACK-D4AF37?style=flat-square&labelColor=0A0A0B&color=D4AF37&v=20260719" alt="Tech Stack" /></a>
+<a href="#tech-stack"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/tech-stack.svg" alt="Tech Stack" /></a>
 &nbsp;
-<a href="#skills"><img src="https://img.shields.io/badge/SKILLS-CARDS-D4AF37?style=flat-square&labelColor=0A0A0B&color=D4AF37&v=20260719" alt="Skills" /></a>
+<a href="#skills"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/skills-cards.svg" alt="Skills" /></a>
 &nbsp;
-<a href="#analytics"><img src="https://img.shields.io/badge/ANALYTICS-DASHBOARD-D4AF37?style=flat-square&labelColor=0A0A0B&color=D4AF37&v=20260719" alt="Analytics" /></a>
+<a href="#analytics"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/analytics-dashboard.svg" alt="Analytics" /></a>
 &nbsp;
-<a href="#projects"><img src="https://img.shields.io/badge/PROJECTS-FEATURED-D4AF37?style=flat-square&labelColor=0A0A0B&color=D4AF37&v=20260719" alt="Projects" /></a>
+<a href="#projects"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/projects-featured.svg" alt="Projects" /></a>
 &nbsp;
-<a href="#achievements"><img src="https://img.shields.io/badge/ACHIEVEMENTS-WINS-D4AF37?style=flat-square&labelColor=0A0A0B&color=D4AF37&v=20260719" alt="Achievements" /></a>
+<a href="#achievements"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/achievements-wins.svg" alt="Achievements" /></a>
 &nbsp;
-<a href="#connect"><img src="https://img.shields.io/badge/CONNECT-FOOTER-D4AF37?style=flat-square&labelColor=0A0A0B&color=D4AF37&v=20260719" alt="Connect" /></a>
+<a href="#connect"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/connect-footer.svg" alt="Connect" /></a>
 
 </div>
 
@@ -139,13 +139,13 @@ Designed and built a hospital management system (Flutter + React) to streamline 
 
 🟢&nbsp; **Agentic AI & DevOps automation @ Cognizant** — SLMs, DeepAgents, LLM orchestration for deployment pipelines
 
-🟢&nbsp; <a href="https://github.com/SYLESH-1125/csic-backend"><img src="https://img.shields.io/badge/AI_FORENSIC_PLATFORM-csic--backend-D4AF37?style=for-the-badge&labelColor=0A0A0B&logo=github&logoColor=white&v=20260719" alt="csic-backend" /></a> — JIT tokens, DuckDB analytics, GDPR-safe anomaly detection
+🟢&nbsp; <a href="https://github.com/SYLESH-1125/csic-backend"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/ai-forensic-platform.svg" alt="csic-backend" /></a> — JIT tokens, DuckDB analytics, GDPR-safe anomaly detection
 
-🟢&nbsp; <a href="https://github.com/SYLESH-1125/CRIMEGPT"><img src="https://img.shields.io/badge/CRIMEGPT-LEGAL_AI-D4AF37?style=for-the-badge&labelColor=0A0A0B&logo=github&logoColor=white&v=20260719" alt="CrimeGPT" /></a> — grounded RAG + OCR + LLMs auto-generating statutory legal documents
+🟢&nbsp; <a href="https://github.com/SYLESH-1125/CRIMEGPT"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/crimegpt-legal.svg" alt="CrimeGPT" /></a> — grounded RAG + OCR + LLMs auto-generating statutory legal documents
 
 🟡&nbsp; **ASI-Gen** — multi-agent RAG pipeline for government statistical report generation
 
-🟡&nbsp; <a href="https://github.com/SYLESH-1125/SYLEDUTECH"><img src="https://img.shields.io/badge/EDUMITE-SYLEDUTECH-D4AF37?style=for-the-badge&labelColor=0A0A0B&logo=github&logoColor=white&v=20260719" alt="EDUMITE" /></a> — LLM tutor with NLP intent detection and adaptive study paths
+🟡&nbsp; <a href="https://github.com/SYLESH-1125/SYLEDUTECH"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/edumite-syledutech.svg" alt="EDUMITE" /></a> — LLM tutor with NLP intent detection and adaptive study paths
 
 <br/>
 <img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/divider.svg" width="100%" alt="" />
@@ -212,7 +212,7 @@ Designed and built a hospital management system (Flutter + React) to streamline 
 
 <br/>
 
-<a href="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/neural-brain-anatomical.svg"><img src="https://img.shields.io/badge/VIEW-FULL_RESOLUTION-D4AF37?style=for-the-badge&labelColor=0A0A0B&logo=image&logoColor=white&v=20260719" alt="View full resolution" /></a> &nbsp;·&nbsp; <sub>Brain anatomy: Wikimedia Commons, **Hugh Guiney · CC-BY-SA 3.0** — recolored &amp; recomposed for this profile</sub>
+<a href="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/neural-brain-anatomical.svg"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/view-full-resolution.svg" alt="View full resolution" /></a> &nbsp;·&nbsp; <sub>Brain anatomy: Wikimedia Commons, **Hugh Guiney · CC-BY-SA 3.0** — recolored &amp; recomposed for this profile</sub>
 
 </div>
 
@@ -245,11 +245,11 @@ A 3D-printable model of my contribution history, built by the official <code>gh-
 <br/>
 
 <b>📐 Spin a 3D model:</b>
-<a href="https://github.com/SYLESH-1125/SYLESH-1125/blob/metrics-output/skyline-2024.stl"><img src="https://img.shields.io/badge/2024-STL-D4AF37?style=for-the-badge&labelColor=0A0A0B&logo=github&logoColor=white&v=20260719" alt="2024 STL" /></a>
+<a href="https://github.com/SYLESH-1125/SYLESH-1125/blob/metrics-output/skyline-2024.stl"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/stl-2024.svg" alt="2024 STL" /></a>
 &nbsp;
-<a href="https://github.com/SYLESH-1125/SYLESH-1125/blob/metrics-output/skyline-2025.stl"><img src="https://img.shields.io/badge/2025-STL-D4AF37?style=for-the-badge&labelColor=0A0A0B&logo=github&logoColor=white&v=20260719" alt="2025 STL" /></a>
+<a href="https://github.com/SYLESH-1125/SYLESH-1125/blob/metrics-output/skyline-2025.stl"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/stl-2025.svg" alt="2025 STL" /></a>
 &nbsp;
-<a href="https://github.com/SYLESH-1125/SYLESH-1125/blob/metrics-output/skyline-2026.stl"><img src="https://img.shields.io/badge/2026-STL_LIVE-D4AF37?style=for-the-badge&labelColor=0A0A0B&logo=github&logoColor=white&v=20260719" alt="2026 STL live" /></a>
+<a href="https://github.com/SYLESH-1125/SYLESH-1125/blob/metrics-output/skyline-2026.stl"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/stl-2026-live.svg" alt="2026 STL live" /></a>
 
 <br/>
 <sub>Click a tile to open GitHub's native 3D viewer — spin it, zoom it, download the .stl to 3D print. Regenerated nightly by <code>.github/workflows/metrics-visuals.yml</code>.</sub>
@@ -285,11 +285,11 @@ The same contribution history, reimagined as a drivable procedural city — dens
 <br/>
 
 <b>🚗 Drive through:</b>
-<a href="https://honzaap.github.io/GithubCity?name=SYLESH-1125&year=2024"><img src="https://img.shields.io/badge/2024-CITY-D4AF37?style=for-the-badge&labelColor=0A0A0B&logo=github&logoColor=white&v=20260719" alt="2024 city" /></a>
+<a href="https://honzaap.github.io/GithubCity?name=SYLESH-1125&year=2024"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/city-2024.svg" alt="2024 city" /></a>
 &nbsp;
-<a href="https://honzaap.github.io/GithubCity?name=SYLESH-1125&year=2025"><img src="https://img.shields.io/badge/2025-CITY-D4AF37?style=for-the-badge&labelColor=0A0A0B&logo=github&logoColor=white&v=20260719" alt="2025 city" /></a>
+<a href="https://honzaap.github.io/GithubCity?name=SYLESH-1125&year=2025"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/city-2025.svg" alt="2025 city" /></a>
 &nbsp;
-<a href="https://honzaap.github.io/GithubCity?name=SYLESH-1125&year=2026"><img src="https://img.shields.io/badge/2026-CITY_LIVE-D4AF37?style=for-the-badge&labelColor=0A0A0B&logo=github&logoColor=white&v=20260719" alt="2026 city live" /></a>
+<a href="https://honzaap.github.io/GithubCity?name=SYLESH-1125&year=2026"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/city-2026-live.svg" alt="2026 city live" /></a>
 
 <br/>
 <sub>Screenshots regenerated nightly by <code>.github/workflows/metrics-visuals.yml</code>, powered by honzaap.github.io/GithubCity — an independent open-source visualizer, not affiliated with GitHub.</sub>
@@ -368,7 +368,7 @@ The same contribution history, reimagined as a drivable procedural city — dens
 
 <br/>
 
-<a href="https://github.com/SYLESH-1125?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-ALL_REPOSITORIES-D4AF37?style=for-the-badge&labelColor=0A0A0B&logo=github&logoColor=white&v=20260719" alt="Explore all repositories" /></a>
+<a href="https://github.com/SYLESH-1125?tab=repositories"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/explore-all-repos.svg" alt="Explore all repositories" /></a>
 
 </div>
 
@@ -400,7 +400,7 @@ The same contribution history, reimagined as a drivable procedural city — dens
 
 <div align="center">
 
-<a href="https://leetcode.com/u/SYLESH_/"><img src="https://img.shields.io/badge/LeetCode-KNIGHT_TOP_4.39%25-D4AF37?style=for-the-badge&labelColor=0A0A0B&logo=leetcode&logoColor=white&v=20260719" alt="LeetCode" /></a> — 1000+ problems solved, max contest rating 2000, 223+ active days
+<a href="https://leetcode.com/u/SYLESH_/"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/leetcode-knight.svg" alt="LeetCode" /></a> — 1000+ problems solved, max contest rating 2000, 223+ active days
 
 <br/><br/>
 
@@ -422,13 +422,13 @@ The same contribution history, reimagined as a drivable procedural city — dens
 
 <div align="center">
 
-<a href="https://github.com/SYLESH-1125/CRIMEGPT"><img src="https://img.shields.io/badge/CRIMEGPT-LEGAL_AI-D4AF37?style=for-the-badge&labelColor=0A0A0B&logo=github&logoColor=white&v=20260719" alt="CRIMEGPT" /></a>
+<a href="https://github.com/SYLESH-1125/CRIMEGPT"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/crimegpt-legal.svg" alt="CRIMEGPT" /></a>
 &nbsp;
-<a href="https://github.com/SYLESH-1125/SYLEDUTECH"><img src="https://img.shields.io/badge/SYLEDUTECH-EDUMITE-D4AF37?style=for-the-badge&labelColor=0A0A0B&logo=github&logoColor=white&v=20260719" alt="SYLEDUTECH" /></a>
+<a href="https://github.com/SYLESH-1125/SYLEDUTECH"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/syledutech-os.svg" alt="SYLEDUTECH" /></a>
 &nbsp;
-<a href="https://github.com/SYLESH-1125/csic-backend"><img src="https://img.shields.io/badge/csic--backend-FORENSIC_AI-D4AF37?style=for-the-badge&labelColor=0A0A0B&logo=github&logoColor=white&v=20260719" alt="csic-backend" /></a>
+<a href="https://github.com/SYLESH-1125/csic-backend"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/csic-backend-os.svg" alt="csic-backend" /></a>
 &nbsp;
-<a href="https://github.com/SYLESH-1125/Basic-Projects"><img src="https://img.shields.io/badge/Basic--Projects-2_STARS-D4AF37?style=for-the-badge&labelColor=0A0A0B&logo=github&logoColor=white&v=20260719" alt="Basic-Projects" /></a>
+<a href="https://github.com/SYLESH-1125/Basic-Projects"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/basic-projects-os.svg" alt="Basic-Projects" /></a>
 
 <br/>
 
@@ -436,9 +436,9 @@ This profile README itself is open for anyone to fork under the MIT license belo
 
 <br/>
 
-<a href="https://github.com/SYLESH-1125?tab=repositories"><img src="https://img.shields.io/badge/BROWSE-MY_REPOSITORIES-D4AF37?style=for-the-badge&labelColor=0A0A0B&logo=github&logoColor=white&v=20260719" alt="Browse repositories" /></a>
+<a href="https://github.com/SYLESH-1125?tab=repositories"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/browse-repos.svg" alt="Browse repositories" /></a>
 &nbsp;
-<a href="LICENSE"><img src="https://img.shields.io/badge/README-LICENSE-D4AF37?style=for-the-badge&labelColor=0A0A0B&logo=github&logoColor=white&v=20260719" alt="License" /></a>
+<a href="LICENSE"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/readme-license.svg" alt="License" /></a>
 
 </div>
 
@@ -463,25 +463,25 @@ This profile README itself is open for anyone to fork under the MIT license belo
 
 <br/>
 
-<a href="mailto:sylesh1125@gmail.com"><img src="https://img.shields.io/badge/EMAIL-sylesh1125@gmail.com-D4AF37?style=for-the-badge&labelColor=0A0A0B&logo=gmail&logoColor=white&v=20260719" alt="Email" /></a>
+<a href="mailto:sylesh1125@gmail.com"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/email-address.svg" alt="Email" /></a>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/sylesh-pavendan-361a69328/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-D4AF37?style=for-the-badge&labelColor=0A0A0B&logo=linkedin&logoColor=white&v=20260719" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/sylesh-pavendan-361a69328/"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/linkedin-connect.svg" alt="LinkedIn" /></a>
 &nbsp;
-<a href="mailto:sylesh1125@gmail.com"><img src="https://img.shields.io/badge/EMAIL-REACH_OUT-D4AF37?style=for-the-badge&labelColor=0A0A0B&logo=gmail&logoColor=white&v=20260719" alt="Email" /></a>
+<a href="mailto:sylesh1125@gmail.com"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/email-reach-out.svg" alt="Email" /></a>
 &nbsp;
-<a href="https://github.com/SYLESH-1125"><img src="https://img.shields.io/badge/GITHUB-@SYLESH--1125-D4AF37?style=for-the-badge&labelColor=0A0A0B&logo=github&logoColor=white&v=20260719" alt="GitHub" /></a>
+<a href="https://github.com/SYLESH-1125"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/github-profile.svg" alt="GitHub" /></a>
 &nbsp;
-<a href="https://instagram.com/syl._.star"><img src="https://img.shields.io/badge/INSTAGRAM-syl._.star-D4AF37?style=for-the-badge&labelColor=0A0A0B&logo=instagram&logoColor=white&v=20260719" alt="Instagram" /></a>
+<a href="https://instagram.com/syl._.star"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/instagram-profile.svg" alt="Instagram" /></a>
 
 <br/><br/>
 
-<sub>Designed and engineered by <b>Sylesh Pavendan</b> · Luxury Black &amp; Royal Gold, v7.4</sub>
+<sub>Designed and engineered by <b>Sylesh Pavendan</b> · Luxury Black &amp; Royal Gold, v7.5</sub>
 
 <br/><br/>
 
-<a href="#top"><img src="https://img.shields.io/badge/BACK-TO_TOP-D4AF37?style=for-the-badge&labelColor=0A0A0B&logo=arrow-up&logoColor=white&v=20260719" alt="Back to top" /></a>
+<a href="#top"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/back-to-top.svg" alt="Back to top" /></a>
 
 </div>
 

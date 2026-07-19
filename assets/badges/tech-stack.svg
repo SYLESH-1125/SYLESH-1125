@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="126" height="24" role="img" aria-label="TECH STACK">
+  <rect width="126" height="24" rx="3" fill="#0A0A0B" stroke="#D4AF37" stroke-width="1"/>
+  <rect x="1" y="1" width="3" height="22" rx="1" fill="#D4AF37"/>
+  <text x="10" y="16" font-family="Segoe UI,Inter,sans-serif" font-size="9.5" font-weight="600" fill="#F2F1EC">TECH</text>
+  <text x="62.8" y="16" font-family="Segoe UI,Inter,sans-serif" font-size="9.5" font-weight="700" fill="#D4AF37">STACK</text>
+</svg>
