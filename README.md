@@ -1,5 +1,5 @@
 <!-- ============================================================= -->
-<!--  SYLESH PAVENDAN · LUXURY BLACK & ROYAL GOLD PORTFOLIO · v7.1 -->
+<!--  SYLESH PAVENDAN · LUXURY BLACK & ROYAL GOLD PORTFOLIO · v7.2 -->
 <!--  Theme  → Black #0A0A0B · Charcoal #17171A · Royal Gold      -->
 <!--           #D4AF37 · Amber #E8A33D · Soft White #F2F1EC ·     -->
 <!--           tiny orange accent #FF6B35. Minimal, no neon.      -->
@@ -14,6 +14,16 @@
 
 <div align="center">
 
+<a href="https://github.com/SYLESH-1125">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0B,100:D4AF37&height=260&section=header&text=Sylesh%20Pavendan&fontSize=68&fontColor=F2F1EC&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20AI%2FML%20Engineer%20%C2%B7%20Team%20DYNAMITE&descAlignY=58&descSize=18&descColor=D4AF37" width="100%" alt="Sylesh Pavendan — Full-Stack Developer and AI/ML Engineer" />
+</a>
+
+<p align="center">
+  <a href="https://github.com/SYLESH-1125" aria-label="GitHub profile">
+    <img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/clone-github-icon.svg" width="140" height="140" alt="GitHub @SYLESH-1125 — color-pulsing brand identifier" />
+  </a>
+</p>
+
 <img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/hero-banner.svg" width="100%" alt="Sylesh Pavendan — Full-Stack Developer and AI/ML Engineer, premium hero banner" />
 
 <br/><br/>
@@ -27,6 +37,10 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=SYLESH-1125&label=Profile+Views&color=D4AF37&style=flat-square" alt="Profile view counter" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/SYLESH-1125?label=Followers&style=flat-square&color=D4AF37&logo=github&logoColor=white" alt="GitHub followers" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/SYLESH-1125?affiliations=OWNER&label=Total%20Stars&style=flat-square&color=D4AF37&logo=github&logoColor=white" alt="Total stars" />
 
 </div>
 
@@ -45,6 +59,20 @@
 <!-- ░░░░░░░░░░░░░░░░░░  2 · ABOUT  ░░░░░░░░░░░░░░░░░░ -->
 <a id="about"></a>
 ## About
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/clone-motto-typing.svg" width="100%" alt="Rotating motto ticker — curious, stubborn, useful before clever" />
+</div>
+
+<br/>
+
+<div align="center">
+<a href="https://github.com/SYLESH-1125">
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/clone-about-hero.svg" width="100%" alt="Sylesh Pavendan — editorial profile banner, currently shipping four builds this week" />
+</a>
+</div>
+
+<br/>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/figure-3d.svg" height="220" alt="3D standing developer avatar" />
@@ -104,6 +132,12 @@ Designed and built a hospital management system (Flutter + React) to streamline 
 <a id="now-building"></a>
 ## Now Building
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/clone-current-focus.svg" width="100%" alt="Six current-focus tiles: Agentic AI at Cognizant, AI Forensic Platform, CrimeGPT, ASI-Gen, EDUMITE, and Competitive Programming, each with tags and a live status badge" />
+</div>
+
+<br/>
+
 🟢&nbsp; **Agentic AI & DevOps automation @ Cognizant** — SLMs, DeepAgents, LLM orchestration for deployment pipelines
 
 🟢&nbsp; **[Cryptographically Enforced AI Forensic Platform](https://github.com/SYLESH-1125/csic-backend)** — JIT tokens, DuckDB analytics, GDPR-safe anomaly detection
@@ -124,7 +158,7 @@ Designed and built a hospital management system (Flutter + React) to streamline 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/tech-orbit-premium.svg" width="440" alt="Premium technology orbit — React, Next.js, FastAPI, Node.js, TypeScript, Python at the core; AWS, Docker, Flutter, MongoDB, Postgres, LangChain, RAG, PyTorch orbiting outside" />
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/clone-about-orbit.svg" width="100%" alt="28 technologies orbiting in active rotation — Python, Java, C++, React, Next.js, TypeScript, FastAPI, Node.js, Flutter, Firebase, MongoDB, Postgres, Redis, AWS, Docker, Kubernetes, GitHub Actions, Nginx, Vercel, Git, Linux, PyTorch, LangChain, RAG, GenAI, Jupyter, Tailwind, CI" />
 
 <br/>
 <sub>Core stack orbiting a central identity — full breakdown in Skill Cards below</sub>
@@ -139,9 +173,25 @@ Designed and built a hospital management system (Flutter + React) to streamline 
 <a id="skills"></a>
 ## Skill Cards
 
+<p align="center">
+  <i>Production-grade tools for production-grade systems.</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SYLESH-1125">
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,react,nextjs,nodejs,typescript,js,fastapi,flutter,firebase,mongodb,postgres,redis,aws,docker,kubernetes,githubactions,nginx,vercel,git,github,linux,bash,pytorch,tensorflow,sklearn,numpy,pandas,jupyter&perline=15" alt="Full tech stack" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/clone-about-typing.svg" alt="Terminal animation: whoami, cat about.py, git status, deploy scripts across my real projects" />
+</div>
+
+<br/>
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/skill-cards-premium.svg" width="100%" alt="Six premium skill cards — Backend, Frontend, AI and Machine Learning, Cloud and DevOps, Databases, Programming Languages — each with tools, years, project count, and mastery level" />
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/clone-tech-cards.svg" width="100%" alt="Six premium skill cards — Backend, Frontend, AI and Machine Learning, Databases, Cloud and DevOps, Programming Languages — each with tools, years, project count, and mastery level" />
 
 </div>
 
@@ -227,7 +277,7 @@ The same contribution history, reimagined as a drivable procedural city — dens
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/yearly-journey-premium.svg" width="100%" alt="Yearly journey cards 2024 to 2026 — First Steps at CIT and BetShow, Shipping and Scaling with Reach Skyline, Agentic AI and DevOps at Cognizant, and the Team DYNAMITE hackathon circuit" />
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/clone-yearly-highlights.svg" width="100%" alt="Yearly journey cards 2024 to 2026 — Foundation at CIT, Growth through internships at BetShow and Reach Skyline, Shipping Agentic AI at Cognizant, and What's Next in Cloud and Open Source" />
 
 </div>
 
@@ -383,10 +433,14 @@ This profile README itself is open for anyone to fork under the MIT license belo
 
 <br/><br/>
 
-<sub>Designed and engineered by <b>Sylesh Pavendan</b> · Luxury Black &amp; Royal Gold, v7.1</sub>
+<sub>Designed and engineered by <b>Sylesh Pavendan</b> · Luxury Black &amp; Royal Gold, v7.2</sub>
 
 <br/><br/>
 
 **[Back to Top ↑](#top)**
 
 </div>
+
+<a href="#top">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,100:0A0A0B&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=38&fontColor=0A0A0B&animation=twinkling&fontAlignY=70&desc=Let's%20build%20something%20great%20together&descAlignY=92&descSize=14&descColor=17171A" width="100%" alt="Thanks for visiting" />
+</a>
