@@ -404,13 +404,13 @@ The same contribution history, reimagined as a drivable procedural city — dens
 <div align="center">
 
 <table align="center" width="100%"><tr>
+<td width="33%" align="center"><a href="https://github.com/SYLESH-1125/csic-backend"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/featured/csic-backend.svg" width="100%" alt="csic-backend" /></a></td>
+<td width="33%" align="center"><a href="https://github.com/SYLESH-1125/CRIMEGPT"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/featured/crimegpt.svg" width="100%" alt="CrimeGPT" /></a></td>
+<td width="33%" align="center"><a href="https://github.com/SYLESH-1125/bharatstat"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/featured/bharatstat.svg" width="100%" alt="ASI-Gen" /></a></td>
+</tr><tr>
+<td width="33%" align="center"><a href="https://github.com/SYLESH-1125/SYLEDUTECH"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/featured/syledutech.svg" width="100%" alt="EDUMITE" /></a></td>
 <td width="33%" align="center"><a href="https://github.com/SYLESH-1125/AGENT_SMSACLAW"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/featured/agent-smsaclaw.svg" width="100%" alt="PM Bridge" /></a></td>
 <td width="33%" align="center"><a href="https://github.com/SYLESH-1125/ISL_System"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/featured/isl-system.svg" width="100%" alt="ISL System" /></a></td>
-<td width="33%" align="center"><a href="https://github.com/SYLESH-1125/GRAPH_RAG"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/featured/graph-rag.svg" width="100%" alt="Graph RAG" /></a></td>
-</tr><tr>
-<td width="33%" align="center"><a href="https://github.com/SYLESH-1125/Linked-In-scrapper"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/featured/linkedin-scrapper.svg" width="100%" alt="LinkedIn Scraper" /></a></td>
-<td width="33%" align="center"><a href="https://github.com/SYLESH-1125/ALL_IN_ONE_STUDENT"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/featured/all-in-one-student.svg" width="100%" alt="All-in-One Student" /></a></td>
-<td width="33%" align="center"><a href="https://github.com/SYLESH-1125/DEEP-FAKE-BOT"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/featured/dynamite-suite.svg" width="100%" alt="DYNAMITE Suite" /></a></td>
 </tr></table>
 
 <br/>
