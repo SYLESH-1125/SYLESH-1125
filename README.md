@@ -1,5 +1,5 @@
 <!-- ============================================================= -->
-<!--  SYLESH PAVENDAN · LUXURY BLACK & ROYAL GOLD PORTFOLIO · v8.1 -->
+<!--  SYLESH PAVENDAN · LUXURY BLACK & ROYAL GOLD PORTFOLIO · v8.2 -->
 <!--  Theme  → Black #0A0A0B · Charcoal #17171A · Royal Gold      -->
 <!--           #D4AF37 · Amber #E8A33D · Soft White #F2F1EC ·     -->
 <!--           tiny orange accent #FF6B35. Minimal, no neon.      -->
@@ -28,7 +28,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=20&pause=1000&color=D4AF37&center=true&vCenter=true&width=760&height=44&lines=Agentic+AI+Developer+%C2%B7+Building+for+Govt+of+India;4+Ministries+%C2%B7+35%2B+Projects+%C2%B7+Agentic+AI+%26+Cloud;3%C3%97+Hackathon+Winner+%C2%B7+25%2B+Finalist;LeetCode+Knight+%E2%80%94+Top+4.39%25+Globally" alt="Animated rotating subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=20&pause=1000&color=D4AF37&center=true&vCenter=true&width=920&height=44&lines=Agentic+AI+Developer+%C2%B7+Building+for+Govt+of+India;4+Ministries+%C2%B7+35%2B+Projects+%C2%B7+Agentic+AI+%26+Cloud;3%C3%97+Hackathon+Winner+%C2%B7+25%2B+Finalist;LeetCode+Knight+%E2%80%94+Top+4.39%25+Globally" alt="Animated rotating subtitle" />
 
 <br/><br/>
 
@@ -90,29 +90,33 @@
 
 <br/>
 
+<div align="left">
+
 Hi, I'm **Sylesh Pavendan**, a Computer Science Engineering student at **Chennai Institute of Technology** and an **Agentic AI Developer & Full-Stack Engineer** passionate about building technology that creates real-world impact.
 
 What started as building college projects has evolved into developing AI-driven solutions for **Government Ministries**, national hackathons, and real-world applications.
 
-### 🏆 Highlights
-- 🏆 **3× Hackathon Winner** & **25+ Hackathon Finalist**
-- 🏛️ Worked with **4 Government Ministries** through national innovation challenges
-- 🥈 **Runner-Up at MOSPI Statathon 2025-26 (PS-4)** among 8,000+ projects — **₹1 Lakh** Government grant
-- 🏅 **Ranked 4th Nationally at CSIC 1.0** among 5,000+ projects — **₹50K** Government funding
-- 🚀 Built **35+ projects** across AI, Full-Stack, and Intelligent Automation
+**Team DYNAMITE Lead** — led the team to **30+ hackathon finals** and **6 national wins** across Statathon, CSIC, MP Hyderabad, and more.
 
-### 💻 Competitive Programming
+#### Highlights
+- **3× Hackathon Winner** and **25+ Hackathon Finalist**
+- Worked with **4 Government Ministries** through national innovation challenges
+- **Runner-Up at MOSPI Statathon 2025-26 (PS-4)** among 8,000+ projects — **₹1 Lakh** Government grant
+- **Ranked 4th Nationally at CSIC 1.0** among 5,000+ projects — **₹50K** Government funding
+- Built **35+ projects** across AI, Full-Stack, and Intelligent Automation
+
+#### Competitive Programming
 - Solved **1000+ LeetCode** problems · Max Contest Rating **2000 (Knight)**
 - **Top 4.39%** globally with **223+** active days
 - Active on **Codeforces**, **CodeChef**, and **SkillRack**
 
-### ⚡ Skills & Interests
-- 🤖 **Agentic AI**, Generative AI, LLMs, SLMs, RAG, LangGraph, Multi-Agent Systems
-- 📱 **Full-Stack**: Flutter, React, Next.js, Express.js, FastAPI, Node.js
-- ☁️ **Cloud & DevOps**: AWS, Azure, GCP, Docker, Kubernetes, GitHub Actions, Azure DevOps
-- 🗄️ **Databases**: PostgreSQL, MongoDB, Firebase, MySQL, Cassandra, DuckDB, Supabase
-- 📊 **AI & ML**: Machine Learning, NLP, Computer Vision, Intelligent Automation, DeepAgents
-- 🏗️ **System Design**: Microservices, Kafka, Redis, API Design, HLD & LLD
+#### Skills & Interests
+- **Agentic AI** — Generative AI, LLMs, SLMs, RAG, LangGraph, Multi-Agent Systems
+- **Full-Stack** — Flutter, React, Next.js, Express.js, FastAPI, Node.js
+- **Cloud & DevOps** — AWS, Azure, GCP, Docker, Kubernetes, GitHub Actions, Azure DevOps
+- **Databases** — PostgreSQL, MongoDB, Firebase, MySQL, Cassandra, DuckDB, Supabase
+- **AI & ML** — Machine Learning, NLP, Computer Vision, Intelligent Automation, DeepAgents
+- **System Design** — Microservices, Kafka, Redis, API Design, HLD & LLD
 
 Over the years, I've built intelligent tutoring systems, forensic intelligence platforms, healthcare solutions, and AI-driven statistical data processing systems for government use cases.
 
@@ -124,6 +128,8 @@ I strongly believe that technology becomes meaningful when it solves real proble
 
 Always open to discussions on **AI**, **Software Engineering**, **System Design**, **Competitive Programming**, and building impactful products. **Feel free to connect!**
 
+</div>
+
 <br/>
 
 <div align="center">
@@ -134,14 +140,21 @@ Always open to discussions on **AI**, **Software Engineering**, **System Design*
 
 <img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/headers/experience.svg" width="100%" alt="" />
 
-**Cognizant Technology Solutions** — Agentic AI & DevOps Intern &nbsp;·&nbsp; *Apr 2026 – Sep 2026*
-Building scalable Agentic AI applications using SLMs, DeepAgents, and LLM orchestration for DevOps pipelines; designing automation agents that improved deployment reliability and cut operational overhead.
+<div align="left">
 
-**Reach Skyline** — Full-Stack & AI Engineer Intern &nbsp;·&nbsp; *Nov 2025 – Dec 2025*
-Delivered a full-stack business platform integrating React/Node services with AI/ML models for data-driven operational decisions; architected scalable APIs and frontends across core business modules.
+<p><strong style="color:#D4AF37">Cognizant Technology Solutions</strong><br/>
+<em>Agentic AI &amp; DevOps Intern</em> · Apr 2026 – Sep 2026</p>
+<p>Building scalable Agentic AI applications using SLMs, DeepAgents, and LLM orchestration for DevOps pipelines; designing automation agents that improved deployment reliability and cut operational overhead.</p>
 
-**BetShow Technologies** — Full-Stack App & Web Developer &nbsp;·&nbsp; *Nov 2024 – Jun 2025*
-Designed and built a hospital management system (Flutter + React) to streamline patient flow and appointment booking, with real-time tracking for patients, doctors, and staff.
+<p><strong style="color:#D4AF37">Reach Skyline</strong><br/>
+<em>Full-Stack &amp; AI Engineer Intern</em> · Nov 2025 – Dec 2025</p>
+<p>Delivered a full-stack business platform integrating React/Node services with AI/ML models for data-driven operational decisions; architected scalable APIs and frontends across core business modules.</p>
+
+<p><strong style="color:#D4AF37">BetShow Technologies</strong><br/>
+<em>Full-Stack App &amp; Web Developer</em> · Nov 2024 – Jun 2025</p>
+<p>Designed and built a hospital management system (Flutter + React) for Apollo Hospitals POC — streamlining patient flow, appointment booking, and real-time tracking for patients, doctors, and staff.</p>
+
+</div>
 
 <br/>
 <img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/divider.svg" width="100%" alt="" />
@@ -157,8 +170,8 @@ Designed and built a hospital management system (Flutter + React) to streamline 
 
 <br/>
 
-<table align="center" width="100%"><tr>
-<td align="left" valign="middle">🟢&nbsp; <a href="https://github.com/SYLESH-1125/csic-backend"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/ai-forensic-platform.svg" alt="csic-backend" /></a></td>
+<table align="left" width="100%"><colgroup><col width="300"/><col/></colgroup><tr>
+<td align="left" valign="middle" width="300">🟢&nbsp; <a href="https://github.com/SYLESH-1125/csic-backend"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/ai-forensic-platform.svg" alt="csic-backend" /></a></td>
 <td align="left">JIT tokens, DuckDB analytics, GDPR-safe anomaly detection</td>
 </tr><tr>
 <td align="left" valign="middle">🟢&nbsp; <a href="https://github.com/SYLESH-1125/CRIMEGPT"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/crimegpt-legal.svg" alt="CrimeGPT" /></a></td>
@@ -246,13 +259,13 @@ Designed and built a hospital management system (Flutter + React) to streamline 
 <a id="skyline"></a>
 <img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/headers/skyline.svg" width="100%" alt="" />
 
-<div align="center">
+<div align="left">
 
 A 3D-printable model of my contribution history, built by the official <code>gh-skyline</code> CLI from the real GitHub contributions API — each tower is a month, each height is how much I shipped.
 
 <br/>
 
-<table align="center" width="100%">
+<table align="left" width="100%">
 <tr><td colspan="3" align="center">
 <a href="https://github.com/SYLESH-1125/SYLESH-1125/blob/metrics-output/skyline-2026.stl"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/skyline-2026.svg" width="100%" alt="SYLESH-1125 contribution skyline 2026"></a>
 <p><b>2026 <sub>(live)</sub></b></p>
@@ -266,12 +279,12 @@ A 3D-printable model of my contribution history, built by the official <code>gh-
 
 <br/>
 
-<b>📐 Spin a 3D model:</b>
+<table align="left"><tr>
+<td align="left"><b>📐 Spin a 3D model:</b>&nbsp;
 <a href="https://github.com/SYLESH-1125/SYLESH-1125/blob/metrics-output/skyline-2024.stl"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/stl-2024.svg" alt="2024 STL" /></a>
-&nbsp;
 <a href="https://github.com/SYLESH-1125/SYLESH-1125/blob/metrics-output/skyline-2025.stl"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/stl-2025.svg" alt="2025 STL" /></a>
-&nbsp;
-<a href="https://github.com/SYLESH-1125/SYLESH-1125/blob/metrics-output/skyline-2026.stl"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/stl-2026-live.svg" alt="2026 STL live" /></a>
+<a href="https://github.com/SYLESH-1125/SYLESH-1125/blob/metrics-output/skyline-2026.stl"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/stl-2026-live.svg" alt="2026 STL live" /></a></td>
+</tr></table>
 
 <br/>
 <sub>Click a tile to open GitHub's native 3D viewer — spin it, zoom it, download the .stl to 3D print. Regenerated nightly by <code>.github/workflows/metrics-visuals.yml</code>.</sub>
@@ -286,13 +299,13 @@ A 3D-printable model of my contribution history, built by the official <code>gh-
 <a id="city"></a>
 <img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/headers/city.svg" width="100%" alt="" />
 
-<div align="center">
+<div align="left">
 
 The same contribution history, reimagined as a drivable procedural city — denser districts mean busier months. Each tile below is a real, automated screenshot of the live visualizer, not an illustration.
 
 <br/>
 
-<table align="center" width="100%">
+<table align="left" width="100%">
 <tr><td colspan="3" align="center">
 <a href="https://honzaap.github.io/GithubCity?name=SYLESH-1125&year=2026"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/metrics-output/github-metrics-city-2026.svg" width="100%" alt="GitHub City 2026 — live screenshot"></a>
 <p><b>2026 <sub>(live)</sub></b></p>
@@ -306,12 +319,12 @@ The same contribution history, reimagined as a drivable procedural city — dens
 
 <br/>
 
-<b>🚗 Drive through:</b>
+<table align="left"><tr>
+<td align="left"><b>🚗 Drive through:</b>&nbsp;
 <a href="https://honzaap.github.io/GithubCity?name=SYLESH-1125&year=2024"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/city-2024.svg" alt="2024 city" /></a>
-&nbsp;
 <a href="https://honzaap.github.io/GithubCity?name=SYLESH-1125&year=2025"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/city-2025.svg" alt="2025 city" /></a>
-&nbsp;
-<a href="https://honzaap.github.io/GithubCity?name=SYLESH-1125&year=2026"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/city-2026-live.svg" alt="2026 city live" /></a>
+<a href="https://honzaap.github.io/GithubCity?name=SYLESH-1125&year=2026"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/city-2026-live.svg" alt="2026 city live" /></a></td>
+</tr></table>
 
 <br/>
 <sub>Screenshots regenerated nightly by <code>.github/workflows/metrics-visuals.yml</code>, powered by honzaap.github.io/GithubCity — an independent open-source visualizer, not affiliated with GitHub.</sub>
@@ -390,7 +403,29 @@ The same contribution history, reimagined as a drivable procedural city — dens
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/featured-projects-premium.svg" width="100%" alt="Four premium project cards: Cryptographically Enforced AI Forensic Intelligence Platform, CrimeGPT AI Legal Intelligence and Case Management, ASI-Gen Agentic Statistical Report Generation System, EDUMITE Adaptive AI Tutoring" />
+<table align="center" width="100%"><tr>
+<td width="50%" align="center"><a href="https://github.com/SYLESH-1125/csic-backend"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/featured/csic-backend.svg" width="100%" alt="csic-backend" /></a></td>
+<td width="50%" align="center"><a href="https://github.com/SYLESH-1125/CRIMEGPT"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/featured/crimegpt.svg" width="100%" alt="CrimeGPT" /></a></td>
+</tr><tr>
+<td width="50%" align="center"><a href="https://github.com/SYLESH-1125/bharatstat"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/featured/bharatstat.svg" width="100%" alt="ASI-Gen" /></a></td>
+<td width="50%" align="center"><a href="https://github.com/SYLESH-1125/SYLEDUTECH"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/featured/syledutech.svg" width="100%" alt="EDUMITE" /></a></td>
+</tr></table>
+
+<br/>
+
+<sub>More flagship builds from my repos</sub>
+
+<br/><br/>
+
+<table align="center" width="100%"><tr>
+<td width="33%" align="center"><a href="https://github.com/SYLESH-1125/BetShoow"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/featured/betshoow.svg" width="100%" alt="BetShoow" /></a></td>
+<td width="33%" align="center"><a href="https://github.com/SYLESH-1125/Disaster-Management-Application"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/featured/disaster-app.svg" width="100%" alt="Disaster Management" /></a></td>
+<td width="33%" align="center"><a href="https://github.com/SYLESH-1125/Legal-CHATBOT"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/featured/legal-chatbot.svg" width="100%" alt="Legal-CHATBOT" /></a></td>
+</tr><tr>
+<td width="33%" align="center"><a href="https://github.com/SYLESH-1125/CTS_RAG"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/featured/cts-rag.svg" width="100%" alt="CTS_RAG" /></a></td>
+<td width="33%" align="center"><a href="https://github.com/SYLESH-1125/Disaster_Management_H2Skills"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/featured/disaster-h2.svg" width="100%" alt="H2Skills Disaster" /></a></td>
+<td width="33%" align="center"></td>
+</tr></table>
 
 <br/>
 
@@ -410,11 +445,12 @@ The same contribution history, reimagined as a drivable procedural city — dens
 
 <div align="center">
 
-<table align="center"><tr>
-<td align="center" valign="middle"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/trophy-3d.svg" width="220" alt="3× National Hackathon Winner — golden trophy" /></td>
+<table align="center" width="100%"><tr>
+<td width="200" align="center" valign="middle"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/trophy-3d.svg" width="180" alt="3x National Hackathon Winner trophy" /></td>
 <td align="left" valign="middle">
 <b>3× National Hackathon Winner</b><br/>
-<sub>Team DYNAMITE — Statathon · CSIC · MP Hyderabad circuit</sub>
+<b>Team DYNAMITE Lead</b> — led the team to <b>30+ hackathon finals</b> and <b>6 national wins</b><br/>
+<sub>Statathon · CSIC Top 4 · MP Hyderabad · CYBERHACKATHON · SUVIDHA</sub>
 </td>
 </tr></table>
 
@@ -483,16 +519,16 @@ The same contribution history, reimagined as a drivable procedural city — dens
 
 <br/>
 
-<table align="center"><tr>
-<td align="center"><a href="https://www.linkedin.com/in/sylesh-pavendan-361a69328/"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/linkedin-connect.svg" alt="LinkedIn" /></a></td>
-<td align="center"><a href="mailto:sylesh1125@gmail.com"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/email-reach-out.svg" alt="Email" /></a></td>
-<td align="center"><a href="https://github.com/SYLESH-1125"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/github-profile.svg" alt="GitHub" /></a></td>
-<td align="center"><a href="https://instagram.com/syl._.star"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/instagram-profile.svg" alt="Instagram" /></a></td>
+<table align="center" width="100%"><tr>
+<td width="25%" align="center"><a href="https://www.linkedin.com/in/sylesh-pavendan-361a69328/"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/linkedin-connect.svg" alt="LinkedIn" /></a></td>
+<td width="25%" align="center"><a href="mailto:sylesh1125@gmail.com"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/email-reach-out.svg" alt="Email" /></a></td>
+<td width="25%" align="center"><a href="https://github.com/SYLESH-1125"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/github-profile.svg" alt="GitHub" /></a></td>
+<td width="25%" align="center"><a href="https://instagram.com/syl._.star"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/instagram-profile.svg" alt="Instagram" /></a></td>
 </tr></table>
 
 <br/><br/>
 
-<sub>Designed and engineered by <b>Sylesh Pavendan</b> · Luxury Black &amp; Royal Gold, v8.1</sub>
+<sub>Designed and engineered by <b>Sylesh Pavendan</b> · Luxury Black &amp; Royal Gold, v8.2</sub>
 
 <br/><br/>
 

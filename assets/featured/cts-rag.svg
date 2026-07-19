@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="200" viewBox="0 0 480 200" role="img" aria-label="CTS_RAG">
+  <rect width="480" height="200" rx="14" fill="#17171A" stroke="#2A2410"/>
+  <rect width="480" height="5" rx="2" fill="#D4AF37"/>
+  <text x="20" y="32" font-size="22">🔗</text>
+  <text x="52" y="34" font-size="16" font-weight="800" fill="#F2F1EC">CTS_RAG</text>
+  <text x="20" y="52" font-size="11" font-weight="700" fill="#8A8A8F">Enterprise RAG Pipeline</text>
+  <text x="20" y="68" font-size="11" fill="#B8B8BC">Retrieval-augmented generation stack for</text><text x="20" y="84" font-size="11" fill="#B8B8BC">structured document intelligence.</text>
+  <g><rect x="20" y="118" width="52" height="22" rx="11" fill="#D4AF37"/><text x="46.0" y="133" text-anchor="middle" font-size="10" font-weight="700" fill="#141210">RAG</text><rect x="80" y="118" width="66" height="22" rx="11" fill="#D4AF37"/><text x="113.0" y="133" text-anchor="middle" font-size="10" font-weight="700" fill="#141210">Python</text><rect x="154" y="118" width="52" height="22" rx="11" fill="#D4AF37"/><text x="180.0" y="133" text-anchor="middle" font-size="10" font-weight="700" fill="#141210">LLM</text></g>
+  <text x="20" y="158" font-size="10" font-weight="700" fill="#E8A33D">HIGHLIGHT</text>
+  <text x="20" y="174" font-size="11" fill="#F2F1EC">Production RAG architecture</text>
+  <text x="20" y="188" font-size="10" font-weight="700" fill="#8A8A8F">github.com/SYLESH-1125/CTS_RAG</text>
+</svg>

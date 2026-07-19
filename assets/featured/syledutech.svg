@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="200" viewBox="0 0 480 200" role="img" aria-label="EDUMITE">
+  <rect width="480" height="200" rx="14" fill="#17171A" stroke="#2A2410"/>
+  <rect width="480" height="5" rx="2" fill="#D4AF37"/>
+  <text x="20" y="32" font-size="22">🎓</text>
+  <text x="52" y="34" font-size="16" font-weight="800" fill="#F2F1EC">EDUMITE</text>
+  <text x="20" y="52" font-size="11" font-weight="700" fill="#8A8A8F">AI Learning Ecosystem</text>
+  <text x="20" y="68" font-size="11" fill="#B8B8BC">Gemini tutor, 3D sign-language avatars,</text><text x="20" y="84" font-size="11" fill="#B8B8BC">gamified paths, 30+ integrated features.</text>
+  <g><rect x="20" y="118" width="52" height="22" rx="11" fill="#D4AF37"/><text x="46.0" y="133" text-anchor="middle" font-size="10" font-weight="700" fill="#141210">LLM</text><rect x="80" y="118" width="52" height="22" rx="11" fill="#D4AF37"/><text x="106.0" y="133" text-anchor="middle" font-size="10" font-weight="700" fill="#141210">NLP</text><rect x="140" y="118" width="59" height="22" rx="11" fill="#D4AF37"/><text x="169.5" y="133" text-anchor="middle" font-size="10" font-weight="700" fill="#141210">React</text></g>
+  <text x="20" y="158" font-size="10" font-weight="700" fill="#E8A33D">HIGHLIGHT</text>
+  <text x="20" y="174" font-size="11" fill="#F2F1EC">850+ ISL signs · WCAG AA</text>
+  <text x="20" y="188" font-size="10" font-weight="700" fill="#8A8A8F">github.com/SYLESH-1125/SYLEDUTECH</text>
+</svg>

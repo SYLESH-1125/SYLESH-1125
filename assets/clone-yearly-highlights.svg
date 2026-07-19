@@ -8,10 +8,10 @@
     .t-headline    { font-family: 'Inter','SF Pro Display','Segoe UI',sans-serif; font-weight: 800; font-size: 26px; letter-spacing: -0.01em; fill: #FFFFFF; }
     .t-highlight   { font-family: 'Inter','SF Pro Display','Segoe UI',sans-serif; font-weight: 500; font-size: 15px; fill: #F2F1EC; }
     .t-bullet      { font-family: 'JetBrains Mono','SF Mono',Consolas,monospace; font-weight: 700; font-size: 17px; }
-    .t-stat-num    { font-family: 'JetBrains Mono','SF Mono',Consolas,monospace; font-weight: 700; font-size: 22px; }
-    .t-stat-num-sm { font-family: 'JetBrains Mono','SF Mono',Consolas,monospace; font-weight: 700; font-size: 16px; }
-    .t-stat-lbl    { font-family: 'Inter','SF Pro Display','Segoe UI',sans-serif; font-weight: 700; font-size: 11px; letter-spacing: 0.15em; text-transform: uppercase; fill: #8A8A8F; }
-    .t-stat-lbl-sm { font-family: 'Inter','SF Pro Display','Segoe UI',sans-serif; font-weight: 700; font-size: 9px;  letter-spacing: 0.10em; text-transform: uppercase; fill: #8A8A8F; }
+    .t-stat-num    { font-size: 20px; font-family: 'JetBrains Mono','SF Mono',Consolas,monospace; font-weight: 700; font-size: 22px; }
+    .t-stat-num-sm { font-size: 15px; font-family: 'JetBrains Mono','SF Mono',Consolas,monospace; font-weight: 700; font-size: 16px; }
+    .t-stat-lbl    { font-size: 10px; font-family: 'Inter','SF Pro Display','Segoe UI',sans-serif; font-weight: 700; font-size: 11px; letter-spacing: 0.15em; text-transform: uppercase; fill: #8A8A8F; }
+    .t-stat-lbl-sm { font-size: 9px; font-family: 'Inter','SF Pro Display','Segoe UI',sans-serif; font-weight: 700; font-size: 9px;  letter-spacing: 0.10em; text-transform: uppercase; fill: #8A8A8F; }
     .timeline-pulse { stroke-dasharray: 4 8; animation: tlflow 3s linear infinite; }
     @keyframes tlflow { to { stroke-dashoffset: -36; } }
     .marker-pulse { animation: markerPulse 2s ease-in-out infinite; transform-origin: center; transform-box: fill-box; }
@@ -95,12 +95,9 @@
     <text x="48"  y="300" class="t-highlight">projects across Python, Java, and</text>
     <text x="48"  y="320" class="t-highlight">web fundamentals.</text>
     <line x1="24" y1="388" x2="296" y2="388" stroke="#141210" stroke-width="1"/>
-    <text x="24"  y="422" class="t-stat-num" fill="#C9A24A">9.1</text>
-    <text x="24"  y="444" class="t-stat-lbl">CGPA /10</text>
-    <text x="114"  y="422" class="t-stat-num" fill="#C9A24A">POC</text>
-    <text x="114"  y="444" class="t-stat-lbl-sm">APOLLO HMS</text>
-    <text x="204"  y="424" class="t-stat-num-sm" fill="#C9A24A">BETSHOW</text>
-    <text x="204"  y="444" class="t-stat-lbl">START</text>
+    <text x="24"  y="418" class="t-stat-num" fill="#C9A24A" text-anchor="middle"><tspan x="54" dy="0">9.1</tspan><tspan x="54" dy="18" class="t-stat-lbl">CGPA /10</tspan></text>
+    <text x="114"  y="418" class="t-stat-num" fill="#C9A24A" text-anchor="middle"><tspan x="160" dy="0">POC</tspan><tspan x="160" dy="18" class="t-stat-lbl-sm">APOLLO HMS</tspan></text>
+    <text x="204"  y="418" class="t-stat-num-sm" fill="#C9A24A" text-anchor="middle"><tspan x="266" dy="0">BETSHOW</tspan><tspan x="266" dy="18" class="t-stat-lbl">INTERN START</tspan></text>
   </g>
   <g transform="translate(360, 230)" class="card-rise y1">
     <line x1="160" y1="0" x2="160" y2="-60" stroke="#D4AF37" stroke-width="1" stroke-opacity="0.5"/>
@@ -122,12 +119,9 @@
     <text x="48"  y="300" class="t-highlight">Internzo — structured problem-</text>
     <text x="48"  y="320" class="t-highlight">solving for peers.</text>
     <line x1="24" y1="388" x2="296" y2="388" stroke="#141210" stroke-width="1"/>
-    <text x="24"  y="422" class="t-stat-num" fill="#D4AF37">2×</text>
-    <text x="24"  y="444" class="t-stat-lbl">WINS · MP</text>
-    <text x="114"  y="422" class="t-stat-num" fill="#D4AF37">REACH</text>
-    <text x="114"  y="444" class="t-stat-lbl-sm">SKYLINE</text>
-    <text x="204"  y="422" class="t-stat-num" fill="#D4AF37">DSA</text>
-    <text x="204"  y="444" class="t-stat-lbl">INTERNZO</text>
+    <text x="24"  y="418" class="t-stat-num" fill="#D4AF37" text-anchor="middle"><tspan x="54" dy="0">2x</tspan><tspan x="54" dy="18" class="t-stat-lbl">WINS · MP</tspan></text>
+    <text x="114"  y="418" class="t-stat-num" fill="#D4AF37" text-anchor="middle"><tspan x="160" dy="0">REACH</tspan><tspan x="160" dy="18" class="t-stat-lbl-sm">SKYLINE</tspan></text>
+    <text x="204"  y="418" class="t-stat-num" fill="#D4AF37" text-anchor="middle"><tspan x="266" dy="0">DSA</tspan><tspan x="266" dy="18" class="t-stat-lbl">INTERNZO</tspan></text>
   </g>
   <g transform="translate(700, 230)" class="card-rise y2">
     <line x1="160" y1="0" x2="160" y2="-60" stroke="#E8A33D" stroke-width="1" stroke-opacity="0.5"/>
@@ -150,12 +144,9 @@
     <text x="48"  y="320" class="t-highlight">Cognizant — pushing SLMs &amp;</text>
     <text x="48"  y="340" class="t-highlight">DeepAgents to production.</text>
     <line x1="24" y1="388" x2="296" y2="388" stroke="#141210" stroke-width="1"/>
-    <text x="24"  y="422" class="t-stat-num" fill="#E8A33D">4</text>
-    <text x="24"  y="444" class="t-stat-lbl">MINISTRIES</text>
-    <text x="114"  y="422" class="t-stat-num" fill="#E8A33D">30+</text>
-    <text x="114"  y="444" class="t-stat-lbl-sm">FINALS</text>
-    <text x="204"  y="422" class="t-stat-num" fill="#E8A33D">KNIGHT</text>
-    <text x="204"  y="444" class="t-stat-lbl">LEETCODE</text>
+    <text x="24"  y="418" class="t-stat-num" fill="#E8A33D" text-anchor="middle"><tspan x="54" dy="0">4</tspan><tspan x="54" dy="18" class="t-stat-lbl">MINISTRIES</tspan></text>
+    <text x="114"  y="418" class="t-stat-num" fill="#E8A33D" text-anchor="middle"><tspan x="160" dy="0">30+</tspan><tspan x="160" dy="18" class="t-stat-lbl-sm">FINALS</tspan></text>
+    <text x="204"  y="418" class="t-stat-num" fill="#E8A33D" text-anchor="middle"><tspan x="266" dy="0">KNIGHT</tspan><tspan x="266" dy="18" class="t-stat-lbl">LEETCODE</tspan></text>
   </g>
   <g transform="translate(1040, 230)" class="card-rise y3">
     <line x1="160" y1="0" x2="160" y2="-60" stroke="#F3E6C4" stroke-width="1" stroke-opacity="0.5"/>
@@ -176,11 +167,8 @@
     <text x="48"  y="280" class="t-highlight">stack roles — graduate B.E. CSE</text>
     <text x="48"  y="300" class="t-highlight">in 2028 with impact-first builds.</text>
     <line x1="24" y1="388" x2="296" y2="388" stroke="#141210" stroke-width="1"/>
-    <text x="24"  y="422" class="t-stat-num" fill="#F3E6C4">35+</text>
-    <text x="24"  y="444" class="t-stat-lbl">PROJECTS</text>
-    <text x="114"  y="422" class="t-stat-num" fill="#F3E6C4">AGENTIC</text>
-    <text x="114"  y="444" class="t-stat-lbl-sm">AI FOCUS</text>
-    <text x="204"  y="422" class="t-stat-num" fill="#F3E6C4">'28</text>
-    <text x="204"  y="444" class="t-stat-lbl">GRADUATION</text>
+    <text x="24"  y="418" class="t-stat-num" fill="#F3E6C4" text-anchor="middle"><tspan x="54" dy="0">35+</tspan><tspan x="54" dy="18" class="t-stat-lbl">PROJECTS</tspan></text>
+    <text x="114"  y="418" class="t-stat-num" fill="#F3E6C4" text-anchor="middle"><tspan x="160" dy="0">AGENTIC</tspan><tspan x="160" dy="18" class="t-stat-lbl-sm">AI · CLOUD</tspan></text>
+    <text x="204"  y="418" class="t-stat-num" fill="#F3E6C4" text-anchor="middle"><tspan x="266" dy="0">BUILD</tspan><tspan x="266" dy="18" class="t-stat-lbl">FOR INDIA</tspan></text>
   </g>
 </svg>
