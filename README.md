@@ -136,7 +136,14 @@ I specialize in engineering scalable, production-grade applications with clean a
 <!-- 🪐 CUSTOM 3D ANIMATED ORBIT (hand-crafted SVG) -->
 <img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/tech-orbit-3d.svg" width="380" alt="Animated 3D skill orbit" />
 <br/>
-<sub>🛰️ <i>A living orbit of my core domains — full grid below</i></sub>
+<sub>🛰️ <i>A living orbit of my core domains</i></sub>
+
+<br/><br/>
+
+<!-- 🧊 CUSTOM DOMAIN CARDS (hand-crafted animated SVG grid) -->
+<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/tech-cards-grid.svg" width="100%" alt="Six glowing domain cards: Full-Stack & Mobile, AI & Agentic Systems, System Design, Data & Databases, Cloud & DevOps, Competitive Programming — each with years, project count, and mastery level" />
+<br/>
+<sub>📦 <i>Full badge grid, category by category, below</i></sub>
 
 </div>
 
@@ -257,6 +264,29 @@ I specialize in engineering scalable, production-grade applications with clean a
 
 <div align="center">
 
+**🔴 Now Building**
+
+</div>
+
+| Status | Project | Focus |
+|:---:|:---|:---|
+| 🟢 | **Cryptographic AI Forensic Platform** | Explainable anomaly detection · GDPR-safe |
+| 🟢 | **Patient–Doctor Management Portal** | Agentic scheduling · GenAI routing |
+| 🟡 | **EDUMITE — Adaptive Learning AI** | LLM + NLP driven tutoring |
+| 🟡 | **ASI-Gen — Agentic Report Engine** | RAG + multi-agent statistical pipelines |
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/⏱️_3%2B_YEARS_CODING-000000?style=for-the-badge&color=F5E36A&labelColor=000000" />
+<img src="https://img.shields.io/badge/📦_4_ACTIVE_BUILDS-000000?style=for-the-badge&color=F5E36A&labelColor=000000" />
+<img src="https://img.shields.io/badge/💼_OPEN_TO_OPPORTUNITIES-000000?style=for-the-badge&color=F5E36A&labelColor=000000" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
 <!-- 🧊 CUSTOM 3D PROJECT CARDS (hand-crafted animated SVG) — click to explore -->
 <a href="https://github.com/SYLESH-1125?tab=repositories" title="Explore all repositories"><img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/projects-3d.svg" width="100%" alt="3D project showcase cards — click to explore" /></a>
 
@@ -285,6 +315,15 @@ I specialize in engineering scalable, production-grade applications with clean a
 
 <!-- ░░░░░░░░░░░░░░░░░░  6 · TIMELINE  ░░░░░░░░░░░░░░░░░░ -->
 # 📅 Timeline
+
+<div align="center">
+
+<!-- 🧊 CUSTOM YEARLY HIGHLIGHTS (hand-crafted animated SVG) -->
+<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/yearly-highlights.svg" width="100%" alt="Yearly journey cards from 2022 to 2026 — First Steps, Team DYNAMITE, Hackathon Wins, AI & Recognition, Scaling Up — with summary stats for wins, finalist selections, problems solved, CGPA, and grants" />
+
+</div>
+
+<br/>
 
 ```mermaid
 timeline
