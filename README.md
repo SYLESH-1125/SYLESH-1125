@@ -1,5 +1,5 @@
 <!-- ============================================================= -->
-<!--  SYLESH PAVENDAN · LUXURY BLACK & ROYAL GOLD PORTFOLIO · v8.2 -->
+<!--  SYLESH PAVENDAN · LUXURY BLACK & ROYAL GOLD PORTFOLIO · v8.4 -->
 <!--  Theme  → Black #0A0A0B · Charcoal #17171A · Royal Gold      -->
 <!--           #D4AF37 · Amber #E8A33D · Soft White #F2F1EC ·     -->
 <!--           tiny orange accent #FF6B35. Minimal, no neon.      -->
@@ -413,18 +413,18 @@ The same contribution history, reimagined as a drivable procedural city — dens
 
 <br/>
 
-<sub>More flagship builds from my repos</sub>
+<sub>Top 6 builds — PM Bridge · ISL · Graph RAG · LinkedIn Scraper · Student Hub · DYNAMITE Suite</sub>
 
 <br/><br/>
 
 <table align="center" width="100%"><tr>
-<td width="33%" align="center"><a href="https://github.com/SYLESH-1125/BetShoow"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/featured/betshoow.svg" width="100%" alt="BetShoow" /></a></td>
-<td width="33%" align="center"><a href="https://github.com/SYLESH-1125/Disaster-Management-Application"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/featured/disaster-app.svg" width="100%" alt="Disaster Management" /></a></td>
-<td width="33%" align="center"><a href="https://github.com/SYLESH-1125/Legal-CHATBOT"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/featured/legal-chatbot.svg" width="100%" alt="Legal-CHATBOT" /></a></td>
+<td width="33%" align="center"><a href="https://github.com/SYLESH-1125/AGENT_SMSACLAW"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/featured/agent-smsaclaw.svg" width="100%" alt="PM Bridge" /></a></td>
+<td width="33%" align="center"><a href="https://github.com/SYLESH-1125/ISL_System"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/featured/isl-system.svg" width="100%" alt="ISL System" /></a></td>
+<td width="33%" align="center"><a href="https://github.com/SYLESH-1125/GRAPH_RAG"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/featured/graph-rag.svg" width="100%" alt="Graph RAG" /></a></td>
 </tr><tr>
-<td width="33%" align="center"><a href="https://github.com/SYLESH-1125/CTS_RAG"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/featured/cts-rag.svg" width="100%" alt="CTS_RAG" /></a></td>
-<td width="33%" align="center"><a href="https://github.com/SYLESH-1125/Disaster_Management_H2Skills"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/featured/disaster-h2.svg" width="100%" alt="H2Skills Disaster" /></a></td>
-<td width="33%" align="center"></td>
+<td width="33%" align="center"><a href="https://github.com/SYLESH-1125/Linked-In-scrapper"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/featured/linkedin-scrapper.svg" width="100%" alt="LinkedIn Scraper" /></a></td>
+<td width="33%" align="center"><a href="https://github.com/SYLESH-1125/ALL_IN_ONE_STUDENT"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/featured/all-in-one-student.svg" width="100%" alt="All-in-One Student" /></a></td>
+<td width="33%" align="center"><a href="https://github.com/SYLESH-1125/DEEP-FAKE-BOT"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/featured/dynamite-suite.svg" width="100%" alt="DYNAMITE Suite" /></a></td>
 </tr></table>
 
 <br/>
@@ -528,7 +528,7 @@ The same contribution history, reimagined as a drivable procedural city — dens
 
 <br/><br/>
 
-<sub>Designed and engineered by <b>Sylesh Pavendan</b> · Luxury Black &amp; Royal Gold, v8.2</sub>
+<sub>Designed and engineered by <b>Sylesh Pavendan</b> · Luxury Black &amp; Royal Gold, v8.4</sub>
 
 <br/><br/>
 

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="200" viewBox="0 0 480 200" role="img" aria-label="All-in-One Student">
+  <rect width="480" height="200" rx="14" fill="#17171A" stroke="#2A2410"/>
+  <rect width="480" height="5" rx="2" fill="#D4AF37"/>
+  <text x="20" y="32" font-size="22">🎓</text>
+  <text x="52" y="34" font-size="16" font-weight="800" fill="#F2F1EC">All-in-One Student</text>
+  <text x="20" y="52" font-size="11" font-weight="700" fill="#8A8A8F">Quiz + CBT + analytics hub</text>
+  <text x="20" y="68" font-size="11" fill="#B8B8BC">Student &amp; faculty dashboards on Supabase</text><text x="20" y="84" font-size="11" fill="#B8B8BC">Live quizzes, smart analytics charts</text>
+  <g><rect x="20" y="118" width="73" height="22" rx="11" fill="#D4AF37"/><text x="56.5" y="133" text-anchor="middle" font-size="10" font-weight="700" fill="#141210">Next.js</text><rect x="101" y="118" width="80" height="22" rx="11" fill="#D4AF37"/><text x="141.0" y="133" text-anchor="middle" font-size="10" font-weight="700" fill="#141210">Supabase</text><rect x="189" y="118" width="59" height="22" rx="11" fill="#D4AF37"/><text x="218.5" y="133" text-anchor="middle" font-size="10" font-weight="700" fill="#141210">OAuth</text></g>
+  <text x="20" y="158" font-size="10" font-weight="700" fill="#E8A33D">HIGHLIGHT</text>
+  <text x="20" y="174" font-size="11" fill="#F2F1EC">Full academic ops platform</text>
+  <text x="20" y="188" font-size="10" font-weight="700" fill="#8A8A8F">github.com/SYLESH-1125/ALL_IN_ONE_STUDENT</text>
+</svg>
