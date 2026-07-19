@@ -1,7 +1,10 @@
 <!-- ============================================================= -->
-<!--  SYLESH PAVENDAN · CYBERPUNK GOLD · 3D PORTFOLIO  ·  v4.0    -->
+<!--  SYLESH PAVENDAN · CYBERPUNK GOLD · 3D PORTFOLIO  ·  v5.0    -->
 <!--  Theme →  GOLD #F5E36A · BLACK #000000 · BG #0D1117          -->
 <!--  Custom 3D SVGs live in /assets — avatar · trophy · projects -->
+<!--  v5.0 → cinematic showreel framing, Journey timeline (mermaid), -->
+<!--  Testimonials, MIT license/footer, last-commit badge, full     -->
+<!--  alt-text coverage on every image for accessibility/SEO.       -->
 <!-- ============================================================= -->
 
 <a id="top"></a>
@@ -9,7 +12,7 @@
 <!-- ░░░░░░░░░░░░░░░░░░  3D HERO  ░░░░░░░░░░░░░░░░░░ -->
 
 <!-- GOLD WAVE RIBBON (decorative only) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F5E36A&height=130&section=header&reversal=true" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F5E36A&height=130&section=header&reversal=true" alt="Decorative gold wave divider" width="100%" />
 
 <div align="center">
 
@@ -24,21 +27,21 @@
 <br/>
 
 <!-- ANIMATED ROLE TITLES -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=F5E36A&center=true&vCenter=true&width=780&height=56&lines=Full-Stack+Developer+%7C+AI%2FML+Engineer;LeetCode+Knight+%E2%80%94+Top+4.39%25+Globally;3%C3%97+National+Hackathon+Winner+%7C+Team+DYNAMITE;Web3+Explorer+%7C+Agentic+AI+Builder" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=F5E36A&center=true&vCenter=true&width=780&height=56&lines=Full-Stack+Developer+%7C+AI%2FML+Engineer;LeetCode+Knight+%E2%80%94+Top+4.39%25+Globally;3%C3%97+National+Hackathon+Winner+%7C+Team+DYNAMITE;Web3+Explorer+%7C+Agentic+AI+Builder" alt="Animated typing text banner" />
 
 <br/><br/>
 
 <!-- BIG ACHIEVEMENT HIGHLIGHTS -->
-<img src="https://img.shields.io/badge/🏆_3×_NATIONAL_HACKATHON_WINNER-TEAM_DYNAMITE_LEAD-F5E36A?style=for-the-badge&labelColor=1a1500&color=F5E36A" />
+<img src="https://img.shields.io/badge/🏆_3×_NATIONAL_HACKATHON_WINNER-TEAM_DYNAMITE_LEAD-F5E36A?style=for-the-badge&labelColor=1a1500&color=F5E36A" alt="🏆 3× NATIONAL HACKATHON WINNER badge" />
 <br/><br/>
-<img src="https://img.shields.io/badge/⚔️_LEETCODE_KNIGHT-TOP_4.39%25_GLOBALLY_|_1000%2B_PROBLEMS_SOLVED-F5E36A?style=for-the-badge&labelColor=1a1500&color=F5E36A" />
+<img src="https://img.shields.io/badge/⚔️_LEETCODE_KNIGHT-TOP_4.39%25_GLOBALLY_|_1000%2B_PROBLEMS_SOLVED-F5E36A?style=for-the-badge&labelColor=1a1500&color=F5E36A" alt="⚔️ LEETCODE KNIGHT badge" />
 <br/><br/>
-<img src="https://img.shields.io/badge/🎯_25%2B_HACKATHON_FINALIST-FULL--STACK_+_AI_+_WEB3_ENGINEER-F5E36A?style=for-the-badge&labelColor=1a1500&color=F5E36A" />
+<img src="https://img.shields.io/badge/🎯_25%2B_HACKATHON_FINALIST-FULL--STACK_+_AI_+_WEB3_ENGINEER-F5E36A?style=for-the-badge&labelColor=1a1500&color=F5E36A" alt="🎯 25 HACKATHON FINALIST badge" />
 
 </div>
 
 <!-- GOLD DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" alt="Decorative gold divider line" width="100%" />
 
 <br/>
 
@@ -47,13 +50,22 @@
 
 ### 🎮 Explore My Universe — <i>tap to teleport</i>
 
-<a href="#-about-me"><img src="https://img.shields.io/badge/💫_About-000000?style=for-the-badge&color=F5E36A&labelColor=000000" /></a>
-<a href="#-signature-3d-builds"><img src="https://img.shields.io/badge/🚀_Projects-000000?style=for-the-badge&color=F5E36A&labelColor=000000" /></a>
-<a href="#-hall-of-fame"><img src="https://img.shields.io/badge/🏆_Achievements-000000?style=for-the-badge&color=F5E36A&labelColor=000000" /></a>
-<a href="#-3d-skill-constellation"><img src="https://img.shields.io/badge/🪐_Skills-000000?style=for-the-badge&color=F5E36A&labelColor=000000" /></a>
-<a href="#-tech-stack"><img src="https://img.shields.io/badge/💻_Stack-000000?style=for-the-badge&color=F5E36A&labelColor=000000" /></a>
-<a href="#-github-stats"><img src="https://img.shields.io/badge/📊_Stats-000000?style=for-the-badge&color=F5E36A&labelColor=000000" /></a>
+<a href="#-about-me"><img src="https://img.shields.io/badge/💫_About-000000?style=for-the-badge&color=F5E36A&labelColor=000000" alt="💫 About badge" /></a>
+<a href="#-signature-3d-builds"><img src="https://img.shields.io/badge/🚀_Projects-000000?style=for-the-badge&color=F5E36A&labelColor=000000" alt="🚀 Projects badge" /></a>
+<a href="#-hall-of-fame"><img src="https://img.shields.io/badge/🏆_Achievements-000000?style=for-the-badge&color=F5E36A&labelColor=000000" alt="🏆 Achievements badge" /></a>
+<a href="#-journey-timeline"><img src="https://img.shields.io/badge/📅_Timeline-000000?style=for-the-badge&color=F5E36A&labelColor=000000" alt="📅 Timeline badge" /></a>
+<a href="#-3d-skill-constellation"><img src="https://img.shields.io/badge/🪐_Skills-000000?style=for-the-badge&color=F5E36A&labelColor=000000" alt="🪐 Skills badge" /></a>
+<a href="#-tech-stack"><img src="https://img.shields.io/badge/💻_Stack-000000?style=for-the-badge&color=F5E36A&labelColor=000000" alt="💻 Stack badge" /></a>
+<a href="#-github-stats"><img src="https://img.shields.io/badge/📊_Stats-000000?style=for-the-badge&color=F5E36A&labelColor=000000" alt="📊 Stats badge" /></a>
+<a href="#-words-from-collaborators"><img src="https://img.shields.io/badge/🗣️_Testimonials-000000?style=for-the-badge&color=F5E36A&labelColor=000000" alt="🗣️ Testimonials badge" /></a>
 
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://img.shields.io/github/last-commit/SYLESH-1125/SYLESH-1125?style=for-the-badge&color=F5E36A&labelColor=000000&label=Last%20Updated" alt="Last updated badge, auto-tracks the most recent commit to this profile" />
+<img src="https://img.shields.io/badge/License-MIT-000000?style=for-the-badge&color=F5E36A&labelColor=000000" alt="MIT License badge" />
 </div>
 
 <br/>
@@ -74,19 +86,22 @@ Relentlessly learning, building, competing — I'm driven by engineering that ma
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🎓_B.E._CSE_%40_CIT-000000?style=for-the-badge&labelColor=000000&color=F5E36A" />
-<img src="https://img.shields.io/badge/⚡_CGPA_9.1%2F10-000000?style=for-the-badge&labelColor=000000&color=F5E36A" />
-<img src="https://img.shields.io/badge/📍_Chennai,_India-000000?style=for-the-badge&labelColor=000000&color=F5E36A" />
-<img src="https://img.shields.io/badge/💼_Open_to_Opportunities-000000?style=for-the-badge&labelColor=000000&color=F5E36A" />
+<img src="https://img.shields.io/badge/🎓_B.E._CSE_%40_CIT-000000?style=for-the-badge&labelColor=000000&color=F5E36A" alt="🎓 B.E. CSE @ CIT badge" />
+<img src="https://img.shields.io/badge/⚡_CGPA_9.1%2F10-000000?style=for-the-badge&labelColor=000000&color=F5E36A" alt="⚡ CGPA 9.1/10 badge" />
+<img src="https://img.shields.io/badge/📍_Chennai,_India-000000?style=for-the-badge&labelColor=000000&color=F5E36A" alt="📍 Chennai, India badge" />
+<img src="https://img.shields.io/badge/💼_Open_to_Opportunities-000000?style=for-the-badge&labelColor=000000&color=F5E36A" alt="💼 Open to Opportunities badge" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" alt="Decorative gold divider line" width="100%" />
 
 <!-- ░░░░░░░░░░░░░░░░░░  3D PROJECTS  ░░░░░░░░░░░░░░░░░░ -->
 # 🚀 Signature 3D Builds
 
 <div align="center">
+
+<!-- CINEMATIC "NOW SHOWING" TRAILER-STYLE INTRO -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=F5E36A&center=true&vCenter=true&width=780&height=40&lines=%F0%9F%8E%9E+NOW+SCREENING%3A+Engineering+in+Motion;Four+builds.+One+engineer.+Zero+downtime.&repeat=true" alt="Cinematic trailer-style typing intro: Now Screening — Engineering in Motion" />
 
 <!-- 🧊 CUSTOM 3D PROJECT CARDS (hand-crafted animated SVG) — click to explore -->
 <a href="https://github.com/SYLESH-1125?tab=repositories" title="Explore all repositories"><img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/projects-3d.svg" width="100%" alt="3D project showcase cards — click to explore" /></a>
@@ -112,7 +127,7 @@ Relentlessly learning, building, competing — I'm driven by engineering that ma
 
 `Python` · `DuckDB` · `SHAP` · `Cryptography` · `Anomaly Detection`
 
-<a href="https://github.com/SYLESH-1125?tab=repositories"><img src="https://img.shields.io/badge/🔗_View_Project-000000?style=for-the-badge&color=F5E36A&labelColor=000000" /></a>
+<a href="https://github.com/SYLESH-1125?tab=repositories"><img src="https://img.shields.io/badge/🔗_View_Project-000000?style=for-the-badge&color=F5E36A&labelColor=000000" alt="🔗 View Project badge" /></a>
 
 </details>
 
@@ -129,7 +144,7 @@ Relentlessly learning, building, competing — I'm driven by engineering that ma
 
 `Next.js` · `Node.js` · `GenAI` · `Firebase` · `Agentic AI`
 
-<a href="https://github.com/SYLESH-1125?tab=repositories"><img src="https://img.shields.io/badge/🔗_View_Project-000000?style=for-the-badge&color=F5E36A&labelColor=000000" /></a>
+<a href="https://github.com/SYLESH-1125?tab=repositories"><img src="https://img.shields.io/badge/🔗_View_Project-000000?style=for-the-badge&color=F5E36A&labelColor=000000" alt="🔗 View Project badge" /></a>
 
 </details>
 
@@ -146,7 +161,7 @@ Relentlessly learning, building, competing — I'm driven by engineering that ma
 
 `LLMs` · `NLP` · `Python` · `React` · `Recommendation Systems`
 
-<a href="https://github.com/SYLESH-1125?tab=repositories"><img src="https://img.shields.io/badge/🔗_View_Project-000000?style=for-the-badge&color=F5E36A&labelColor=000000" /></a>
+<a href="https://github.com/SYLESH-1125?tab=repositories"><img src="https://img.shields.io/badge/🔗_View_Project-000000?style=for-the-badge&color=F5E36A&labelColor=000000" alt="🔗 View Project badge" /></a>
 
 </details>
 
@@ -163,17 +178,17 @@ Relentlessly learning, building, competing — I'm driven by engineering that ma
 
 `RAG` · `Multi-Agent` · `BERT` · `Python` · `LLM Orchestration`
 
-<a href="https://github.com/SYLESH-1125?tab=repositories"><img src="https://img.shields.io/badge/🔗_View_Project-000000?style=for-the-badge&color=F5E36A&labelColor=000000" /></a>
+<a href="https://github.com/SYLESH-1125?tab=repositories"><img src="https://img.shields.io/badge/🔗_View_Project-000000?style=for-the-badge&color=F5E36A&labelColor=000000" alt="🔗 View Project badge" /></a>
 
 </details>
 
 <div align="center">
 
-<a href="https://github.com/SYLESH-1125?tab=repositories"><img src="https://img.shields.io/badge/🛰️_Explore_All_Repositories-000000?style=for-the-badge&color=F5E36A&labelColor=000000" /></a>
+<a href="https://github.com/SYLESH-1125?tab=repositories"><img src="https://img.shields.io/badge/🛰️_Explore_All_Repositories-000000?style=for-the-badge&color=F5E36A&labelColor=000000" alt="🛰️ Explore All Repositories badge" /></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" alt="Decorative gold divider line" width="100%" />
 
 <!-- ░░░░░░░░░░░░░░░░░░  HALL OF FAME  ░░░░░░░░░░░░░░░░░░ -->
 # 🏆 Hall of Fame
@@ -187,9 +202,9 @@ Relentlessly learning, building, competing — I'm driven by engineering that ma
 
 <br/>
 
-<img src="https://img.shields.io/badge/🥇_3x_Winner-000000?style=for-the-badge&color=F5E36A&labelColor=000000" />
-<img src="https://img.shields.io/badge/🎯_25%2B_Finalist-000000?style=for-the-badge&color=F5E36A&labelColor=000000" />
-<img src="https://img.shields.io/badge/💰_₹1L%2B_Grants-000000?style=for-the-badge&color=F5E36A&labelColor=000000" />
+<img src="https://img.shields.io/badge/🥇_3x_Winner-000000?style=for-the-badge&color=F5E36A&labelColor=000000" alt="🥇 3x Winner badge" />
+<img src="https://img.shields.io/badge/🎯_25%2B_Finalist-000000?style=for-the-badge&color=F5E36A&labelColor=000000" alt="🎯 25 Finalist badge" />
+<img src="https://img.shields.io/badge/💰_₹1L%2B_Grants-000000?style=for-the-badge&color=F5E36A&labelColor=000000" alt="💰 ₹1L Grants badge" />
 
 </td>
 <td width="66%" valign="middle">
@@ -208,39 +223,63 @@ Relentlessly learning, building, competing — I'm driven by engineering that ma
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" alt="Decorative gold divider line" width="100%" />
+
+<!-- ░░░░░░░░░░░░░░░░░░  TIMELINE  ░░░░░░░░░░░░░░░░░░ -->
+<a id="-journey-timeline"></a>
+# 📅 Journey / Timeline
+
+```mermaid
+timeline
+    title Sylesh Pavendan — Milestones So Far
+    2022 : Began B.E. CSE @ CIT
+         : First lines of Python & DSA
+    2023 : Formed Team DYNAMITE
+         : First hackathon finals
+    2024 : 🥈 Statathon — AICTE & MoSPI (₹1L grant, 8,000+ projects)
+         : 🥈 Hack-A-Thon 1.0 — St. Peter's (₹30,000)
+         : 🥈 HackSetu 1.0 — Amity University (₹20,000)
+    2025 : 🏅 CSIC 1.0 — DSCI & MeitY (4th nationally, ₹50K)
+         : ⚔️ LeetCode Knight — Top 4.39% globally
+         : Shipped Agentic AI + RAG powered platforms
+    2026 : 🎯 CYBERHACKATHON v4.0 — Top 20 of 800+ teams
+         : 🎯 SUVIDHA 2026 — C-DAC, MeitY Finalist
+         : Exploring Web3 & decentralized systems
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" alt="Decorative gold divider line" width="100%" />
 
 <!-- ░░░░░░░░░░░░░░░░░░  LEETCODE  ░░░░░░░░░░░░░░░░░░ -->
 # 🧩 LeetCode Profile
 
 <p align="center">
   <a href="https://leetcode.com/u/SYLESH_/">
-    <img src="https://img.shields.io/badge/LeetCode-Knight%20·%20Top%204.39%25%20·%201000%2B%20Solved-000000?style=for-the-badge&logo=leetcode&logoColor=F5E36A&color=000000" />
+    <img src="https://img.shields.io/badge/LeetCode-Knight%20·%20Top%204.39%25%20·%201000%2B%20Solved-000000?style=for-the-badge&logo=leetcode&logoColor=F5E36A&color=000000" alt="LeetCode badge" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/SYLESH_?theme=dark&font=K2D&ext=contest&border=0&radius=10" />
+  <img src="https://leetcard.jacoblin.cool/SYLESH_?theme=dark&font=K2D&ext=contest&border=0&radius=10" alt="LeetCode stats card for SYLESH_" />
 </p>
 
 <div align="center">
-<img src="https://img.shields.io/badge/CodeChef-Div%204%20·%20Rating%20911%20·%2050%2B%20Solved-000000?style=for-the-badge&logo=codechef&logoColor=F5E36A&labelColor=000000" />
-<img src="https://img.shields.io/badge/Codeforces-50%2B%20Solved%20·%20Active-000000?style=for-the-badge&logo=codeforces&logoColor=F5E36A&labelColor=000000" />
-<img src="https://img.shields.io/badge/Skillrack-272%20Solved%20·%20106%20Bronze-000000?style=for-the-badge&logo=hackerrank&logoColor=F5E36A&labelColor=000000" />
+<img src="https://img.shields.io/badge/CodeChef-Div%204%20·%20Rating%20911%20·%2050%2B%20Solved-000000?style=for-the-badge&logo=codechef&logoColor=F5E36A&labelColor=000000" alt="CodeChef badge" />
+<img src="https://img.shields.io/badge/Codeforces-50%2B%20Solved%20·%20Active-000000?style=for-the-badge&logo=codeforces&logoColor=F5E36A&labelColor=000000" alt="Codeforces badge" />
+<img src="https://img.shields.io/badge/Skillrack-272%20Solved%20·%20106%20Bronze-000000?style=for-the-badge&logo=hackerrank&logoColor=F5E36A&labelColor=000000" alt="Skillrack badge" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" alt="Decorative gold divider line" width="100%" />
 
 <!-- ░░░░░░░░░░░░░░░░░░  SOCIALS  ░░░░░░░░░░░░░░░░░░ -->
 ## 🌐 Socials
 <p align="center">
-<a href="https://discord.com/invite/YzzuBVk9"><img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=F5E36A" /></a>
-<a href="https://instagram.com/syl._.star"><img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=F5E36A" /></a>
-<a href="https://www.linkedin.com/in/sylesh-pavendan-361a69328/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=F5E36A" /></a>
-<a href="mailto:sylesh1125@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=F5E36A" /></a>
+<a href="https://discord.com/invite/YzzuBVk9"><img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=F5E36A" alt="Discord badge" /></a>
+<a href="https://instagram.com/syl._.star"><img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=F5E36A" alt="Instagram badge" /></a>
+<a href="https://www.linkedin.com/in/sylesh-pavendan-361a69328/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=F5E36A" alt="LinkedIn badge" /></a>
+<a href="mailto:sylesh1125@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=F5E36A" alt="Email badge" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" alt="Decorative gold divider line" width="100%" />
 
 <!-- ░░░░░░░░░░░░░░░░░░  3D SKILL CONSTELLATION  ░░░░░░░░░░░░░░░░░░ -->
 # 🪐 3D Skill Constellation
@@ -299,7 +338,7 @@ Relentlessly learning, building, competing — I'm driven by engineering that ma
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" alt="Decorative gold divider line" width="100%" />
 
 <!-- ░░░░░░░░░░░░░░░░░░  TECH STACK  ░░░░░░░░░░░░░░░░░░ -->
 # 💻 Tech Stack
@@ -418,7 +457,7 @@ Relentlessly learning, building, competing — I'm driven by engineering that ma
 ![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-000?style=for-the-badge&logo=adobepremierepro&logoColor=F5E36A)
 ![Canva](https://img.shields.io/badge/Canva-000?style=for-the-badge&logo=canva&logoColor=F5E36A)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" alt="Decorative gold divider line" width="100%" />
 
 <!-- ░░░░░░░░░░░░░░░░░░  3D CONTRIBUTION UNIVERSE  ░░░░░░░░░░░░░░░░░░ -->
 <div align="center">
@@ -426,41 +465,41 @@ Relentlessly learning, building, competing — I'm driven by engineering that ma
 ### 🧊 3D Contribution Universe
 
 <!-- Isometric 3D contribution skyline (auto-generated by GitHub Action) -->
-<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/profile-3d-contrib/profile-gitblock.svg" width="100%" />
+<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/profile-3d-contrib/profile-gitblock.svg" alt="3D isometric contribution skyline graph" width="100%" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" alt="Decorative gold divider line" width="100%" />
 
 <!-- ░░░░░░░░░░░░░░░░░░  GITHUB STATS (3D)  ░░░░░░░░░░░░░░░░░░ -->
 # 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SYLESH-1125&theme=great-gatsby&show_icons=true&count_private=true&include_all_commits=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=SYLESH-1125&theme=great-gatsby" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SYLESH-1125&theme=great-gatsby&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub stats card for SYLESH-1125" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=SYLESH-1125&theme=great-gatsby" alt="GitHub contribution streak stats" height="165" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SYLESH-1125&theme=great-gatsby&layout=compact&langs_count=10" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SYLESH-1125&theme=great-gatsby&layout=compact&langs_count=10" alt="Top languages used, GitHub stats card" height="150" />
 </div>
 
 <br/>
 
 <!-- 3D-STYLE ISOMETRIC ACTIVITY GRAPH -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SYLESH-1125&bg_color=0D1117&color=F5E36A&line=F5E36A&point=FFFFFF&area=true&area_color=F5E36A&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SYLESH-1125&bg_color=0D1117&color=F5E36A&line=F5E36A&point=FFFFFF&area=true&area_color=F5E36A&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="GitHub contribution activity graph" width="100%" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" alt="Decorative gold divider line" width="100%" />
 
 <!-- ░░░░░░░░░░░░░░░░░░  SNAKE  ░░░░░░░░░░░░░░░░░░ -->
 <div align="center">
-  <img src="https://raw.githack.com/SYLESH-1125/SYLESH-1125/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://raw.githack.com/SYLESH-1125/SYLESH-1125/output/github-contribution-grid-snake-dark.svg" alt="Animated snake eating GitHub contribution graph" width="100%" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" alt="Decorative gold divider line" width="100%" />
 
 <!-- ░░░░░░░░░░░░░░░░░░  MARQUEE  ░░░░░░░░░░░░░░░░░░ -->
 <p align="center">
@@ -469,27 +508,69 @@ Relentlessly learning, building, competing — I'm driven by engineering that ma
 </marquee>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" alt="Decorative gold divider line" width="100%" />
 
 <!-- ░░░░░░░░░░░░░░░░░░  TROPHIES  ░░░░░░░░░░░░░░░░░░ -->
 # 🥇 GitHub Achievements
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SYLESH-1125&theme=github_dark" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SYLESH-1125&theme=github_dark" alt="GitHub profile summary card" width="100%" />
 </div>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SYLESH-1125&theme=github_dark" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SYLESH-1125&theme=github_dark&utcOffset=5.5" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SYLESH-1125&theme=github_dark" alt="GitHub profile stats summary card" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SYLESH-1125&theme=github_dark&utcOffset=5.5" alt="Most productive coding time summary card" height="180"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" alt="Decorative gold divider line" width="100%" />
 
 <!-- ░░░░░░░░░░░░░░░░░░  QUOTE  ░░░░░░░░░░░░░░░░░░ -->
 ### ✍️ Random Dev Quote
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random developer motivational quote" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" alt="Decorative gold divider line" width="100%" />
+
+<!-- ░░░░░░░░░░░░░░░░░░  TESTIMONIALS  ░░░░░░░░░░░░░░░░░░ -->
+<a id="-words-from-collaborators"></a>
+# 🗣️ Words From Collaborators
+
+<!--
+  ✏️ EDIT ME — swap these placeholder cards for real quotes from teammates,
+  mentors, hackathon judges, or recruiters. Keep it short (1–2 lines) and
+  always credit the person + their role/relationship to you.
+-->
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+> "Sylesh turns a vague problem statement into a working prototype faster than most teams finish planning."
+
+<div align="right"><sub>— Teammate, <b>Team DYNAMITE</b></sub></div>
+
+</td>
+<td width="33%" valign="top">
+
+> "Calm under pressure, sharp with architecture — exactly who you want leading the stack at 3 AM before a demo."
+
+<div align="right"><sub>— Hackathon Co-Participant</sub></div>
+
+</td>
+<td width="33%" valign="top">
+
+> "One of the few finalists who could explain the AI pipeline *and* defend the system design in the same breath."
+
+<div align="right"><sub>— Hackathon Judge Panel</sub></div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<sub><i>Have we worked together? <a href="mailto:sylesh1125@gmail.com">Send a quote</a> and I'll feature it here. 🙌</i></sub>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" alt="Decorative gold divider line" width="100%" />
 
 <!-- ░░░░░░░░░░░░░░░░░░  VISITORS  ░░░░░░░░░░░░░░░░░░ -->
 <div align="center">
@@ -500,9 +581,20 @@ Relentlessly learning, building, competing — I'm driven by engineering that ma
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" alt="Decorative gold divider line" width="100%" />
+
+<!-- ░░░░░░░░░░░░░░░░░░  LICENSE & FOOTER  ░░░░░░░░░░░░░░░░░░ -->
+<div align="center">
+
+<a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-000000?style=for-the-badge&color=F5E36A&labelColor=000000" alt="MIT License badge" /></a>
+
+<sub>This README template (layout, SVGs, and markdown) is MIT-licensed — feel free to fork it for your own profile. Please keep the content changes to yours though! 😉</sub>
+
+</div>
+
 <!-- GOLD 3D WAVE FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F5E36A&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F5E36A&height=120&section=footer" alt="Decorative gold wave divider" width="100%" />
 
 <div align="center">
-<a href="#top"><img src="https://img.shields.io/badge/⬆_Back_to_Top-000000?style=for-the-badge&color=F5E36A&labelColor=000000" /></a>
+<a href="#top"><img src="https://img.shields.io/badge/⬆_Back_to_Top-000000?style=for-the-badge&color=F5E36A&labelColor=000000" alt="⬆ Back to Top badge" /></a>
 </div>
