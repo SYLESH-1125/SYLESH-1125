@@ -94,25 +94,6 @@ I compete on **LeetCode as a Knight, top 4.39% globally** — 1000+ problems sol
 <img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/python-terminal-premium.svg" width="100%" alt="Animated terminal typing out a Python bio class for Sylesh Pavendan, looping" />
 </div>
 
-```python
-class SyleshPavendan:
-    """Full-stack developer and AI/ML engineer, second-year @ CIT."""
-
-    role        = "Full-Stack Developer / AI-ML Engineer"
-    education   = "B.E. CSE @ Chennai Institute of Technology, CGPA 9.1/10"
-    stack       = ["Python", "TypeScript", "Java", "C++"]
-    currently   = "Agentic AI & DevOps Intern @ Cognizant"
-    team        = "Lead @ Team DYNAMITE — 6x National Hackathons"
-    leetcode    = "Knight — Top 4.39% globally, 1000+ problems solved"
-
-    def philosophy(self) -> str:
-        return "Ship fast. Ship clean. Ship again."
-
-
-sylesh = SyleshPavendan()
-print(sylesh.philosophy())  # → Ship fast. Ship clean. Ship again.
-```
-
 ### Experience
 
 **Cognizant Technology Solutions** — Agentic AI & DevOps Intern &nbsp;·&nbsp; *Apr 2026 – Sep 2026*
@@ -227,18 +208,14 @@ Designed and built a hospital management system (Flutter + React) to streamline 
 
 <div align="center">
 
-A 3D-printable model of my contribution history, rendered by GitHub's own Skyline tool — each tower is a month, each height is how much I shipped.
+A 3D-printable model of my contribution history, built by the official <a href="https://github.com/github/gh-skyline"><code>gh-skyline</code></a> CLI from the real GitHub contributions API — each tower is a month, each height is how much I shipped.
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/skyline-showcase-premium.svg" width="100%" alt="Three premium tiles previewing the GitHub Skyline contribution model for 2024, 2025, and the live 2026 model" />
+**[📐 2026 STL (live)](https://github.com/SYLESH-1125/SYLESH-1125/blob/metrics-output/skyline-2026.stl)** &nbsp;·&nbsp; **[2025 STL](https://github.com/SYLESH-1125/SYLESH-1125/blob/metrics-output/skyline-2025.stl)** &nbsp;·&nbsp; **[2024 STL](https://github.com/SYLESH-1125/SYLESH-1125/blob/metrics-output/skyline-2024.stl)**
 
 <br/>
-
-**[📐 Spin the 2026 model (live)](https://skyline.github.com/SYLESH-1125/2026)** &nbsp;·&nbsp; **[2025](https://skyline.github.com/SYLESH-1125/2025)** &nbsp;·&nbsp; **[2024](https://skyline.github.com/SYLESH-1125/2024)**
-
-<br/>
-<sub>Opens an interactive 3D model at <a href="https://skyline.github.com">skyline.github.com</a> — spin it, zoom it, download the .stl to 3D print.</sub>
+<sub>Click a link to open GitHub's native 3D viewer — spin it, zoom it, download the .stl to 3D print. Regenerated nightly by <code>.github/workflows/metrics-visuals.yml</code>; <a href="https://skyline.github.com">skyline.github.com</a> was retired by GitHub in late 2024, so this profile uses the CLI directly instead.</sub>
 
 </div>
 
@@ -252,18 +229,28 @@ A 3D-printable model of my contribution history, rendered by GitHub's own Skylin
 
 <div align="center">
 
-The same contribution history, reimagined as a drivable procedural city — denser districts mean busier months.
+The same contribution history, reimagined as a drivable procedural city — denser districts mean busier months. Each tile below is a real, automated screenshot of the live visualizer, not an illustration.
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/city-showcase-premium.svg" width="100%" alt="Three premium tiles previewing the drivable GitHub City procedural model for 2024, 2025, and the live 2026 model" />
+<table align="center" width="100%">
+<tr><td colspan="3" align="center">
+<a href="https://honzaap.github.io/GithubCity?name=SYLESH-1125&year=2026"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/metrics-output/github-metrics-city-2026.svg" width="100%" alt="GitHub City 2026 — live screenshot"></a>
+<p><b>2026 <sub>(live)</sub></b></p>
+</td></tr>
+<tr>
+<td width="33%" align="center"><a href="https://honzaap.github.io/GithubCity?name=SYLESH-1125&year=2024"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/metrics-output/github-metrics-city-2024.svg" width="100%" alt="GitHub City 2024"></a><p><b>2024</b></p></td>
+<td width="33%" align="center"><a href="https://honzaap.github.io/GithubCity?name=SYLESH-1125&year=2025"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/metrics-output/github-metrics-city-2025.svg" width="100%" alt="GitHub City 2025"></a><p><b>2025</b></p></td>
+<td width="33%" align="center"><a href="https://honzaap.github.io/GithubCity?name=SYLESH-1125&year=2026"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/metrics-output/github-metrics-city-2026.svg" width="100%" alt="GitHub City 2026 live"></a><p><b>2026 <sub>(live)</sub></b></p></td>
+</tr>
+</table>
 
 <br/>
 
 **[🚗 Drive through 2026 (live)](https://honzaap.github.io/GithubCity?name=SYLESH-1125&year=2026)** &nbsp;·&nbsp; **[2025 city](https://honzaap.github.io/GithubCity?name=SYLESH-1125&year=2025)** &nbsp;·&nbsp; **[2024 city](https://honzaap.github.io/GithubCity?name=SYLESH-1125&year=2024)**
 
 <br/>
-<sub>Powered by <a href="https://honzaap.github.io/GithubCity">honzaap.github.io/GithubCity</a> — an independent open-source visualizer, not affiliated with GitHub.</sub>
+<sub>Screenshots regenerated nightly by <code>.github/workflows/metrics-visuals.yml</code>, powered by <a href="https://honzaap.github.io/GithubCity">honzaap.github.io/GithubCity</a> — an independent open-source visualizer, not affiliated with GitHub.</sub>
 
 </div>
 
@@ -419,13 +406,14 @@ This profile README itself is open for anyone to fork under the MIT license belo
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/sylesh-pavendan-361a69328/"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/icon-linkedin.svg" width="64" height="64" alt="LinkedIn" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:sylesh1125@gmail.com"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/icon-email.svg" width="64" height="64" alt="Email" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/SYLESH-1125"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/icon-github.svg" width="64" height="64" alt="GitHub" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/syl._.star"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/icon-instagram.svg" width="64" height="64" alt="Instagram" /></a>
+<a href="https://www.linkedin.com/in/sylesh-pavendan-361a69328/" aria-label="LinkedIn"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/social-linkedin.gif" width="100" alt="LinkedIn"></a>
+<a href="https://instagram.com/syl._.star" aria-label="Instagram"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/social-instagram.gif" width="100" alt="Instagram"></a>
+<a href="mailto:sylesh1125@gmail.com" aria-label="Email"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/icon-email.svg" width="100" height="100" alt="Email"></a>
+<a href="https://github.com/SYLESH-1125" aria-label="GitHub"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/social-github.gif" width="100" alt="GitHub"></a>
+
+<br/>
+
+📧 <a href="mailto:sylesh1125@gmail.com">sylesh1125@gmail.com</a>
 
 <br/><br/>
 
