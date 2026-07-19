@@ -404,20 +404,6 @@ The same contribution history, reimagined as a drivable procedural city — dens
 <div align="center">
 
 <table align="center" width="100%"><tr>
-<td width="50%" align="center"><a href="https://github.com/SYLESH-1125/csic-backend"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/featured/csic-backend.svg" width="100%" alt="csic-backend" /></a></td>
-<td width="50%" align="center"><a href="https://github.com/SYLESH-1125/CRIMEGPT"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/featured/crimegpt.svg" width="100%" alt="CrimeGPT" /></a></td>
-</tr><tr>
-<td width="50%" align="center"><a href="https://github.com/SYLESH-1125/bharatstat"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/featured/bharatstat.svg" width="100%" alt="ASI-Gen" /></a></td>
-<td width="50%" align="center"><a href="https://github.com/SYLESH-1125/SYLEDUTECH"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/featured/syledutech.svg" width="100%" alt="EDUMITE" /></a></td>
-</tr></table>
-
-<br/>
-
-<sub>Top 6 builds — PM Bridge · ISL · Graph RAG · LinkedIn Scraper · Student Hub · DYNAMITE Suite</sub>
-
-<br/><br/>
-
-<table align="center" width="100%"><tr>
 <td width="33%" align="center"><a href="https://github.com/SYLESH-1125/AGENT_SMSACLAW"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/featured/agent-smsaclaw.svg" width="100%" alt="PM Bridge" /></a></td>
 <td width="33%" align="center"><a href="https://github.com/SYLESH-1125/ISL_System"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/featured/isl-system.svg" width="100%" alt="ISL System" /></a></td>
 <td width="33%" align="center"><a href="https://github.com/SYLESH-1125/GRAPH_RAG"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/featured/graph-rag.svg" width="100%" alt="Graph RAG" /></a></td>
