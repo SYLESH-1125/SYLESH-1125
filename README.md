@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/hero-banner.svg" width="100%" alt="Sylesh Pavendan — Full-Stack Developer and AI/ML Engineer, premium hero banner" />
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/hero-banner.svg" width="100%" alt="Sylesh Pavendan — Full-Stack Developer and AI/ML Engineer, premium hero banner" />
 
 <br/><br/>
 
@@ -39,7 +39,7 @@
 </div>
 
 <br/>
-<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/divider.svg" width="100%" alt="" />
 <br/>
 
 <!-- ░░░░░░░░░░░░░░░░░░  2 · ABOUT  ░░░░░░░░░░░░░░░░░░ -->
@@ -47,7 +47,7 @@
 ## About
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/figure-3d.svg" height="220" alt="3D standing developer avatar" />
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/figure-3d.svg" height="220" alt="3D standing developer avatar" />
 </div>
 
 <br/>
@@ -70,7 +70,7 @@ Delivered a full-stack business platform integrating React/Node services with AI
 Designed and built a hospital management system (Flutter + React) to streamline patient flow and appointment booking, with real-time tracking for patients, doctors, and staff.
 
 <br/>
-<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/divider.svg" width="100%" alt="" />
 <br/>
 
 <!-- ░░░░░░░░░░░░░░░░░░  3 · NOW BUILDING  ░░░░░░░░░░░░░░░░░░ -->
@@ -88,7 +88,7 @@ Designed and built a hospital management system (Flutter + React) to streamline 
 🟡&nbsp; **[EDUMITE](https://github.com/SYLESH-1125/SYLEDUTECH)** — LLM tutor with NLP intent detection and adaptive study paths
 
 <br/>
-<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/divider.svg" width="100%" alt="" />
 <br/>
 
 <!-- ░░░░░░░░░░░░░░░░░░  4 · ORBIT TECH STACK  ░░░░░░░░░░░░░░░░░░ -->
@@ -97,7 +97,7 @@ Designed and built a hospital management system (Flutter + React) to streamline 
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/tech-orbit-premium.svg" width="440" alt="Premium technology orbit — React, Next.js, FastAPI, Node.js, TypeScript, Python at the core; AWS, Docker, Flutter, MongoDB, Postgres, LangChain, RAG, PyTorch orbiting outside" />
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/tech-orbit-premium.svg" width="440" alt="Premium technology orbit — React, Next.js, FastAPI, Node.js, TypeScript, Python at the core; AWS, Docker, Flutter, MongoDB, Postgres, LangChain, RAG, PyTorch orbiting outside" />
 
 <br/>
 <sub>Core stack orbiting a central identity — full breakdown in Skill Cards below</sub>
@@ -105,7 +105,7 @@ Designed and built a hospital management system (Flutter + React) to streamline 
 </div>
 
 <br/>
-<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/divider.svg" width="100%" alt="" />
 <br/>
 
 <!-- ░░░░░░░░░░░░░░░░░░  5 · SKILL CARDS  ░░░░░░░░░░░░░░░░░░ -->
@@ -114,12 +114,12 @@ Designed and built a hospital management system (Flutter + React) to streamline 
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/skill-cards-premium.svg" width="100%" alt="Six premium skill cards — Backend, Frontend, AI and Machine Learning, Cloud and DevOps, Databases, Programming Languages — each with tools, years, project count, and mastery level" />
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/skill-cards-premium.svg" width="100%" alt="Six premium skill cards — Backend, Frontend, AI and Machine Learning, Cloud and DevOps, Databases, Programming Languages — each with tools, years, project count, and mastery level" />
 
 </div>
 
 <br/>
-<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/divider.svg" width="100%" alt="" />
 <br/>
 
 <!-- ░░░░░░░░░░░░░░░░░░  6 · NEURAL SKILL ATLAS  ░░░░░░░░░░░░░░░░░░ -->
@@ -132,12 +132,12 @@ Designed and built a hospital management system (Flutter + React) to streamline 
 
 <br/><br/>
 
-<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/neural-atlas-premium.svg" width="100%" alt="Original skill network connecting AI, Cloud, Architecture, Data, Mobile, Competitive Programming, Programming, and Frontend around a central SP hub" />
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/neural-atlas-premium.svg" width="100%" alt="Original skill network connecting AI, Cloud, Architecture, Data, Mobile, Competitive Programming, Programming, and Frontend around a central SP hub" />
 
 </div>
 
 <br/>
-<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/divider.svg" width="100%" alt="" />
 <br/>
 
 <!-- ░░░░░░░░░░░░░░░░░░  7 · GITHUB SKYLINE  ░░░░░░░░░░░░░░░░░░ -->
@@ -158,7 +158,7 @@ A 3D-printable model of my contribution history, rendered by GitHub's own Skylin
 </div>
 
 <br/>
-<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/divider.svg" width="100%" alt="" />
 <br/>
 
 <!-- ░░░░░░░░░░░░░░░░░░  8 · GITHUB CITY  ░░░░░░░░░░░░░░░░░░ -->
@@ -179,7 +179,7 @@ The same contribution history, reimagined as a drivable procedural city — dens
 </div>
 
 <br/>
-<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/divider.svg" width="100%" alt="" />
 <br/>
 
 <!-- ░░░░░░░░░░░░░░░░░░  9 · YEARLY JOURNEY  ░░░░░░░░░░░░░░░░░░ -->
@@ -188,12 +188,12 @@ The same contribution history, reimagined as a drivable procedural city — dens
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/yearly-journey-premium.svg" width="100%" alt="Yearly journey cards 2024 to 2026 — First Steps at CIT and BetShow, Shipping and Scaling with Reach Skyline, Agentic AI and DevOps at Cognizant, and the Team DYNAMITE hackathon circuit" />
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/yearly-journey-premium.svg" width="100%" alt="Yearly journey cards 2024 to 2026 — First Steps at CIT and BetShow, Shipping and Scaling with Reach Skyline, Agentic AI and DevOps at Cognizant, and the Team DYNAMITE hackathon circuit" />
 
 </div>
 
 <br/>
-<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/divider.svg" width="100%" alt="" />
 <br/>
 
 <!-- ░░░░░░░░░░░░░░░░░░  10 · GITHUB ANALYTICS  ░░░░░░░░░░░░░░░░░░ -->
@@ -224,9 +224,9 @@ The same contribution history, reimagined as a drivable procedural city — dens
 
 ### Contribution Universe — three renders of the same graph
 
-<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/profile-3d-contrib/profile-gitblock.svg" width="32%" alt="3D isometric git-block style contribution skyline" />
-<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/profile-3d-contrib/profile-night-rainbow.svg" width="32%" alt="3D night rainbow style contribution skyline" />
-<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/profile-3d-contrib/profile-night-view.svg" width="32%" alt="3D night view style contribution skyline" />
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/profile-3d-contrib/profile-gitblock.svg" width="32%" alt="3D isometric git-block style contribution skyline" />
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/profile-3d-contrib/profile-night-rainbow.svg" width="32%" alt="3D night rainbow style contribution skyline" />
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/profile-3d-contrib/profile-night-view.svg" width="32%" alt="3D night view style contribution skyline" />
 
 <br/>
 
@@ -237,7 +237,7 @@ The same contribution history, reimagined as a drivable procedural city — dens
 </div>
 
 <br/>
-<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/divider.svg" width="100%" alt="" />
 <br/>
 
 <!-- ░░░░░░░░░░░░░░░░░░  11 · FEATURED PROJECTS  ░░░░░░░░░░░░░░░░░░ -->
@@ -246,7 +246,7 @@ The same contribution history, reimagined as a drivable procedural city — dens
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/featured-projects-premium.svg" width="100%" alt="Four premium project cards: Cryptographically Enforced AI Forensic Intelligence Platform, CrimeGPT AI Legal Intelligence and Case Management, ASI-Gen Agentic Statistical Report Generation System, EDUMITE Adaptive AI Tutoring" />
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/featured-projects-premium.svg" width="100%" alt="Four premium project cards: Cryptographically Enforced AI Forensic Intelligence Platform, CrimeGPT AI Legal Intelligence and Case Management, ASI-Gen Agentic Statistical Report Generation System, EDUMITE Adaptive AI Tutoring" />
 
 <br/>
 
@@ -255,7 +255,7 @@ The same contribution history, reimagined as a drivable procedural city — dens
 </div>
 
 <br/>
-<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/divider.svg" width="100%" alt="" />
 <br/>
 
 <!-- ░░░░░░░░░░░░░░░░░░  12 · ACHIEVEMENTS  ░░░░░░░░░░░░░░░░░░ -->
@@ -264,16 +264,16 @@ The same contribution history, reimagined as a drivable procedural city — dens
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/achievements-premium.svg" width="100%" alt="Achievement cards for Statathon, CSIC 1.0, Hack-A-Thon 1.0, HackSetu 1.0, CYBERHACKATHON v4.0, SUVIDHA 2026, a competitive-programming summary, and certifications in Java, Cisco AI and Cybersecurity, MongoDB, and AWS" />
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/achievements-premium.svg" width="100%" alt="Achievement cards for Statathon, CSIC 1.0, Hack-A-Thon 1.0, HackSetu 1.0, CYBERHACKATHON v4.0, SUVIDHA 2026, a competitive-programming summary, and certifications in Java, Cisco AI and Cybersecurity, MongoDB, and AWS" />
 
 <br/>
 
-<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/trophy-3d.svg" width="150" alt="3D animated golden trophy" />
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/trophy-3d.svg" width="150" alt="3D animated golden trophy" />
 
 </div>
 
 <br/>
-<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/divider.svg" width="100%" alt="" />
 <br/>
 
 <!-- ░░░░░░░░░░░░░░░░░░  13 · COMPETITIVE PROGRAMMING  ░░░░░░░░░░░░░░░░░░ -->
@@ -295,7 +295,7 @@ The same contribution history, reimagined as a drivable procedural city — dens
 </div>
 
 <br/>
-<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/divider.svg" width="100%" alt="" />
 <br/>
 
 <!-- ░░░░░░░░░░░░░░░░░░  14 · OPEN SOURCE  ░░░░░░░░░░░░░░░░░░ -->
@@ -317,7 +317,7 @@ This profile README itself is open for anyone to fork under the MIT license belo
 </div>
 
 <br/>
-<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/divider.svg" width="100%" alt="" />
 <br/>
 
 <!-- ░░░░░░░░░░░░░░░░░░  15 · CONNECT  ░░░░░░░░░░░░░░░░░░ -->
