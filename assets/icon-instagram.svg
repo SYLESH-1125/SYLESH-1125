@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" fill="none" role="img" aria-label="Instagram profile icon badge, luxury gold on black, camera motif">
+  <defs>
+    <radialGradient id="badgeBg4" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#1C1C1F"/>
+      <stop offset="100%" stop-color="#0D0D0E"/>
+    </radialGradient>
+    <linearGradient id="ring4" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F3E6C4"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#8A6A28"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .ring{animation:sp 4s ease-in-out infinite}
+    @keyframes sp{0%,100%{opacity:.75}50%{opacity:1}}
+  </style>
+  <circle cx="60" cy="60" r="56" fill="url(#badgeBg4)"/>
+  <circle class="ring" cx="60" cy="60" r="54" fill="none" stroke="url(#ring4)" stroke-width="2.2"/>
+  <rect x="34" y="34" width="52" height="52" rx="14" fill="none" stroke="#D4AF37" stroke-width="3"/>
+  <circle cx="60" cy="60" r="14" fill="none" stroke="#D4AF37" stroke-width="3"/>
+  <circle cx="76" cy="44" r="3.2" fill="#D4AF37"/>
+</svg>

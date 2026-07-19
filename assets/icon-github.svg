@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" fill="none" role="img" aria-label="GitHub profile icon badge, luxury gold on black, git-branch motif">
+  <defs>
+    <radialGradient id="badgeBg3" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#1C1C1F"/>
+      <stop offset="100%" stop-color="#0D0D0E"/>
+    </radialGradient>
+    <linearGradient id="ring3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F3E6C4"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#8A6A28"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .ring{animation:sp 4s ease-in-out infinite}
+    @keyframes sp{0%,100%{opacity:.75}50%{opacity:1}}
+  </style>
+  <circle cx="60" cy="60" r="56" fill="url(#badgeBg3)"/>
+  <circle class="ring" cx="60" cy="60" r="54" fill="none" stroke="url(#ring3)" stroke-width="2.2"/>
+  <g stroke="#D4AF37" stroke-width="3" fill="none" stroke-linecap="round">
+    <line x1="42" y1="38" x2="42" y2="82"/>
+    <line x1="42" y1="60" x2="78" y2="60"/>
+    <path d="M 78,60 C 88,60 88,74 78,74"/>
+  </g>
+  <circle cx="42" cy="38" r="6" fill="#0D0D0E" stroke="#D4AF37" stroke-width="3"/>
+  <circle cx="42" cy="82" r="6" fill="#0D0D0E" stroke="#D4AF37" stroke-width="3"/>
+  <circle cx="76" cy="74" r="6" fill="#0D0D0E" stroke="#D4AF37" stroke-width="3"/>
+</svg>

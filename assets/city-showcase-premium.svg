@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" fill="none" role="img" aria-label="Three premium tiles previewing the drivable GitHub City procedural model for 2024, 2025, and 2026 live">
+  <defs>
+    <linearGradient id="ctTile" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#17171A"/>
+      <stop offset="100%" stop-color="#0D0D0E"/>
+    </linearGradient>
+    <linearGradient id="ctBlock" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#C9A24A"/>
+      <stop offset="100%" stop-color="#6B5220"/>
+    </linearGradient>
+    <linearGradient id="ctBlockLive" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFE9A8"/>
+      <stop offset="100%" stop-color="#D4AF37"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text{font-family:'Segoe UI',Arial,sans-serif}
+    .headlight{animation:hl 1.8s ease-in-out infinite}
+    @keyframes hl{0%,100%{opacity:1}50%{opacity:.3}}
+    .live{animation:pulse 2.4s ease-in-out infinite}
+    @keyframes pulse{0%,100%{opacity:1}50%{opacity:.4}}
+  </style>
+
+  <!-- Tile 1: 2024 -->
+  <g transform="translate(20,20)">
+    <rect width="360" height="280" rx="16" fill="url(#ctTile)" stroke="#2A2410" stroke-width="1.2"/>
+    <text x="24" y="34" font-size="13" font-weight="700" fill="#8A8A8F" letter-spacing="1">2024 CITY</text>
+    <line x1="20" y1="130" x2="340" y2="130" stroke="#3A3320" stroke-width="10"/>
+    <line x1="20" y1="130" x2="340" y2="130" stroke="#8A8A8F" stroke-width="1.4" stroke-dasharray="10 8"/>
+    <rect x="40" y="80" width="34" height="46" fill="url(#ctBlock)"/>
+    <rect x="90" y="60" width="28" height="66" fill="url(#ctBlock)"/>
+    <rect x="140" y="90" width="40" height="36" fill="url(#ctBlock)"/>
+    <rect x="200" y="70" width="30" height="56" fill="url(#ctBlock)"/>
+    <rect x="250" y="95" width="36" height="31" fill="url(#ctBlock)"/>
+    <rect x="55" y="145" width="30" height="40" fill="url(#ctBlock)" opacity="0.85"/>
+    <rect x="140" y="150" width="42" height="35" fill="url(#ctBlock)" opacity="0.85"/>
+    <rect x="220" y="145" width="32" height="40" fill="url(#ctBlock)" opacity="0.85"/>
+    <text x="180" y="264" text-anchor="middle" font-size="11" fill="#6E6E73">Low-rise district &#183; archived</text>
+  </g>
+
+  <!-- Tile 2: 2025 -->
+  <g transform="translate(420,20)">
+    <rect width="360" height="280" rx="16" fill="url(#ctTile)" stroke="#2A2410" stroke-width="1.2"/>
+    <text x="24" y="34" font-size="13" font-weight="700" fill="#8A8A8F" letter-spacing="1">2025 CITY</text>
+    <line x1="20" y1="130" x2="340" y2="130" stroke="#3A3320" stroke-width="10"/>
+    <line x1="20" y1="130" x2="340" y2="130" stroke="#8A8A8F" stroke-width="1.4" stroke-dasharray="10 8"/>
+    <rect x="35" y="55" width="30" height="71" fill="url(#ctBlock)"/>
+    <rect x="80" y="35" width="26" height="91" fill="url(#ctBlock)"/>
+    <rect x="122" y="65" width="38" height="61" fill="url(#ctBlock)"/>
+    <rect x="176" y="45" width="30" height="81" fill="url(#ctBlock)"/>
+    <rect x="222" y="60" width="34" height="66" fill="url(#ctBlock)"/>
+    <rect x="270" y="75" width="30" height="51" fill="url(#ctBlock)"/>
+    <rect x="50" y="145" width="34" height="45" fill="url(#ctBlock)" opacity="0.85"/>
+    <rect x="140" y="150" width="46" height="40" fill="url(#ctBlock)" opacity="0.85"/>
+    <rect x="230" y="145" width="36" height="45" fill="url(#ctBlock)" opacity="0.85"/>
+    <text x="180" y="264" text-anchor="middle" font-size="11" fill="#6E6E73">Denser blocks &#183; archived</text>
+  </g>
+
+  <!-- Tile 3: 2026 live -->
+  <g transform="translate(820,20)">
+    <rect width="360" height="280" rx="16" fill="url(#ctTile)" stroke="#D4AF37" stroke-width="1.6"/>
+    <circle class="live" cx="332" cy="30" r="5" fill="#FF6B35"/>
+    <text x="24" y="34" font-size="13" font-weight="700" fill="#D4AF37" letter-spacing="1">2026 CITY &#183; LIVE</text>
+    <line x1="20" y1="130" x2="340" y2="130" stroke="#3A3320" stroke-width="10"/>
+    <line x1="20" y1="130" x2="340" y2="130" stroke="#D4AF37" stroke-width="1.4" stroke-dasharray="10 8" opacity="0.6"/>
+    <circle class="headlight" cx="120" cy="130" r="2.6" fill="#FFE9A8"/>
+    <circle class="headlight" cx="230" cy="130" r="2.6" fill="#FFE9A8"/>
+    <rect x="30" y="40" width="32" height="86" fill="url(#ctBlockLive)"/>
+    <rect x="75" y="20" width="28" height="106" fill="url(#ctBlockLive)"/>
+    <rect x="118" y="50" width="42" height="76" fill="url(#ctBlockLive)"/>
+    <rect x="176" y="28" width="32" height="98" fill="url(#ctBlockLive)"/>
+    <rect x="224" y="45" width="36" height="81" fill="url(#ctBlockLive)"/>
+    <rect x="276" y="60" width="30" height="66" fill="url(#ctBlockLive)"/>
+    <rect x="45" y="145" width="36" height="50" fill="url(#ctBlockLive)" opacity="0.9"/>
+    <rect x="140" y="150" width="48" height="45" fill="url(#ctBlockLive)" opacity="0.9"/>
+    <rect x="235" y="145" width="38" height="50" fill="url(#ctBlockLive)" opacity="0.9"/>
+    <text x="180" y="264" text-anchor="middle" font-size="11" fill="#8A8A8F">Skyscraper district &#183; growing monthly</text>
+  </g>
+</svg>

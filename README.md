@@ -175,9 +175,13 @@ Designed and built a hospital management system (Flutter + React) to streamline 
 
 A 3D-printable model of my contribution history, rendered by GitHub's own Skyline tool — each tower is a month, each height is how much I shipped.
 
-<br/><br/>
+<br/>
 
-**[2026 (live)](https://skyline.github.com/SYLESH-1125/2026)** &nbsp;·&nbsp; **[2025](https://skyline.github.com/SYLESH-1125/2025)** &nbsp;·&nbsp; **[2024](https://skyline.github.com/SYLESH-1125/2024)**
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/skyline-showcase-premium.svg" width="100%" alt="Three premium tiles previewing the GitHub Skyline contribution model for 2024, 2025, and the live 2026 model" />
+
+<br/>
+
+**[📐 Spin the 2026 model (live)](https://skyline.github.com/SYLESH-1125/2026)** &nbsp;·&nbsp; **[2025](https://skyline.github.com/SYLESH-1125/2025)** &nbsp;·&nbsp; **[2024](https://skyline.github.com/SYLESH-1125/2024)**
 
 <br/>
 <sub>Opens an interactive 3D model at <a href="https://skyline.github.com">skyline.github.com</a> — spin it, zoom it, download the .stl to 3D print.</sub>
@@ -196,9 +200,13 @@ A 3D-printable model of my contribution history, rendered by GitHub's own Skylin
 
 The same contribution history, reimagined as a drivable procedural city — denser districts mean busier months.
 
-<br/><br/>
+<br/>
 
-**[2026 city (live)](https://honzaap.github.io/GithubCity?name=SYLESH-1125&year=2026)** &nbsp;·&nbsp; **[2025 city](https://honzaap.github.io/GithubCity?name=SYLESH-1125&year=2025)** &nbsp;·&nbsp; **[2024 city](https://honzaap.github.io/GithubCity?name=SYLESH-1125&year=2024)**
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/city-showcase-premium.svg" width="100%" alt="Three premium tiles previewing the drivable GitHub City procedural model for 2024, 2025, and the live 2026 model" />
+
+<br/>
+
+**[🚗 Drive through 2026 (live)](https://honzaap.github.io/GithubCity?name=SYLESH-1125&year=2026)** &nbsp;·&nbsp; **[2025 city](https://honzaap.github.io/GithubCity?name=SYLESH-1125&year=2025)** &nbsp;·&nbsp; **[2024 city](https://honzaap.github.io/GithubCity?name=SYLESH-1125&year=2024)**
 
 <br/>
 <sub>Powered by <a href="https://honzaap.github.io/GithubCity">honzaap.github.io/GithubCity</a> — an independent open-source visualizer, not affiliated with GitHub.</sub>
@@ -353,7 +361,19 @@ This profile README itself is open for anyone to fork under the MIT license belo
 
 <div align="center">
 
-<br/>
+<sub>Let's build something. Reach out through any of these.</sub>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/sylesh-pavendan-361a69328/"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/icon-linkedin.svg" width="64" height="64" alt="LinkedIn" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:sylesh1125@gmail.com"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/icon-email.svg" width="64" height="64" alt="Email" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/SYLESH-1125"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/icon-github.svg" width="64" height="64" alt="GitHub" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/syl._.star"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/icon-instagram.svg" width="64" height="64" alt="Instagram" /></a>
+
+<br/><br/>
 
 **[LinkedIn](https://www.linkedin.com/in/sylesh-pavendan-361a69328/)** &nbsp;&nbsp;·&nbsp;&nbsp; **[Email](mailto:sylesh1125@gmail.com)** &nbsp;&nbsp;·&nbsp;&nbsp; **[GitHub](https://github.com/SYLESH-1125)** &nbsp;&nbsp;·&nbsp;&nbsp; **[Instagram](https://instagram.com/syl._.star)**
 
