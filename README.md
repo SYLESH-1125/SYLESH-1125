@@ -84,7 +84,7 @@
 
 <div align="center">
 <a href="https://github.com/SYLESH-1125">
-<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/clone-about-hero.svg" width="100%" alt="Sylesh Pavendan — editorial profile banner, currently cooking four active builds" />
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/clone-about-hero.svg?v=cooking" width="100%" alt="Sylesh Pavendan — editorial profile banner, currently cooking four active builds" />
 </a>
 </div>
 
@@ -162,10 +162,10 @@ Always open to discussions on **AI**, **Software Engineering**, **System Design*
 
 <!-- ░░░░░░░░░░░░░░░░░░  3 · NOW COOKING  ░░░░░░░░░░░░░░░░░░ -->
 <a id="now-building"></a>
-<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/headers/now-grinding.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/headers/now-cooking.svg" width="100%" alt="Now Cooking — active builds" />
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/clone-current-focus.svg" width="100%" alt="Six current-focus tiles: Agentic AI at Cognizant, AI Forensic Platform, CrimeGPT, ASI-Gen, EDUMITE, and Competitive Programming, each with tags and a live status badge" />
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/clone-current-focus.svg?v=cooking" width="100%" alt="Six current-focus tiles: Agentic AI at Cognizant, AI Forensic Platform, CrimeGPT, ASI-Gen, EDUMITE, and Competitive Programming, each with tags and a live status badge" />
 </div>
 
 <br/>
