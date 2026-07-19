@@ -1,12 +1,14 @@
 <!-- ============================================================= -->
-<!--  SYLESH PAVENDAN · CYBERPUNK GOLD · 3D PORTFOLIO  ·  v4.0    -->
+<!--  SYLESH PAVENDAN · CYBERPUNK GOLD · 3D PORTFOLIO  ·  v6.0    -->
 <!--  Theme →  GOLD #F5E36A · BLACK #000000 · BG #0D1117          -->
 <!--  Custom 3D SVGs live in /assets — avatar · trophy · projects -->
+<!--  Structure → Intro → Who Am I → Tech Grid → Stats → Projects -->
+<!--             → Timeline → Achievements → Contact               -->
 <!-- ============================================================= -->
 
 <a id="top"></a>
 
-<!-- ░░░░░░░░░░░░░░░░░░  3D HERO  ░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░░  1 · INTRODUCTION  ░░░░░░░░░░░░░░░░░░ -->
 
 <!-- GOLD WAVE RIBBON (decorative only) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F5E36A&height=130&section=header&reversal=true" width="100%" />
@@ -24,7 +26,14 @@
 <br/>
 
 <!-- ANIMATED ROLE TITLES -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=F5E36A&center=true&vCenter=true&width=780&height=56&lines=Full-Stack+Developer+%7C+AI%2FML+Engineer;LeetCode+Knight+%E2%80%94+Top+4.39%25+Globally;3%C3%97+National+Hackathon+Winner+%7C+Team+DYNAMITE;Web3+Explorer+%7C+Agentic+AI+Builder" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=F5E36A&center=true&vCenter=true&width=780&height=56&lines=Full-Stack+Developer+%7C+AI%2FML+Engineer;LeetCode+Knight+%E2%80%94+Top+4.39%25+Globally;3%C3%97+National+Hackathon+Winner+%7C+Team+DYNAMITE;Web3+Explorer+%7C+Agentic+AI+Builder" alt="Animated role-title typing banner" />
+
+<br/><br/>
+
+<!-- PROFILE VITALS — views · followers · stars · repos -->
+<img src="https://komarev.com/ghpvc/?username=SYLESH-1125&label=Profile%20Views&color=F5E36A&style=for-the-badge" alt="Profile view counter" />
+<img src="https://img.shields.io/github/followers/SYLESH-1125?label=Followers&style=for-the-badge&color=F5E36A&labelColor=000000" alt="GitHub followers count" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/SYLESH-1125&label=Public%20Repos&query=$.public_repos&color=F5E36A&style=for-the-badge&labelColor=000000" alt="Public repository count" />
 
 <br/><br/>
 
@@ -47,30 +56,53 @@
 
 ### 🎮 Explore My Universe — <i>tap to teleport</i>
 
-<a href="#-about-me"><img src="https://img.shields.io/badge/💫_About-000000?style=for-the-badge&color=F5E36A&labelColor=000000" /></a>
-<a href="#-signature-3d-builds"><img src="https://img.shields.io/badge/🚀_Projects-000000?style=for-the-badge&color=F5E36A&labelColor=000000" /></a>
-<a href="#-hall-of-fame"><img src="https://img.shields.io/badge/🏆_Achievements-000000?style=for-the-badge&color=F5E36A&labelColor=000000" /></a>
-<a href="#-3d-skill-constellation"><img src="https://img.shields.io/badge/🪐_Skills-000000?style=for-the-badge&color=F5E36A&labelColor=000000" /></a>
-<a href="#-tech-stack"><img src="https://img.shields.io/badge/💻_Stack-000000?style=for-the-badge&color=F5E36A&labelColor=000000" /></a>
+<a href="#-who-am-i"><img src="https://img.shields.io/badge/🧑‍💻_Who_Am_I-000000?style=for-the-badge&color=F5E36A&labelColor=000000" /></a>
+<a href="#-tech-stack-grid"><img src="https://img.shields.io/badge/🧩_Tech_Grid-000000?style=for-the-badge&color=F5E36A&labelColor=000000" /></a>
 <a href="#-github-stats"><img src="https://img.shields.io/badge/📊_Stats-000000?style=for-the-badge&color=F5E36A&labelColor=000000" /></a>
+<a href="#-projects"><img src="https://img.shields.io/badge/🚀_Projects-000000?style=for-the-badge&color=F5E36A&labelColor=000000" /></a>
+<a href="#-timeline"><img src="https://img.shields.io/badge/📅_Timeline-000000?style=for-the-badge&color=F5E36A&labelColor=000000" /></a>
+<a href="#-achievements"><img src="https://img.shields.io/badge/🏆_Achievements-000000?style=for-the-badge&color=F5E36A&labelColor=000000" /></a>
+<a href="#-contact"><img src="https://img.shields.io/badge/📬_Contact-000000?style=for-the-badge&color=F5E36A&labelColor=000000" /></a>
 
 </div>
 
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░░░░  ABOUT  ░░░░░░░░░░░░░░░░░░ -->
-# 💫 About Me
+<!-- ░░░░░░░░░░░░░░░░░░  2 · WHO AM I  ░░░░░░░░░░░░░░░░░░ -->
+# 🧑‍💻 Who Am I
 
-I'm **Sylesh Pavendan**, a full-stack developer proficient in **Flutter, Next.js, Node.js, and Firebase**.
-I specialize in engineering scalable, production-grade applications with clean architecture and rapid iteration cycles.
-My interests span **advanced AI/ML** — including **Agentic AI, LLMs, RAG, deep learning, and NLP-driven intelligence**.
-I'm also exploring **blockchain**, smart contracts, and decentralized systems in the Web3 ecosystem.
-My ambition is to merge full-stack engineering, AI, and blockchain to craft high-impact digital products.
+<div align="center">
+<sub>💭 <i>curious · relentless · ships before it's perfect</i></sub>
+</div>
 
-As Team Lead of **DYNAMITE**, I've secured **3 national-level hackathon wins** and **25+ hackathon finalist selections**.
-I've delivered scalable **full-stack + AI** systems and turned complex ideas into production-ready applications.
-I'm a relentless competitive programmer — **LeetCode Knight, Top 4.39% globally, 1000+ problems solved**.
-Relentlessly learning, building, competing — I'm driven by engineering that makes **real-world impact**. 🚀
+<br/>
+
+```python
+class SyleshPavendan:
+    """Full-stack developer engineering AI-augmented, production-grade systems."""
+
+    role            = "Full-Stack Developer · AI/ML Engineer"
+    location        = "📍 Chennai, India"
+    education       = "B.E. CSE @ CIT — CGPA 9.1/10"
+    languages       = ["Python", "Java", "C++", "TypeScript", "JavaScript", "Dart"]
+    frameworks      = ["Flutter", "Next.js", "Node.js", "Firebase"]
+    currently_into  = ["Agentic AI", "RAG", "LLM Orchestration", "Web3", "Smart Contracts"]
+    competitive     = ["LeetCode Knight — Top 4.39% globally", "1000+ problems solved"]
+    team            = "Lead @ Team DYNAMITE — 3× National Hackathon Winner, 25+ Finalist"
+    available_for   = ["Full-time roles", "Freelance AI / full-stack builds", "Hackathon squads"]
+
+    def philosophy(self) -> str:
+        return "Learn fast → build faster → ship what makes real-world impact."
+
+    def __repr__(self) -> str:
+        return f"<{type(self).__name__} based_in={self.location!r}>"
+
+
+me = SyleshPavendan()
+print(me.philosophy())  # → Learn fast → build faster → ship what makes real-world impact.
+```
+
+I specialize in engineering scalable, production-grade applications with clean architecture and rapid iteration cycles. My interests span **advanced AI/ML** — Agentic AI, LLMs, RAG, deep learning, and NLP-driven intelligence — and I'm actively exploring **blockchain**, smart contracts, and decentralized systems in the Web3 ecosystem. My ambition is to merge full-stack engineering, AI, and blockchain into high-impact digital products.
 
 <div align="center">
 
@@ -81,10 +113,147 @@ Relentlessly learning, building, competing — I'm driven by engineering that ma
 
 </div>
 
+<br/>
+
+<!-- MOTTO TICKER -->
+<p align="center">
+<marquee width="80%" direction="left" scrollamount="6">
+🔥 Always Learning • Always Building • Always Competing • Full-Stack + AI/ML + Agentic AI + Web3 • Team DYNAMITE • 3x Hackathon Winner • 25+ Finalist • LeetCode Knight • 1000+ Solved 🔥
+</marquee>
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
 
-<!-- ░░░░░░░░░░░░░░░░░░  3D PROJECTS  ░░░░░░░░░░░░░░░░░░ -->
-# 🚀 Signature 3D Builds
+<!-- ░░░░░░░░░░░░░░░░░░  3 · TECH STACK GRID  ░░░░░░░░░░░░░░░░░░ -->
+# 🧩 Tech Stack Grid
+
+<div align="center">
+
+<!-- 🪐 CUSTOM 3D ANIMATED ORBIT (hand-crafted SVG) -->
+<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/tech-orbit-3d.svg" width="380" alt="Animated 3D skill orbit" />
+<br/>
+<sub>🛰️ <i>A living orbit of my core domains — full grid below</i></sub>
+
+</div>
+
+<br/>
+
+| 🧠 Core Languages | 🎨 Frontend & Mobile |
+|:---|:---|
+| ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=F5E36A) ![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus&logoColor=F5E36A) ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=F5E36A) ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=F5E36A) ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=F5E36A) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F5E36A) ![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart&logoColor=F5E36A) ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql&logoColor=F5E36A) | ![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter&logoColor=F5E36A) ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=F5E36A) ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=F5E36A) ![Three.js](https://img.shields.io/badge/Three.js-000?style=for-the-badge&logo=threedotjs&logoColor=F5E36A) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss&logoColor=F5E36A) ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=F5E36A) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=F5E36A) |
+| ⚙ **Backend & APIs** | 🗄 **Databases & Cloud** |
+| ![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=F5E36A) ![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=F5E36A) ![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=F5E36A) ![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=F5E36A) ![REST API](https://img.shields.io/badge/REST%20API-000?style=for-the-badge&logo=fastapi&logoColor=F5E36A) ![WebSockets](https://img.shields.io/badge/WebSockets-000?style=for-the-badge&logo=socketdotio&logoColor=F5E36A) | ![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=F5E36A) ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=F5E36A) ![PostgreSQL](https://img.shields.io/badge/Postgres-000?style=for-the-badge&logo=postgresql&logoColor=F5E36A) ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=F5E36A) ![DuckDB](https://img.shields.io/badge/DuckDB-000?style=for-the-badge&logo=duckdb&logoColor=F5E36A) ![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase&logoColor=F5E36A) ![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis&logoColor=F5E36A) |
+| 🤖 **AI / Machine Learning** | 🏗 **System Design & Architecture** |
+| ![PyTorch](https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch&logoColor=F5E36A) ![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow&logoColor=F5E36A) ![scikit-learn](https://img.shields.io/badge/scikit--learn-000?style=for-the-badge&logo=scikitlearn&logoColor=F5E36A) ![OpenCV](https://img.shields.io/badge/OpenCV-000?style=for-the-badge&logo=opencv&logoColor=F5E36A) ![LangChain](https://img.shields.io/badge/LangChain-000?style=for-the-badge&logo=langchain&logoColor=F5E36A) ![LangGraph](https://img.shields.io/badge/LangGraph-000?style=for-the-badge&logo=langgraph&logoColor=F5E36A) ![RAG](https://img.shields.io/badge/RAG-000?style=for-the-badge&logo=chainlink&logoColor=F5E36A) ![LLMs](https://img.shields.io/badge/LLMs%20%2F%20SLMs-000?style=for-the-badge&logo=openai&logoColor=F5E36A) ![NLP](https://img.shields.io/badge/NLP-000?style=for-the-badge&logo=spacy&logoColor=F5E36A) | ![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka&logoColor=F5E36A) ![Microservices](https://img.shields.io/badge/Microservices-000?style=for-the-badge&logo=apachemaven&logoColor=F5E36A) ![Redis Cache](https://img.shields.io/badge/Caching%20(Redis)-000?style=for-the-badge&logo=redis&logoColor=F5E36A) ![CDN](https://img.shields.io/badge/CDN-000?style=for-the-badge&logo=cloudflare&logoColor=F5E36A) ![API Design](https://img.shields.io/badge/API%20Design-000?style=for-the-badge&logo=swagger&logoColor=F5E36A) |
+| ☁️ **Cloud · DevOps & Tools** | 🔐 **Auth, Security & State** |
+| ![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonwebservices&logoColor=F5E36A) ![Azure](https://img.shields.io/badge/Azure-000?style=for-the-badge&logo=microsoftazure&logoColor=F5E36A) ![GCP](https://img.shields.io/badge/Google%20Cloud-000?style=for-the-badge&logo=googlecloud&logoColor=F5E36A) ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=F5E36A) ![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes&logoColor=F5E36A) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000?style=for-the-badge&logo=githubactions&logoColor=F5E36A) ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F5E36A) | ![JWT](https://img.shields.io/badge/JWT-000?style=for-the-badge&logo=jsonwebtokens&logoColor=F5E36A) ![OAuth](https://img.shields.io/badge/OAuth-000?style=for-the-badge&logo=auth0&logoColor=F5E36A) ![BLoC](https://img.shields.io/badge/Flutter%20BLoC-000?style=for-the-badge&logo=flutter&logoColor=F5E36A) ![Provider](https://img.shields.io/badge/Provider-000?style=for-the-badge&logo=flutter&logoColor=F5E36A) ![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux&logoColor=F5E36A) |
+| 🕸 **Web Scraping & Automation** | 🎥 **Editing & Design** |
+| ![Selenium](https://img.shields.io/badge/Selenium-000?style=for-the-badge&logo=selenium&logoColor=F5E36A) ![Puppeteer](https://img.shields.io/badge/Puppeteer-000?style=for-the-badge&logo=puppeteer&logoColor=F5E36A) | ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-000?style=for-the-badge&logo=adobephotoshop&logoColor=F5E36A) ![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-000?style=for-the-badge&logo=adobepremierepro&logoColor=F5E36A) ![Canva](https://img.shields.io/badge/Canva-000?style=for-the-badge&logo=canva&logoColor=F5E36A) ![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=F5E36A) |
+
+<br/>
+
+<details>
+<summary><b>🧭 &nbsp;CS Fundamentals & Skill Constellation (expand)</b></summary>
+
+<br/>
+
+**CS Fundamentals** → DSA · OOP · DBMS · Operating Systems · Computer Networks · System Design (HLD/LLD)
+**Currently Deepening** → Agentic AI orchestration · Vector DBs (ChromaDB) · DeepAgents · Cassandra · Azure AI Foundry
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
+
+<!-- ░░░░░░░░░░░░░░░░░░  4 · GITHUB STATS  ░░░░░░░░░░░░░░░░░░ -->
+# 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SYLESH-1125&theme=great-gatsby&show_icons=true&count_private=true&include_all_commits=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=SYLESH-1125&theme=great-gatsby" height="165" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SYLESH-1125&theme=great-gatsby&layout=compact&langs_count=10" height="150" />
+</div>
+
+<br/>
+
+<!-- 3D-STYLE ISOMETRIC ACTIVITY GRAPH -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SYLESH-1125&bg_color=0D1117&color=F5E36A&line=F5E36A&point=FFFFFF&area=true&area_color=F5E36A&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="100%" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
+
+<!-- ░░░░░░░░░░░░░░░░░░  3D CONTRIBUTION GALLERY  ░░░░░░░░░░░░░░░░░░ -->
+<div align="center">
+
+### 🧊 3D Contribution Universe — <i>five styles, one graph</i>
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/profile-3d-contrib/profile-gitblock.svg" width="100%" alt="3D isometric git-block style contribution skyline" />
+<sub>Git Block</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D night rainbow style contribution skyline" />
+<sub>Night Rainbow</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D animated green style contribution skyline" />
+<sub>Green (Animated)</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D animated seasons style contribution skyline" />
+<sub>Seasons (Animated)</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/profile-3d-contrib/profile-south-season-animate.svg" width="100%" alt="3D animated south-hemisphere seasons style contribution skyline" />
+<sub>South Seasons (Animated)</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D night view style contribution skyline" />
+<sub>Night View</sub>
+</td>
+</tr>
+</table>
+
+<sub>⚙️ <i>Auto-refreshed daily by GitHub Actions (<code>.github/workflows/3d-contrib.yml</code>)</i></sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
+
+<!-- ░░░░░░░░░░░░░░░░░░  SNAKE  ░░░░░░░░░░░░░░░░░░ -->
+<div align="center">
+  <img src="https://raw.githack.com/SYLESH-1125/SYLESH-1125/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
+
+<!-- ░░░░░░░░░░░░░░░░░░  TROPHIES  ░░░░░░░░░░░░░░░░░░ -->
+# 🥇 GitHub Achievements Summary
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SYLESH-1125&theme=github_dark" width="100%" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SYLESH-1125&theme=github_dark" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SYLESH-1125&theme=github_dark&utcOffset=5.5" height="180"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
+
+<!-- ░░░░░░░░░░░░░░░░░░  5 · PROJECTS  ░░░░░░░░░░░░░░░░░░ -->
+# 🚀 Projects
 
 <div align="center">
 
@@ -92,80 +261,19 @@ Relentlessly learning, building, competing — I'm driven by engineering that ma
 <a href="https://github.com/SYLESH-1125?tab=repositories" title="Explore all repositories"><img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/projects-3d.svg" width="100%" alt="3D project showcase cards — click to explore" /></a>
 
 <br/>
-<sub>👆 <i>Tap a card above to dive into the code — or expand a capsule below to explore each build</i></sub>
+<sub>👆 <i>Tap a card above to dive into the code — or read the full case study below</i></sub>
 
 </div>
 
 <br/>
 
-<!-- INTERACTIVE COLLAPSIBLE EXPLORER (real click-to-expand on GitHub) -->
-<details>
-<summary><b>🔐 &nbsp;01 · Cryptographic AI Forensic Platform</b> &nbsp;—&nbsp; <i>click to explore</i></summary>
+**📖 Case studies — Problem · Approach · Stack · Outcome**
 
-<br/>
-
-> **AI-driven forensic intelligence that automates the entire threat lifecycle.**
-
-- 🧬 Rapid, secure data processing via **JIT tokens · Parquet · DuckDB**
-- 🔎 Explainable anomaly detection with **Drain3 + Isolation Forest + SHAP**
-- 🛡️ **GDPR-compliant** cryptographic data shredding for privacy by design
-
-`Python` · `DuckDB` · `SHAP` · `Cryptography` · `Anomaly Detection`
-
-<a href="https://github.com/SYLESH-1125?tab=repositories"><img src="https://img.shields.io/badge/🔗_View_Project-000000?style=for-the-badge&color=F5E36A&labelColor=000000" /></a>
-
-</details>
-
-<details>
-<summary><b>🏥 &nbsp;02 · Patient–Doctor Management Portal</b> &nbsp;—&nbsp; <i>click to explore</i></summary>
-
-<br/>
-
-> **Healthcare platform streamlining appointments & hospital workflows.**
-
-- 🤖 **Agentic workflow automation** — scheduling, cancellations & real-time patient flow
-- 🧠 **GenAI decision logic** drives intelligent routing across the system
-- 👥 **Role-aware AI dashboards** for patients, doctors, admins & receptionists
-
-`Next.js` · `Node.js` · `GenAI` · `Firebase` · `Agentic AI`
-
-<a href="https://github.com/SYLESH-1125?tab=repositories"><img src="https://img.shields.io/badge/🔗_View_Project-000000?style=for-the-badge&color=F5E36A&labelColor=000000" /></a>
-
-</details>
-
-<details>
-<summary><b>🎓 &nbsp;03 · EDUMITE — Adaptive Learning AI</b> &nbsp;—&nbsp; <i>click to explore</i></summary>
-
-<br/>
-
-> **Intelligent tutoring & cognitive analytics platform.**
-
-- 🧩 **LLMs + NLP intent detection** surface weak concepts from quizzes & interactions
-- 📈 **Behavioral analytics** guide each learner's personalized study journey
-- ⚡ **Adaptive engine** blends probabilistic models + recommendation systems for dynamic study paths
-
-`LLMs` · `NLP` · `Python` · `React` · `Recommendation Systems`
-
-<a href="https://github.com/SYLESH-1125?tab=repositories"><img src="https://img.shields.io/badge/🔗_View_Project-000000?style=for-the-badge&color=F5E36A&labelColor=000000" /></a>
-
-</details>
-
-<details>
-<summary><b>📊 &nbsp;04 · ASI-Gen — Agentic Report Engine</b> &nbsp;—&nbsp; <i>click to explore</i></summary>
-
-<br/>
-
-> **AI-driven statistical data processing & automated report generation.**
-
-- 🔄 Automates large-scale survey workflows with **RAG + multi-agent LLM** pipelines
-- 📑 Dynamically generates comprehensive **government statistical reports**
-- ✅ Strict **Z-score / IQR + BERT** validation for high-accuracy, deviation-free output
-
-`RAG` · `Multi-Agent` · `BERT` · `Python` · `LLM Orchestration`
-
-<a href="https://github.com/SYLESH-1125?tab=repositories"><img src="https://img.shields.io/badge/🔗_View_Project-000000?style=for-the-badge&color=F5E36A&labelColor=000000" /></a>
-
-</details>
+| 🔐 Cryptographic AI Forensic Platform | 🏥 Patient–Doctor Management Portal |
+|:---|:---|
+| **Problem.** Security teams need automated forensic intelligence, but most tooling is slow, opaque, and non-compliant with privacy law. **Approach.** Built a pipeline that ingests data via JIT tokens, stores it in Parquet/DuckDB for rapid querying, and flags anomalies with an explainable Drain3 + Isolation Forest + SHAP stack. **Stack.** `Python` · `DuckDB` · `SHAP` · `Cryptography` · `Anomaly Detection` **Outcome.** Explainable threat detection with GDPR-compliant cryptographic data shredding built in by design. | **Problem.** Clinics run appointments, cancellations, and patient routing across disconnected manual workflows. **Approach.** Shipped a full-stack portal with agentic workflow automation for scheduling and GenAI-driven routing logic across role-aware dashboards. **Stack.** `Next.js` · `Node.js` · `GenAI` · `Firebase` · `Agentic AI` **Outcome.** One system serving patients, doctors, admins, and receptionists with real-time flow. |
+| 🎓 EDUMITE — Adaptive Learning AI | 📊 ASI-Gen — Agentic Report Engine |
+| **Problem.** Learners get generic content instead of a path tuned to their actual weak spots. **Approach.** Combined LLM + NLP intent detection on quiz/interaction data with behavioral analytics to drive a probabilistic recommendation engine. **Stack.** `LLMs` · `NLP` · `Python` · `React` · `Recommendation Systems` **Outcome.** An adaptive engine that reshapes the study path per learner, in real time. | **Problem.** Government-scale survey pipelines are manual, slow, and error-prone at scale. **Approach.** Orchestrated a RAG + multi-agent LLM pipeline to automate survey processing end-to-end, with strict statistical validation gates. **Stack.** `RAG` · `Multi-Agent` · `BERT` · `Python` · `LLM Orchestration` **Outcome.** Automated, deviation-free generation of comprehensive statistical reports via Z-score/IQR + BERT validation. |
 
 <div align="center">
 
@@ -175,8 +283,53 @@ Relentlessly learning, building, competing — I'm driven by engineering that ma
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
 
-<!-- ░░░░░░░░░░░░░░░░░░  HALL OF FAME  ░░░░░░░░░░░░░░░░░░ -->
-# 🏆 Hall of Fame
+<!-- ░░░░░░░░░░░░░░░░░░  6 · TIMELINE  ░░░░░░░░░░░░░░░░░░ -->
+# 📅 Timeline
+
+```mermaid
+timeline
+    title Sylesh Pavendan — Milestones So Far
+    2022 : Began B.E. CSE @ CIT
+         : First lines of Python & DSA
+    2023 : Formed Team DYNAMITE
+         : First hackathon finals
+    2024 : 🥈 Statathon — AICTE & MoSPI (₹1L grant, 8,000+ projects)
+         : 🥈 Hack-A-Thon 1.0 — St. Peter's (₹30,000)
+         : 🥈 HackSetu 1.0 — Amity University (₹20,000)
+    2025 : 🏅 CSIC 1.0 — DSCI & MeitY (4th nationally, ₹50K)
+         : ⚔️ LeetCode Knight — Top 4.39% globally
+         : Shipped Agentic AI + RAG powered platforms
+    2026 : 🎯 CYBERHACKATHON v4.0 — Top 20 of 800+ teams
+         : 🎯 SUVIDHA 2026 — C-DAC, MeitY Finalist
+         : Exploring Web3 & decentralized systems
+```
+
+<br/>
+
+**⚡ Sprint Flow — how a hackathon week runs for Team DYNAMITE**
+
+```mermaid
+gitGraph
+   commit id: "ideation"
+   branch dynamite-build
+   checkout dynamite-build
+   commit id: "architecture + repo scaffold"
+   commit id: "core feature #1"
+   branch ai-pipeline
+   checkout ai-pipeline
+   commit id: "agentic/RAG integration"
+   checkout dynamite-build
+   merge ai-pipeline
+   commit id: "UI polish + demo prep"
+   checkout main
+   merge dynamite-build
+   commit id: "🏆 submission" tag: "v1.0"
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
+
+<!-- ░░░░░░░░░░░░░░░░░░  7 · ACHIEVEMENTS  ░░░░░░░░░░░░░░░░░░ -->
+# 🏆 Achievements
 
 <table width="100%">
 <tr>
@@ -208,10 +361,9 @@ Relentlessly learning, building, competing — I'm driven by engineering that ma
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
+<br/>
 
-<!-- ░░░░░░░░░░░░░░░░░░  LEETCODE  ░░░░░░░░░░░░░░░░░░ -->
-# 🧩 LeetCode Profile
+**🧩 Competitive Programming**
 
 <p align="center">
   <a href="https://leetcode.com/u/SYLESH_/">
@@ -231,8 +383,9 @@ Relentlessly learning, building, competing — I'm driven by engineering that ma
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
 
-<!-- ░░░░░░░░░░░░░░░░░░  SOCIALS  ░░░░░░░░░░░░░░░░░░ -->
-## 🌐 Socials
+<!-- ░░░░░░░░░░░░░░░░░░  8 · CONTACT  ░░░░░░░░░░░░░░░░░░ -->
+# 📬 Contact
+
 <p align="center">
 <a href="https://discord.com/invite/YzzuBVk9"><img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=F5E36A" /></a>
 <a href="https://instagram.com/syl._.star"><img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=F5E36A" /></a>
@@ -240,258 +393,6 @@ Relentlessly learning, building, competing — I'm driven by engineering that ma
 <a href="mailto:sylesh1125@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=F5E36A" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
-
-<!-- ░░░░░░░░░░░░░░░░░░  3D SKILL CONSTELLATION  ░░░░░░░░░░░░░░░░░░ -->
-# 🪐 3D Skill Constellation
-
-<div align="center">
-
-<!-- 🪐 CUSTOM 3D ANIMATED ORBIT (hand-crafted SVG) -->
-<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/tech-orbit-3d.svg" width="420" alt="Animated 3D skill orbit" />
-
-<br/>
-<sub>🛰️ <i>A living orbit of my core domains — expand a capsule to explore the full arsenal</i></sub>
-
-</div>
-
-<br/>
-
-<details>
-<summary><b>🧠 &nbsp;Languages &amp; Core CS</b> &nbsp;—&nbsp; <i>expand</i></summary>
-
-<br/>
-
-**Languages** → Python · Java · C++ · C · TypeScript · JavaScript · Dart · SQL
-**CS Fundamentals** → DSA · OOP · DBMS · Operating Systems · Computer Networks · System Design
-
-</details>
-
-<details>
-<summary><b>🤖 &nbsp;AI / Machine Learning &amp; Agentic AI</b> &nbsp;—&nbsp; <i>expand</i></summary>
-
-<br/>
-
-**ML/DL** → PyTorch · TensorFlow · scikit-learn · OpenCV · NLP
-**GenAI** → LLMs · SLMs · RAG · LangChain · LangGraph · DeepAgents · Agentic AI · Vector DB
-
-</details>
-
-<details>
-<summary><b>🌐 &nbsp;Full-Stack &amp; Mobile</b> &nbsp;—&nbsp; <i>expand</i></summary>
-
-<br/>
-
-**Frontend** → React · Next.js · Three.js · Tailwind · HTML5 · CSS3
-**Mobile** → Flutter · Dart · BLoC · Provider · Responsive UI
-**Backend** → Node.js · Express · FastAPI · Flask · REST · WebSockets
-
-</details>
-
-<details>
-<summary><b>🏗️ &nbsp;Data, Cloud &amp; System Design</b> &nbsp;—&nbsp; <i>expand</i></summary>
-
-<br/>
-
-**Databases** → MongoDB · PostgreSQL · MySQL · SQLite · Firebase · DuckDB · Supabase · Cassandra · Redis
-**Cloud/DevOps** → AWS · Azure · GCP · Docker · Kubernetes · GitHub Actions · Azure DevOps · AI Foundry
-**System Design** → Kafka · Microservices · Caching (Redis) · CDN · HLD/LLD · API Design
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
-
-<!-- ░░░░░░░░░░░░░░░░░░  TECH STACK  ░░░░░░░░░░░░░░░░░░ -->
-# 💻 Tech Stack
-
-### 🧠 Core Languages
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=F5E36A)
-![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus&logoColor=F5E36A)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=F5E36A)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=F5E36A)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=F5E36A)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F5E36A)
-![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart&logoColor=F5E36A)
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql&logoColor=F5E36A)
-
----
-
-### 🎨 Frontend & Mobile
-![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter&logoColor=F5E36A)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=F5E36A)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=F5E36A)
-![React Native](https://img.shields.io/badge/React%20Native-000?style=for-the-badge&logo=react&logoColor=F5E36A)
-![Three.js](https://img.shields.io/badge/Three.js-000?style=for-the-badge&logo=threedotjs&logoColor=F5E36A)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss&logoColor=F5E36A)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=F5E36A)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=F5E36A)
-
----
-
-### ⚙ Backend & APIs
-![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=F5E36A)
-![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=F5E36A)
-![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=F5E36A)
-![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=F5E36A)
-![Firebase Functions](https://img.shields.io/badge/Firebase%20Functions-000?style=for-the-badge&logo=firebase&logoColor=F5E36A)
-![REST API](https://img.shields.io/badge/REST%20API-000?style=for-the-badge&logo=fastapi&logoColor=F5E36A)
-![WebSockets](https://img.shields.io/badge/WebSockets-000?style=for-the-badge&logo=socketdotio&logoColor=F5E36A)
-
----
-
-### 🗄 Databases & Cloud
-![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=F5E36A)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=F5E36A)
-![PostgreSQL](https://img.shields.io/badge/Postgres-000?style=for-the-badge&logo=postgresql&logoColor=F5E36A)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=F5E36A)
-![DuckDB](https://img.shields.io/badge/DuckDB-000?style=for-the-badge&logo=duckdb&logoColor=F5E36A)
-![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase&logoColor=F5E36A)
-![Cassandra](https://img.shields.io/badge/Cassandra-000?style=for-the-badge&logo=apachecassandra&logoColor=F5E36A)
-![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=F5E36A)
-![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis&logoColor=F5E36A)
-
----
-
-### 🔐 Auth & Security
-![JWT](https://img.shields.io/badge/JWT-000?style=for-the-badge&logo=jsonwebtokens&logoColor=F5E36A)
-![OAuth](https://img.shields.io/badge/OAuth-000?style=for-the-badge&logo=auth0&logoColor=F5E36A)
-![FirebaseAuth](https://img.shields.io/badge/Firebase%20Auth-000?style=for-the-badge&logo=firebase&logoColor=F5E36A)
-
----
-
-### 🤖 AI / Machine Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch&logoColor=F5E36A)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow&logoColor=F5E36A)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-000?style=for-the-badge&logo=scikitlearn&logoColor=F5E36A)
-![OpenCV](https://img.shields.io/badge/OpenCV-000?style=for-the-badge&logo=opencv&logoColor=F5E36A)
-![LangChain](https://img.shields.io/badge/LangChain-000?style=for-the-badge&logo=langchain&logoColor=F5E36A)
-![LangGraph](https://img.shields.io/badge/LangGraph-000?style=for-the-badge&logo=langgraph&logoColor=F5E36A)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-000?style=for-the-badge&logo=openai&logoColor=F5E36A)
-![RAG](https://img.shields.io/badge/RAG-000?style=for-the-badge&logo=chainlink&logoColor=F5E36A)
-![LLMs](https://img.shields.io/badge/LLMs%20%2F%20SLMs-000?style=for-the-badge&logo=openai&logoColor=F5E36A)
-![GenAI](https://img.shields.io/badge/GenAI-000?style=for-the-badge&logo=googlegemini&logoColor=F5E36A)
-![NLP](https://img.shields.io/badge/NLP-000?style=for-the-badge&logo=spacy&logoColor=F5E36A)
-![Vector DB](https://img.shields.io/badge/Vector%20DB-000?style=for-the-badge&logo=chromadb&logoColor=F5E36A)
-
----
-
-### 🏗️ System Design & Architecture
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka&logoColor=F5E36A)
-![Microservices](https://img.shields.io/badge/Microservices-000?style=for-the-badge&logo=apachemaven&logoColor=F5E36A)
-![Redis Cache](https://img.shields.io/badge/Caching%20(Redis)-000?style=for-the-badge&logo=redis&logoColor=F5E36A)
-![CDN](https://img.shields.io/badge/CDN-000?style=for-the-badge&logo=cloudflare&logoColor=F5E36A)
-![API Design](https://img.shields.io/badge/API%20Design-000?style=for-the-badge&logo=swagger&logoColor=F5E36A)
-
----
-
-### ☁️ Cloud · DevOps & Tools
-![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonwebservices&logoColor=F5E36A)
-![Azure](https://img.shields.io/badge/Azure-000?style=for-the-badge&logo=microsoftazure&logoColor=F5E36A)
-![GCP](https://img.shields.io/badge/Google%20Cloud-000?style=for-the-badge&logo=googlecloud&logoColor=F5E36A)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=F5E36A)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes&logoColor=F5E36A)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000?style=for-the-badge&logo=githubactions&logoColor=F5E36A)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-000?style=for-the-badge&logo=azuredevops&logoColor=F5E36A)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F5E36A)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=F5E36A)
-![VSCode](https://img.shields.io/badge/VSCode-000?style=for-the-badge&logo=visualstudiocode&logoColor=F5E36A)
-![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman&logoColor=F5E36A)
-![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=F5E36A)
-
----
-
-### 📱 State Management
-![BLoC](https://img.shields.io/badge/Flutter%20BLoC-000?style=for-the-badge&logo=flutter&logoColor=F5E36A)
-![Provider](https://img.shields.io/badge/Provider-000?style=for-the-badge&logo=flutter&logoColor=F5E36A)
-![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux&logoColor=F5E36A)
-
----
-
-### 🕸️ Web Scraping & Automation
-![Selenium](https://img.shields.io/badge/Selenium-000?style=for-the-badge&logo=selenium&logoColor=F5E36A)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-000?style=for-the-badge&logo=puppeteer&logoColor=F5E36A)
-
----
-
-### 🎥 Editing & Design
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-000?style=for-the-badge&logo=adobephotoshop&logoColor=F5E36A)
-![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-000?style=for-the-badge&logo=adobepremierepro&logoColor=F5E36A)
-![Canva](https://img.shields.io/badge/Canva-000?style=for-the-badge&logo=canva&logoColor=F5E36A)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
-
-<!-- ░░░░░░░░░░░░░░░░░░  3D CONTRIBUTION UNIVERSE  ░░░░░░░░░░░░░░░░░░ -->
-<div align="center">
-
-### 🧊 3D Contribution Universe
-
-<!-- Isometric 3D contribution skyline (auto-generated by GitHub Action) -->
-<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/profile-3d-contrib/profile-gitblock.svg" width="100%" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
-
-<!-- ░░░░░░░░░░░░░░░░░░  GITHUB STATS (3D)  ░░░░░░░░░░░░░░░░░░ -->
-# 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SYLESH-1125&theme=great-gatsby&show_icons=true&count_private=true&include_all_commits=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=SYLESH-1125&theme=great-gatsby" height="165" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SYLESH-1125&theme=great-gatsby&layout=compact&langs_count=10" height="150" />
-</div>
-
-<br/>
-
-<!-- 3D-STYLE ISOMETRIC ACTIVITY GRAPH -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SYLESH-1125&bg_color=0D1117&color=F5E36A&line=F5E36A&point=FFFFFF&area=true&area_color=F5E36A&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="100%" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
-
-<!-- ░░░░░░░░░░░░░░░░░░  SNAKE  ░░░░░░░░░░░░░░░░░░ -->
-<div align="center">
-  <img src="https://raw.githack.com/SYLESH-1125/SYLESH-1125/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
-
-<!-- ░░░░░░░░░░░░░░░░░░  MARQUEE  ░░░░░░░░░░░░░░░░░░ -->
-<p align="center">
-<marquee width="80%" direction="left" scrollamount="6">
-🔥 Always Learning • Always Building • Always Competing • Full-Stack + AI/ML + Agentic AI + Web3 • Team DYNAMITE • 3x Hackathon Winner • 25+ Finalist • LeetCode Knight • 1000+ Solved 🔥
-</marquee>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
-
-<!-- ░░░░░░░░░░░░░░░░░░  TROPHIES  ░░░░░░░░░░░░░░░░░░ -->
-# 🥇 GitHub Achievements
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SYLESH-1125&theme=github_dark" width="100%" />
-</div>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SYLESH-1125&theme=github_dark" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SYLESH-1125&theme=github_dark&utcOffset=5.5" height="180"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
-
-<!-- ░░░░░░░░░░░░░░░░░░  QUOTE  ░░░░░░░░░░░░░░░░░░ -->
-### ✍️ Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A" width="100%" />
-
-<!-- ░░░░░░░░░░░░░░░░░░  VISITORS  ░░░░░░░░░░░░░░░░░░ -->
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=SYLESH-1125&icon=8&color=0)](https://visitcount.itsvg.in)
