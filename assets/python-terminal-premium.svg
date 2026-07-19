@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" width="900" height="380" fill="none" role="img" aria-label="Animated terminal window typing out a Python bio class for Sylesh Pavendan, looping typewriter effect">
+  <defs>
+    <linearGradient id="ptBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#17171A"/>
+      <stop offset="100%" stop-color="#0D0D0E"/>
+    </linearGradient>
+    <filter id="ptShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000000" flood-opacity="0.55"/>
+    </filter>
+  </defs>
+  <style>
+    text{font-family:'Cascadia Code','Consolas',monospace}
+    .cursor{animation:blink 1s steps(1) infinite}
+    @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+    .r1{animation:rv1 11s linear infinite}
+    .r2{animation:rv2 11s linear infinite}
+    .r3{animation:rv3 11s linear infinite}
+    .r4{animation:rv4 11s linear infinite}
+    .r5{animation:rv5 11s linear infinite}
+    .r6{animation:rv6 11s linear infinite}
+    .r7{animation:rv7 11s linear infinite}
+    .r8{animation:rv8 11s linear infinite}
+    .r9{animation:rv9 11s linear infinite}
+    @keyframes rv1{0%{width:0}0.5%{width:0}5%{width:220px}90%{width:220px}100%{width:0}}
+    @keyframes rv2{0%{width:0}9.5%{width:0}14%{width:420px}90%{width:420px}100%{width:0}}
+    @keyframes rv3{0%{width:0}18.5%{width:0}23%{width:420px}90%{width:420px}100%{width:0}}
+    @keyframes rv4{0%{width:0}27.5%{width:0}32%{width:440px}90%{width:440px}100%{width:0}}
+    @keyframes rv5{0%{width:0}36.5%{width:0}41%{width:440px}90%{width:440px}100%{width:0}}
+    @keyframes rv6{0%{width:0}45.5%{width:0}50%{width:400px}90%{width:400px}100%{width:0}}
+    @keyframes rv7{0%{width:0}54.5%{width:0}59%{width:220px}90%{width:220px}100%{width:0}}
+    @keyframes rv8{0%{width:0}63.5%{width:0}68%{width:460px}90%{width:460px}100%{width:0}}
+    @keyframes rv9{0%{width:0}72.5%{width:0}77%{width:440px}90%{width:440px}100%{width:0}}
+  </style>
+
+  <rect width="900" height="380" rx="18" fill="url(#ptBg)" stroke="#2A2410" stroke-width="1.2" filter="url(#ptShadow)"/>
+
+  <rect x="0" y="0" width="900" height="40" rx="18" fill="#141210"/>
+  <rect x="0" y="20" width="900" height="20" fill="#141210"/>
+  <circle cx="28" cy="20" r="6" fill="#E8734A"/>
+  <circle cx="50" cy="20" r="6" fill="#E8C34A"/>
+  <circle cx="72" cy="20" r="6" fill="#6EA36E"/>
+  <text x="450" y="25" text-anchor="middle" font-size="12.5" fill="#8A8A8F">python3 &#8212; bio.py</text>
+
+  <g font-size="16" fill="#F2F1EC">
+    <text x="30" y="76"><tspan fill="#8A8A8F">$</tspan> python bio.py</text>
+
+    <g clip-path="url(#c1)"><text x="30" y="106"><tspan fill="#E8A33D">class</tspan> <tspan fill="#D4AF37">SyleshPavendan</tspan>:</text></g>
+    <g clip-path="url(#c2)"><text x="30" y="132">    role = <tspan fill="#8FD19E">"Full-Stack Dev / AI-ML Engineer"</tspan></text></g>
+    <g clip-path="url(#c3)"><text x="30" y="158">    education = <tspan fill="#8FD19E">"B.E. CSE @ CIT, CGPA 9.1/10"</tspan></text></g>
+    <g clip-path="url(#c4)"><text x="30" y="184">    currently = <tspan fill="#8FD19E">"Agentic AI Intern @ Cognizant"</tspan></text></g>
+    <g clip-path="url(#c5)"><text x="30" y="210">    team = <tspan fill="#8FD19E">"Lead @ DYNAMITE, 6x Hackathons"</tspan></text></g>
+    <g clip-path="url(#c6)"><text x="30" y="236">    leetcode = <tspan fill="#8FD19E">"Knight, Top 4.39% globally"</tspan></text></g>
+    <g clip-path="url(#c7)"><text x="30" y="262">    <tspan fill="#E8A33D">def</tspan> <tspan fill="#D4AF37">philosophy</tspan>(self):</text></g>
+    <g clip-path="url(#c8)"><text x="30" y="288">        <tspan fill="#E8A33D">return</tspan> <tspan fill="#8FD19E">"Ship fast. Ship clean. Ship again."</tspan></text></g>
+    <g clip-path="url(#c9)"><text x="30" y="326"><tspan fill="#8A8A8F">&gt;&gt;&gt;</tspan> print(SyleshPavendan().philosophy())</text></g>
+    <text x="30" y="352" font-size="14" fill="#D4AF37">Ship fast. Ship clean. Ship again.</text>
+  </g>
+
+  <rect class="cursor" x="30" y="338" width="9" height="16" fill="#D4AF37"/>
+
+  <clipPath id="c1"><rect class="r1" x="30" y="90" width="0" height="20"/></clipPath>
+  <clipPath id="c2"><rect class="r2" x="30" y="116" width="0" height="20"/></clipPath>
+  <clipPath id="c3"><rect class="r3" x="30" y="142" width="0" height="20"/></clipPath>
+  <clipPath id="c4"><rect class="r4" x="30" y="168" width="0" height="20"/></clipPath>
+  <clipPath id="c5"><rect class="r5" x="30" y="194" width="0" height="20"/></clipPath>
+  <clipPath id="c6"><rect class="r6" x="30" y="220" width="0" height="20"/></clipPath>
+  <clipPath id="c7"><rect class="r7" x="30" y="246" width="0" height="20"/></clipPath>
+  <clipPath id="c8"><rect class="r8" x="30" y="272" width="0" height="20"/></clipPath>
+  <clipPath id="c9"><rect class="r9" x="30" y="310" width="0" height="20"/></clipPath>
+</svg>

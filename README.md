@@ -58,6 +58,33 @@ I compete on **LeetCode as a Knight, top 4.39% globally** — 1000+ problems sol
 
 **Currently** — Agentic AI & DevOps Intern at Cognizant, building Agentic AI applications with SLMs, DeepAgents, and LLM orchestration for DevOps automation.
 
+<br/>
+
+<div align="center">
+<sub>Python coding animation — a live look at how I'd describe myself in code</sub>
+<br/><br/>
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/python-terminal-premium.svg" width="100%" alt="Animated terminal typing out a Python bio class for Sylesh Pavendan, looping" />
+</div>
+
+```python
+class SyleshPavendan:
+    """Full-stack developer and AI/ML engineer, second-year @ CIT."""
+
+    role        = "Full-Stack Developer / AI-ML Engineer"
+    education   = "B.E. CSE @ Chennai Institute of Technology, CGPA 9.1/10"
+    stack       = ["Python", "TypeScript", "Java", "C++"]
+    currently   = "Agentic AI & DevOps Intern @ Cognizant"
+    team        = "Lead @ Team DYNAMITE — 6x National Hackathons"
+    leetcode    = "Knight — Top 4.39% globally, 1000+ problems solved"
+
+    def philosophy(self) -> str:
+        return "Ship fast. Ship clean. Ship again."
+
+
+sylesh = SyleshPavendan()
+print(sylesh.philosophy())  # → Ship fast. Ship clean. Ship again.
+```
+
 ### Experience
 
 **Cognizant Technology Solutions** — Agentic AI & DevOps Intern &nbsp;·&nbsp; *Apr 2026 – Sep 2026*
@@ -128,11 +155,11 @@ Designed and built a hospital management system (Flutter + React) to streamline 
 
 <div align="center">
 
-<sub>An original network map of how my technical domains connect — not a copy of anyone else's illustration.</sub>
+<sub>A living map of how my technical mind is organized — an original brain-shaped illustration, recolored in luxury gold, mapping six domains onto six regions.</sub>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/neural-atlas-premium.svg" width="100%" alt="Original skill network connecting AI, Cloud, Architecture, Data, Mobile, Competitive Programming, Programming, and Frontend around a central SP hub" />
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/neural-brain-premium.svg" width="100%" alt="Original stylized brain illustration in luxury gold mapping Backend to the frontal lobe, System Design to the parietal lobe, Frontend to the occipital lobe, AI and Data to the temporal lobe, Cloud and DevOps to the brainstem, and Competitive Programming to the cerebellum" />
 
 </div>
 
