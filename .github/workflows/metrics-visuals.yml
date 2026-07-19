@@ -33,8 +33,36 @@ jobs:
           echo "Years to render: $years"
           echo "years=$years" >> "$GITHUB_OUTPUT"
 
+  # Pre-create the metrics-output branch ourselves. lowlighter/metrics is
+  # known to sometimes fail silently mid-commit (hence continue-on-error
+  # everywhere), which leaves the branch missing entirely if it doesn't
+  # already exist. Guaranteeing the branch exists up front makes every
+  # downstream commit/checkout against it reliable.
+  setup-branch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Ensure metrics-output branch exists
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git ls-remote --exit-code --heads origin metrics-output; then
+            echo "metrics-output already exists"
+          else
+            git checkout --orphan metrics-output
+            git rm -rf . > /dev/null 2>&1 || true
+            echo "# metrics-output" > README.md
+            git add README.md
+            git commit -m "chore: initialize metrics-output branch"
+            git push origin metrics-output
+          fi
+
   city-screenshots:
-    needs: setup-years
+    needs: [setup-years, setup-branch]
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -68,7 +96,7 @@ jobs:
           output_action: commit
 
   stl-skylines:
-    needs: [setup-years, city-screenshots]
+    needs: [setup-years, setup-branch, city-screenshots]
     runs-on: ubuntu-latest
     permissions:
       contents: write
