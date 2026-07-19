@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 990 340" width="990" height="340" fill="none" role="img" aria-label="Achievement cards for Statathon, CSIC 1.0, Hack-A-Thon 1.0, HackSetu 1.0, CYBERHACKATHON v4.0, SUVIDHA 2026, LeetCode Knight, and career summary">
+  <defs>
+    <linearGradient id="acBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#17171A"/>
+      <stop offset="100%" stop-color="#0F0F11"/>
+    </linearGradient>
+    <filter id="acShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000000" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+  <style>text{font-family:'Segoe UI',Arial,sans-serif}</style>
+
+  <rect width="990" height="340" fill="#0A0A0B"/>
+
+  <g transform="translate(20,16)">
+    <rect width="226" height="148" rx="14" fill="url(#acBg)" stroke="#2A2410" stroke-width="1.1" filter="url(#acShadow)"/>
+    <text x="18" y="36" font-size="12" font-weight="800" fill="#D4AF37">2ND PLACE</text>
+    <text x="18" y="62" font-size="14" font-weight="800" fill="#F2F1EC">Statathon</text>
+    <text x="18" y="80" font-size="10" fill="#8A8A8F">AICTE &amp; MoSPI &#183; Govt of India</text>
+    <text x="18" y="114" font-size="17" font-weight="800" fill="#D4AF37">Rs. 1 Lakh</text>
+    <text x="18" y="132" font-size="9.5" fill="#6E6E73">GRANT &#183; AMONG 8,000+ PROJECTS</text>
+  </g>
+  <g transform="translate(261,16)">
+    <rect width="226" height="148" rx="14" fill="url(#acBg)" stroke="#2A2410" stroke-width="1.1" filter="url(#acShadow)"/>
+    <text x="18" y="36" font-size="12" font-weight="800" fill="#D4AF37">NATIONAL</text>
+    <text x="18" y="62" font-size="14" font-weight="800" fill="#F2F1EC">CSIC 1.0</text>
+    <text x="18" y="80" font-size="10" fill="#8A8A8F">DSCI &amp; MeitY &#183; Govt of India</text>
+    <text x="18" y="114" font-size="17" font-weight="800" fill="#D4AF37">4th / 5,000+</text>
+    <text x="18" y="132" font-size="9.5" fill="#6E6E73">NATIONALLY &#183; Rs. 50,000</text>
+  </g>
+  <g transform="translate(502,16)">
+    <rect width="226" height="148" rx="14" fill="url(#acBg)" stroke="#2A2410" stroke-width="1.1" filter="url(#acShadow)"/>
+    <text x="18" y="36" font-size="12" font-weight="800" fill="#D4AF37">2ND PLACE</text>
+    <text x="18" y="62" font-size="14" font-weight="800" fill="#F2F1EC">Hack-A-Thon 1.0</text>
+    <text x="18" y="80" font-size="10" fill="#8A8A8F">St. Peter's, Hyderabad</text>
+    <text x="18" y="114" font-size="17" font-weight="800" fill="#D4AF37">Rs. 30,000</text>
+    <text x="18" y="132" font-size="9.5" fill="#6E6E73">AMONG 2,000+ ENTRIES</text>
+  </g>
+  <g transform="translate(743,16)">
+    <rect width="226" height="148" rx="14" fill="url(#acBg)" stroke="#2A2410" stroke-width="1.1" filter="url(#acShadow)"/>
+    <text x="18" y="36" font-size="12" font-weight="800" fill="#D4AF37">2ND PLACE</text>
+    <text x="18" y="62" font-size="14" font-weight="800" fill="#F2F1EC">HackSetu 1.0</text>
+    <text x="18" y="80" font-size="10" fill="#8A8A8F">Amity University, MP</text>
+    <text x="18" y="114" font-size="17" font-weight="800" fill="#D4AF37">Rs. 20,000</text>
+    <text x="18" y="132" font-size="9.5" fill="#6E6E73">TOP OF 1,000+ GLOBAL</text>
+  </g>
+
+  <g transform="translate(20,176)">
+    <rect width="226" height="148" rx="14" fill="url(#acBg)" stroke="#2A2410" stroke-width="1.1" filter="url(#acShadow)"/>
+    <text x="18" y="36" font-size="12" font-weight="800" fill="#D4AF37">FINALIST</text>
+    <text x="18" y="62" font-size="14" font-weight="800" fill="#F2F1EC">CYBERHACKATHON v4</text>
+    <text x="18" y="80" font-size="10" fill="#8A8A8F">Chennai Police</text>
+    <text x="18" y="114" font-size="17" font-weight="800" fill="#D4AF37">Top 20</text>
+    <text x="18" y="132" font-size="9.5" fill="#6E6E73">FINALIST OF 800+ TEAMS</text>
+  </g>
+  <g transform="translate(261,176)">
+    <rect width="226" height="148" rx="14" fill="url(#acBg)" stroke="#2A2410" stroke-width="1.1" filter="url(#acShadow)"/>
+    <text x="18" y="36" font-size="12" font-weight="800" fill="#D4AF37">FINALIST</text>
+    <text x="18" y="62" font-size="14" font-weight="800" fill="#F2F1EC">SUVIDHA 2026</text>
+    <text x="18" y="80" font-size="10" fill="#8A8A8F">C-DAC, MeitY &#183; Govt of India</text>
+    <text x="18" y="114" font-size="17" font-weight="800" fill="#D4AF37">Top 50</text>
+    <text x="18" y="132" font-size="9.5" fill="#6E6E73">FINALIST &#183; BEST INNOVATION</text>
+  </g>
+  <g transform="translate(502,176)">
+    <rect width="226" height="148" rx="14" fill="url(#acBg)" stroke="#2A2410" stroke-width="1.1" filter="url(#acShadow)"/>
+    <text x="18" y="36" font-size="12" font-weight="800" fill="#D4AF37">GLOBAL RANK</text>
+    <text x="18" y="62" font-size="14" font-weight="800" fill="#F2F1EC">LeetCode Knight</text>
+    <text x="18" y="80" font-size="10" fill="#8A8A8F">Global ranking</text>
+    <text x="18" y="114" font-size="17" font-weight="800" fill="#D4AF37">Top 4.39%</text>
+    <text x="18" y="132" font-size="9.5" fill="#6E6E73">1000+ PROBLEMS SOLVED</text>
+  </g>
+  <g transform="translate(743,176)">
+    <rect width="226" height="148" rx="14" fill="#141210" stroke="#D4AF37" stroke-width="1.6" filter="url(#acShadow)"/>
+    <text x="18" y="36" font-size="12" font-weight="800" fill="#E8A33D">SUMMARY</text>
+    <text x="18" y="62" font-size="14" font-weight="800" fill="#F2F1EC">Career Summary</text>
+    <text x="18" y="90" font-size="12" fill="#B8B8BC"><tspan font-weight="800" fill="#D4AF37">3x</tspan> wins, <tspan font-weight="800" fill="#D4AF37">25+</tspan> finals</text>
+    <text x="18" y="112" font-size="12" fill="#B8B8BC"><tspan font-weight="800" fill="#D4AF37">Rs. 1.5L+</tspan> grants earned</text>
+    <text x="18" y="134" font-size="9.5" fill="#6E6E73">TEAM LEAD @ DYNAMITE</text>
+  </g>
+</svg>

@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 990 640" width="990" height="640" fill="none" role="img" aria-label="Six premium skill cards: Backend, Frontend, AI and Machine Learning, Cloud and DevOps, Databases, Programming Languages">
+  <defs>
+    <linearGradient id="skCardBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#17171A"/>
+      <stop offset="100%" stop-color="#0F0F11"/>
+    </linearGradient>
+    <filter id="skShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000000" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+  <style>text{font-family:'Segoe UI',Arial,sans-serif}</style>
+
+  <rect width="990" height="640" fill="#0A0A0B"/>
+
+  <!-- Backend -->
+  <g transform="translate(20,20)">
+    <rect width="310" height="280" rx="16" fill="url(#skCardBg)" stroke="#2A2410" stroke-width="1.2" filter="url(#skShadow)"/>
+    <rect x="24" y="28" width="34" height="34" rx="9" fill="#141210" stroke="#D4AF37" stroke-width="1.2"/>
+    <text x="41" y="50" text-anchor="middle" font-size="16" fill="#D4AF37">&#9881;</text>
+    <text x="24" y="90" font-size="11" font-weight="700" letter-spacing="2" fill="#8A8A8F">SERVER &#183; APIs &#183; LOGIC</text>
+    <text x="24" y="118" font-size="22" font-weight="800" fill="#F2F1EC">Backend</text>
+    <text x="24" y="142" font-size="12" fill="#8A8A8F">Robust, well-tested server systems.</text>
+    <text x="24" y="176" font-size="13" font-weight="600" fill="#D4AF37">Node.js &#183; Express</text>
+    <text x="24" y="198" font-size="13" font-weight="600" fill="#D4AF37">FastAPI &#183; Flask</text>
+    <line x1="24" y1="220" x2="286" y2="220" stroke="#D4AF37" stroke-opacity="0.15"/>
+    <text x="24"  y="252" font-size="21" font-weight="800" fill="#F2F1EC">3+</text>
+    <text x="24"  y="268" font-size="9.5" letter-spacing="1" fill="#6E6E73">YEARS</text>
+    <text x="112" y="252" font-size="21" font-weight="800" fill="#F2F1EC">10+</text>
+    <text x="112" y="268" font-size="9.5" letter-spacing="1" fill="#6E6E73">PROJECTS</text>
+    <text x="205" y="252" font-size="14" font-weight="800" fill="#D4AF37">ADVANCED</text>
+    <text x="205" y="268" font-size="9.5" letter-spacing="1" fill="#6E6E73">MASTERY</text>
+  </g>
+
+  <!-- Frontend -->
+  <g transform="translate(340,20)">
+    <rect width="310" height="280" rx="16" fill="url(#skCardBg)" stroke="#2A2410" stroke-width="1.2" filter="url(#skShadow)"/>
+    <rect x="24" y="28" width="34" height="34" rx="9" fill="#141210" stroke="#D4AF37" stroke-width="1.2"/>
+    <text x="41" y="50" text-anchor="middle" font-size="14" font-weight="800" fill="#D4AF37">UI</text>
+    <text x="24" y="90" font-size="11" font-weight="700" letter-spacing="2" fill="#8A8A8F">CLIENT &#183; UI &#183; INTERACTION</text>
+    <text x="24" y="118" font-size="22" font-weight="800" fill="#F2F1EC">Frontend</text>
+    <text x="24" y="142" font-size="12" fill="#8A8A8F">Interactive, accessible interfaces.</text>
+    <text x="24" y="176" font-size="13" font-weight="600" fill="#D4AF37">React &#183; Next.js</text>
+    <text x="24" y="198" font-size="13" font-weight="600" fill="#D4AF37">Flutter &#183; TailwindCSS</text>
+    <line x1="24" y1="220" x2="286" y2="220" stroke="#D4AF37" stroke-opacity="0.15"/>
+    <text x="24"  y="252" font-size="21" font-weight="800" fill="#F2F1EC">3+</text>
+    <text x="24"  y="268" font-size="9.5" letter-spacing="1" fill="#6E6E73">YEARS</text>
+    <text x="112" y="252" font-size="21" font-weight="800" fill="#F2F1EC">15+</text>
+    <text x="112" y="268" font-size="9.5" letter-spacing="1" fill="#6E6E73">PROJECTS</text>
+    <text x="205" y="252" font-size="14" font-weight="800" fill="#D4AF37">ADVANCED</text>
+    <text x="205" y="268" font-size="9.5" letter-spacing="1" fill="#6E6E73">MASTERY</text>
+  </g>
+
+  <!-- AI & Machine Learning -->
+  <g transform="translate(660,20)">
+    <rect width="310" height="280" rx="16" fill="url(#skCardBg)" stroke="#2A2410" stroke-width="1.2" filter="url(#skShadow)"/>
+    <rect x="24" y="28" width="34" height="34" rx="9" fill="#141210" stroke="#D4AF37" stroke-width="1.2"/>
+    <text x="41" y="50" text-anchor="middle" font-size="14" font-weight="800" fill="#D4AF37">AI</text>
+    <text x="24" y="90" font-size="11" font-weight="700" letter-spacing="2" fill="#8A8A8F">INTELLIGENCE &#183; ANALYTICS</text>
+    <text x="24" y="118" font-size="21" font-weight="800" fill="#F2F1EC">AI &amp; Machine Learning</text>
+    <text x="24" y="142" font-size="12" fill="#8A8A8F">LLMs, RAG, agents &amp; deep learning.</text>
+    <text x="24" y="176" font-size="13" font-weight="600" fill="#D4AF37">PyTorch &#183; TensorFlow</text>
+    <text x="24" y="198" font-size="13" font-weight="600" fill="#D4AF37">LangChain &#183; RAG</text>
+    <line x1="24" y1="220" x2="286" y2="220" stroke="#D4AF37" stroke-opacity="0.15"/>
+    <text x="24"  y="252" font-size="21" font-weight="800" fill="#F2F1EC">2+</text>
+    <text x="24"  y="268" font-size="9.5" letter-spacing="1" fill="#6E6E73">YEARS</text>
+    <text x="112" y="252" font-size="21" font-weight="800" fill="#F2F1EC">10+</text>
+    <text x="112" y="268" font-size="9.5" letter-spacing="1" fill="#6E6E73">PROJECTS</text>
+    <text x="205" y="252" font-size="14" font-weight="800" fill="#D4AF37">ADVANCED</text>
+    <text x="205" y="268" font-size="9.5" letter-spacing="1" fill="#6E6E73">MASTERY</text>
+  </g>
+
+  <!-- Cloud & DevOps -->
+  <g transform="translate(20,340)">
+    <rect width="310" height="280" rx="16" fill="url(#skCardBg)" stroke="#2A2410" stroke-width="1.2" filter="url(#skShadow)"/>
+    <rect x="24" y="28" width="34" height="34" rx="9" fill="#141210" stroke="#D4AF37" stroke-width="1.2"/>
+    <text x="41" y="50" text-anchor="middle" font-size="14" font-weight="800" fill="#D4AF37">&#9729;</text>
+    <text x="24" y="90" font-size="11" font-weight="700" letter-spacing="2" fill="#8A8A8F">PLATFORM &#183; CI/CD &#183; DEPLOY</text>
+    <text x="24" y="118" font-size="22" font-weight="800" fill="#F2F1EC">Cloud &amp; DevOps</text>
+    <text x="24" y="142" font-size="12" fill="#8A8A8F">Pipelines that ship, not stall.</text>
+    <text x="24" y="176" font-size="13" font-weight="600" fill="#D4AF37">AWS &#183; Docker</text>
+    <text x="24" y="198" font-size="13" font-weight="600" fill="#D4AF37">GitHub Actions &#183; Azure</text>
+    <line x1="24" y1="220" x2="286" y2="220" stroke="#D4AF37" stroke-opacity="0.15"/>
+    <text x="24"  y="252" font-size="21" font-weight="800" fill="#F2F1EC">2+</text>
+    <text x="24"  y="268" font-size="9.5" letter-spacing="1" fill="#6E6E73">YEARS</text>
+    <text x="112" y="252" font-size="21" font-weight="800" fill="#F2F1EC">8+</text>
+    <text x="112" y="268" font-size="9.5" letter-spacing="1" fill="#6E6E73">PROJECTS</text>
+    <text x="205" y="252" font-size="14" font-weight="800" fill="#D4AF37">PROFICIENT</text>
+    <text x="205" y="268" font-size="9.5" letter-spacing="1" fill="#6E6E73">MASTERY</text>
+  </g>
+
+  <!-- Databases -->
+  <g transform="translate(340,340)">
+    <rect width="310" height="280" rx="16" fill="url(#skCardBg)" stroke="#2A2410" stroke-width="1.2" filter="url(#skShadow)"/>
+    <rect x="24" y="28" width="34" height="34" rx="9" fill="#141210" stroke="#D4AF37" stroke-width="1.2"/>
+    <text x="41" y="50" text-anchor="middle" font-size="14" font-weight="800" fill="#D4AF37">DB</text>
+    <text x="24" y="90" font-size="11" font-weight="700" letter-spacing="2" fill="#8A8A8F">PERSISTENCE &#183; STATE &#183; CACHE</text>
+    <text x="24" y="118" font-size="22" font-weight="800" fill="#F2F1EC">Databases</text>
+    <text x="24" y="142" font-size="12" fill="#8A8A8F">Modeling, indexing, performance.</text>
+    <text x="24" y="176" font-size="13" font-weight="600" fill="#D4AF37">PostgreSQL &#183; MongoDB</text>
+    <text x="24" y="198" font-size="13" font-weight="600" fill="#D4AF37">Redis &#183; Firebase</text>
+    <line x1="24" y1="220" x2="286" y2="220" stroke="#D4AF37" stroke-opacity="0.15"/>
+    <text x="24"  y="252" font-size="21" font-weight="800" fill="#F2F1EC">3+</text>
+    <text x="24"  y="268" font-size="9.5" letter-spacing="1" fill="#6E6E73">YEARS</text>
+    <text x="112" y="252" font-size="21" font-weight="800" fill="#F2F1EC">12+</text>
+    <text x="112" y="268" font-size="9.5" letter-spacing="1" fill="#6E6E73">PROJECTS</text>
+    <text x="205" y="252" font-size="14" font-weight="800" fill="#D4AF37">ADVANCED</text>
+    <text x="205" y="268" font-size="9.5" letter-spacing="1" fill="#6E6E73">MASTERY</text>
+  </g>
+
+  <!-- Programming Languages -->
+  <g transform="translate(660,340)">
+    <rect width="310" height="280" rx="16" fill="url(#skCardBg)" stroke="#2A2410" stroke-width="1.2" filter="url(#skShadow)"/>
+    <rect x="24" y="28" width="34" height="34" rx="9" fill="#141210" stroke="#D4AF37" stroke-width="1.2"/>
+    <text x="41" y="50" text-anchor="middle" font-size="14" font-weight="800" fill="#D4AF37">&lt;/&gt;</text>
+    <text x="24" y="90" font-size="11" font-weight="700" letter-spacing="2" fill="#8A8A8F">SYNTAX &#183; PARADIGMS &#183; SPEED</text>
+    <text x="24" y="118" font-size="19" font-weight="800" fill="#F2F1EC">Programming Languages</text>
+    <text x="24" y="142" font-size="12" fill="#8A8A8F">DSA fluency under contest pressure.</text>
+    <text x="24" y="176" font-size="13" font-weight="600" fill="#D4AF37">Python &#183; Java</text>
+    <text x="24" y="198" font-size="13" font-weight="600" fill="#D4AF37">C++ &#183; TypeScript</text>
+    <line x1="24" y1="220" x2="286" y2="220" stroke="#D4AF37" stroke-opacity="0.15"/>
+    <text x="24"  y="252" font-size="21" font-weight="800" fill="#F2F1EC">4+</text>
+    <text x="24"  y="268" font-size="9.5" letter-spacing="1" fill="#6E6E73">YEARS</text>
+    <text x="112" y="252" font-size="21" font-weight="800" fill="#F2F1EC">1000+</text>
+    <text x="112" y="268" font-size="9.5" letter-spacing="1" fill="#6E6E73">SOLVED</text>
+    <text x="205" y="252" font-size="14" font-weight="800" fill="#D4AF37">EXPERT</text>
+    <text x="205" y="268" font-size="9.5" letter-spacing="1" fill="#6E6E73">LEETCODE KNIGHT</text>
+  </g>
+</svg>

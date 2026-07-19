@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 380" width="360" height="380" fill="none" role="img" aria-label="3D animated golden trophy">
   <defs>
     <linearGradient id="trophyCup" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#8A6A12"/>
-      <stop offset="22%" stop-color="#F5E36A"/>
-      <stop offset="50%" stop-color="#FFF8D6"/>
-      <stop offset="78%" stop-color="#F5E36A"/>
-      <stop offset="100%" stop-color="#8A6A12"/>
+      <stop offset="0%" stop-color="#7A5A1E"/>
+      <stop offset="22%" stop-color="#D4AF37"/>
+      <stop offset="50%" stop-color="#F3E6C4"/>
+      <stop offset="78%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#7A5A1E"/>
     </linearGradient>
     <linearGradient id="trophyBase" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#FFF1A6"/>
-      <stop offset="100%" stop-color="#9A7716"/>
+      <stop offset="0%" stop-color="#EAD9A0"/>
+      <stop offset="100%" stop-color="#8A6A28"/>
     </linearGradient>
     <filter id="trophyGlow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="5" result="b"/>
@@ -21,7 +21,7 @@
   </defs>
 
   <!-- shadow -->
-  <ellipse cx="180" cy="356" rx="92" ry="13" fill="#F5E36A" opacity="0.18">
+  <ellipse cx="180" cy="356" rx="92" ry="13" fill="#D4AF37" opacity="0.18">
     <animate attributeName="rx" values="92;74;92" dur="4.5s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.18;0.30;0.18" dur="4.5s" repeatCount="indefinite"/>
   </ellipse>
@@ -30,7 +30,7 @@
     <animateTransform attributeName="transform" type="translate" values="0 0;0 -12;0 0" dur="4.5s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
 
     <!-- base -->
-    <path d="M132 332 H228 L236 356 H124 Z" fill="url(#trophyBase)" stroke="#7A5E10" stroke-width="1"/>
+    <path d="M132 332 H228 L236 356 H124 Z" fill="url(#trophyBase)" stroke="#6B5220" stroke-width="1"/>
     <rect x="150" y="318" width="60" height="15" rx="3" fill="url(#trophyBase)"/>
     <!-- stem -->
     <rect x="170" y="280" width="20" height="42" fill="url(#trophyCup)"/>
@@ -38,11 +38,11 @@
     <path d="M104 80 C54 86 54 152 110 152" fill="none" stroke="url(#trophyCup)" stroke-width="12" stroke-linecap="round"/>
     <path d="M256 80 C306 86 306 152 250 152" fill="none" stroke="url(#trophyCup)" stroke-width="12" stroke-linecap="round"/>
     <!-- cup bowl -->
-    <path d="M104 70 H256 V108 a76 76 0 0 1 -152 0 Z" fill="url(#trophyCup)" stroke="#7A5E10" stroke-width="1.5" filter="url(#trophyGlow)"/>
+    <path d="M104 70 H256 V108 a76 76 0 0 1 -152 0 Z" fill="url(#trophyCup)" stroke="#6B5220" stroke-width="1.5" filter="url(#trophyGlow)"/>
     <!-- rim -->
-    <rect x="98" y="58" width="164" height="16" rx="8" fill="url(#trophyBase)" stroke="#7A5E10" stroke-width="1"/>
+    <rect x="98" y="58" width="164" height="16" rx="8" fill="url(#trophyBase)" stroke="#6B5220" stroke-width="1"/>
     <!-- engraving -->
-    <text x="180" y="126" text-anchor="middle" font-family="'Fira Code','Courier New',monospace" font-size="30" font-weight="800" fill="#3A2D05">3×</text>
+    <text x="180" y="126" text-anchor="middle" font-family="'Fira Code','Courier New',monospace" font-size="30" font-weight="800" fill="#2A2010">3×</text>
 
     <!-- shine sweep -->
     <g clip-path="url(#cupClip)">
@@ -52,7 +52,7 @@
     </g>
 
     <!-- sparkles -->
-    <g fill="#FFF8D6">
+    <g fill="#F3E6C4">
       <path d="M300 58 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3 Z">
         <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/>
       </path>

@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" fill="none" role="img" aria-label="Premium technology orbit, core stack arranged around a central monogram">
+  <defs>
+    <radialGradient id="poCore" cx="42%" cy="38%" r="70%">
+      <stop offset="0%" stop-color="#F3E6C4"/>
+      <stop offset="35%" stop-color="#D4AF37"/>
+      <stop offset="75%" stop-color="#8A6A28"/>
+      <stop offset="100%" stop-color="#17171A"/>
+    </radialGradient>
+    <linearGradient id="poRing" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#D4AF37" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#D4AF37" stop-opacity="0.08"/>
+    </linearGradient>
+    <filter id="poGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="3.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    text{font-family:'Segoe UI',Arial,sans-serif}
+    .n0{animation:breathe 4s ease-in-out 0s infinite}
+    .n1{animation:breathe 4s ease-in-out .3s infinite}
+    .n2{animation:breathe 4s ease-in-out .6s infinite}
+    .n3{animation:breathe 4s ease-in-out .9s infinite}
+    .n4{animation:breathe 4s ease-in-out 1.2s infinite}
+    .n5{animation:breathe 4s ease-in-out 1.5s infinite}
+    .n6{animation:breathe 4s ease-in-out 1.8s infinite}
+    .n7{animation:breathe 4s ease-in-out 2.1s infinite}
+    @keyframes breathe{0%,100%{opacity:.75}50%{opacity:1}}
+    .core{animation:corepulse 3.6s ease-in-out infinite}
+    @keyframes corepulse{0%,100%{transform:scale(1)}50%{transform:scale(1.05)}}
+  </style>
+
+  <circle cx="300" cy="300" r="230" fill="none" stroke="url(#poRing)" stroke-width="1.2" stroke-dasharray="1 7"/>
+  <circle cx="300" cy="300" r="145" fill="none" stroke="url(#poRing)" stroke-width="1.2" stroke-dasharray="1 7"/>
+
+  <g stroke="#D4AF37" stroke-opacity="0.10">
+    <line x1="300" y1="300" x2="300" y2="155"/>
+    <line x1="300" y1="300" x2="425.6" y2="227.5"/>
+    <line x1="300" y1="300" x2="425.6" y2="372.5"/>
+    <line x1="300" y1="300" x2="300" y2="445"/>
+    <line x1="300" y1="300" x2="174.4" y2="372.5"/>
+    <line x1="300" y1="300" x2="174.4" y2="227.5"/>
+  </g>
+
+  <g class="n0" transform="translate(300,155)">
+    <circle r="30" fill="#141416" stroke="#D4AF37" stroke-width="1.6" filter="url(#poGlow)"/>
+    <text x="0" y="5" text-anchor="middle" font-size="12.5" font-weight="700" fill="#F2F1EC">React</text>
+  </g>
+  <g class="n1" transform="translate(425.6,227.5)">
+    <circle r="30" fill="#141416" stroke="#D4AF37" stroke-width="1.6" filter="url(#poGlow)"/>
+    <text x="0" y="5" text-anchor="middle" font-size="12" font-weight="700" fill="#F2F1EC">Next.js</text>
+  </g>
+  <g class="n2" transform="translate(425.6,372.5)">
+    <circle r="30" fill="#141416" stroke="#D4AF37" stroke-width="1.6" filter="url(#poGlow)"/>
+    <text x="0" y="5" text-anchor="middle" font-size="11.5" font-weight="700" fill="#F2F1EC">FastAPI</text>
+  </g>
+  <g class="n3" transform="translate(300,445)">
+    <circle r="30" fill="#141416" stroke="#D4AF37" stroke-width="1.6" filter="url(#poGlow)"/>
+    <text x="0" y="5" text-anchor="middle" font-size="12" font-weight="700" fill="#F2F1EC">Node.js</text>
+  </g>
+  <g class="n4" transform="translate(174.4,372.5)">
+    <circle r="30" fill="#141416" stroke="#D4AF37" stroke-width="1.6" filter="url(#poGlow)"/>
+    <text x="0" y="5" text-anchor="middle" font-size="11" font-weight="700" fill="#F2F1EC">TypeScript</text>
+  </g>
+  <g class="n5" transform="translate(174.4,227.5)">
+    <circle r="30" fill="#141416" stroke="#D4AF37" stroke-width="1.6" filter="url(#poGlow)"/>
+    <text x="0" y="5" text-anchor="middle" font-size="12.5" font-weight="700" fill="#F2F1EC">Python</text>
+  </g>
+
+  <g class="n2" transform="translate(300,70)">
+    <circle r="27" fill="#141416" stroke="#8A6A28" stroke-width="1.4" filter="url(#poGlow)"/>
+    <text x="0" y="5" text-anchor="middle" font-size="12" font-weight="700" fill="#E8A33D">AWS</text>
+  </g>
+  <g class="n6" transform="translate(462.6,137.4)">
+    <circle r="27" fill="#141416" stroke="#8A6A28" stroke-width="1.4" filter="url(#poGlow)"/>
+    <text x="0" y="5" text-anchor="middle" font-size="11" font-weight="700" fill="#E8A33D">Docker</text>
+  </g>
+  <g class="n7" transform="translate(530,300)">
+    <circle r="27" fill="#141416" stroke="#8A6A28" stroke-width="1.4" filter="url(#poGlow)"/>
+    <text x="0" y="5" text-anchor="middle" font-size="10" font-weight="700" fill="#E8A33D">TensorFlow</text>
+  </g>
+  <g class="n0" transform="translate(462.6,462.6)">
+    <circle r="27" fill="#141416" stroke="#8A6A28" stroke-width="1.4" filter="url(#poGlow)"/>
+    <text x="0" y="5" text-anchor="middle" font-size="10.5" font-weight="700" fill="#E8A33D">MongoDB</text>
+  </g>
+  <g class="n1" transform="translate(300,530)">
+    <circle r="27" fill="#141416" stroke="#8A6A28" stroke-width="1.4" filter="url(#poGlow)"/>
+    <text x="0" y="5" text-anchor="middle" font-size="10.5" font-weight="700" fill="#E8A33D">Postgres</text>
+  </g>
+  <g class="n3" transform="translate(137.4,462.6)">
+    <circle r="27" fill="#141416" stroke="#8A6A28" stroke-width="1.4" filter="url(#poGlow)"/>
+    <text x="0" y="5" text-anchor="middle" font-size="10" font-weight="700" fill="#E8A33D">LangChain</text>
+  </g>
+  <g class="n4" transform="translate(70,300)">
+    <circle r="27" fill="#141416" stroke="#8A6A28" stroke-width="1.4" filter="url(#poGlow)"/>
+    <text x="0" y="5" text-anchor="middle" font-size="12" font-weight="700" fill="#E8A33D">RAG</text>
+  </g>
+  <g class="n5" transform="translate(137.4,137.4)">
+    <circle r="27" fill="#141416" stroke="#8A6A28" stroke-width="1.4" filter="url(#poGlow)"/>
+    <text x="0" y="5" text-anchor="middle" font-size="10.5" font-weight="700" fill="#E8A33D">PyTorch</text>
+  </g>
+
+  <g class="core" style="transform-origin:300px 300px">
+    <circle cx="300" cy="300" r="56" fill="url(#poCore)" filter="url(#poGlow)"/>
+    <ellipse cx="284" cy="284" rx="18" ry="10" fill="#FFFFFF" opacity="0.28"/>
+    <text x="300" y="308" text-anchor="middle" font-size="26" font-weight="800" fill="#141210">SP</text>
+  </g>
+
+  <text x="300" y="588" text-anchor="middle" font-size="11" letter-spacing="2" fill="#8A8A8F">FULL-STACK &#183; CLOUD &#183; AGENTIC AI</text>
+</svg>

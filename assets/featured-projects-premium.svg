@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 990 620" width="990" height="620" fill="none" role="img" aria-label="Four premium project cards: Cryptographic AI Forensic Platform, Patient-Doctor Management Portal, EDUMITE Adaptive Learning AI, ASI-Gen Agentic Report Engine">
+  <defs>
+    <linearGradient id="fpBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#17171A"/>
+      <stop offset="100%" stop-color="#0F0F11"/>
+    </linearGradient>
+    <linearGradient id="fpStrip" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8A6A28"/>
+      <stop offset="100%" stop-color="#D4AF37"/>
+    </linearGradient>
+    <filter id="fpShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#000000" flood-opacity="0.55"/>
+    </filter>
+  </defs>
+  <style>text{font-family:'Segoe UI',Arial,sans-serif}</style>
+
+  <rect width="990" height="620" fill="#0A0A0B"/>
+
+  <!-- Card 1 -->
+  <g transform="translate(20,20)">
+    <rect width="460" height="280" rx="18" fill="url(#fpBg)" stroke="#2A2410" stroke-width="1.2" filter="url(#fpShadow)"/>
+    <rect x="0" y="0" width="460" height="6" rx="3" fill="url(#fpStrip)"/>
+    <text x="28" y="44" font-size="19" font-weight="800" fill="#F2F1EC">Cryptographic AI Forensic Platform</text>
+    <text x="28" y="80" font-size="12.5" fill="#B8B8BC">Automated forensic intelligence that explains every</text>
+    <text x="28" y="98" font-size="12.5" fill="#B8B8BC">anomaly it flags, with privacy-by-design shredding.</text>
+    <g font-size="10.5" font-weight="700" fill="#141210">
+      <rect x="28" y="120" width="60" height="24" rx="12" fill="#D4AF37"/><text x="58" y="136" text-anchor="middle">Python</text>
+      <rect x="94" y="120" width="62" height="24" rx="12" fill="#D4AF37"/><text x="125" y="136" text-anchor="middle">DuckDB</text>
+      <rect x="162" y="120" width="50" height="24" rx="12" fill="#D4AF37"/><text x="187" y="136" text-anchor="middle">SHAP</text>
+      <rect x="218" y="120" width="90" height="24" rx="12" fill="#D4AF37"/><text x="263" y="136" text-anchor="middle">Anomaly Detect.</text>
+    </g>
+    <line x1="28" y1="176" x2="432" y2="176" stroke="#D4AF37" stroke-opacity="0.15"/>
+    <text x="28" y="204" font-size="12" font-weight="700" fill="#E8A33D">HIGHLIGHT</text>
+    <text x="28" y="226" font-size="12.5" fill="#F2F1EC">GDPR-compliant cryptographic shredding, built-in.</text>
+    <text x="28" y="256" font-size="11" font-weight="700" fill="#8A8A8F">View on GitHub</text>
+  </g>
+
+  <!-- Card 2 -->
+  <g transform="translate(500,20)">
+    <rect width="470" height="280" rx="18" fill="url(#fpBg)" stroke="#2A2410" stroke-width="1.2" filter="url(#fpShadow)"/>
+    <rect x="0" y="0" width="470" height="6" rx="3" fill="url(#fpStrip)"/>
+    <text x="28" y="44" font-size="19" font-weight="800" fill="#F2F1EC">Patient-Doctor Management Portal</text>
+    <text x="28" y="80" font-size="12.5" fill="#B8B8BC">Agentic scheduling and GenAI-driven routing across</text>
+    <text x="28" y="98" font-size="12.5" fill="#B8B8BC">role-aware dashboards for an entire clinic.</text>
+    <g font-size="10.5" font-weight="700" fill="#141210">
+      <rect x="28" y="120" width="70" height="24" rx="12" fill="#D4AF37"/><text x="63" y="136" text-anchor="middle">Next.js</text>
+      <rect x="104" y="120" width="70" height="24" rx="12" fill="#D4AF37"/><text x="139" y="136" text-anchor="middle">Node.js</text>
+      <rect x="180" y="120" width="66" height="24" rx="12" fill="#D4AF37"/><text x="213" y="136" text-anchor="middle">GenAI</text>
+      <rect x="252" y="120" width="86" height="24" rx="12" fill="#D4AF37"/><text x="295" y="136" text-anchor="middle">Agentic AI</text>
+    </g>
+    <line x1="28" y1="176" x2="442" y2="176" stroke="#D4AF37" stroke-opacity="0.15"/>
+    <text x="28" y="204" font-size="12" font-weight="700" fill="#E8A33D">HIGHLIGHT</text>
+    <text x="28" y="226" font-size="12.5" fill="#F2F1EC">One system for patients, doctors, admins &amp; staff.</text>
+    <text x="28" y="256" font-size="11" font-weight="700" fill="#8A8A8F">View on GitHub</text>
+  </g>
+
+  <!-- Card 3 -->
+  <g transform="translate(20,320)">
+    <rect width="460" height="280" rx="18" fill="url(#fpBg)" stroke="#2A2410" stroke-width="1.2" filter="url(#fpShadow)"/>
+    <rect x="0" y="0" width="460" height="6" rx="3" fill="url(#fpStrip)"/>
+    <text x="28" y="44" font-size="19" font-weight="800" fill="#F2F1EC">EDUMITE - Adaptive Learning AI</text>
+    <text x="28" y="80" font-size="12.5" fill="#B8B8BC">LLM + NLP intent detection surfaces weak concepts</text>
+    <text x="28" y="98" font-size="12.5" fill="#B8B8BC">and reshapes each learner's study path in real time.</text>
+    <g font-size="10.5" font-weight="700" fill="#141210">
+      <rect x="28" y="120" width="54" height="24" rx="12" fill="#D4AF37"/><text x="55" y="136" text-anchor="middle">LLMs</text>
+      <rect x="88" y="120" width="50" height="24" rx="12" fill="#D4AF37"/><text x="113" y="136" text-anchor="middle">NLP</text>
+      <rect x="144" y="120" width="62" height="24" rx="12" fill="#D4AF37"/><text x="175" y="136" text-anchor="middle">Python</text>
+      <rect x="212" y="120" width="52" height="24" rx="12" fill="#D4AF37"/><text x="238" y="136" text-anchor="middle">React</text>
+    </g>
+    <line x1="28" y1="176" x2="432" y2="176" stroke="#D4AF37" stroke-opacity="0.15"/>
+    <text x="28" y="204" font-size="12" font-weight="700" fill="#E8A33D">HIGHLIGHT</text>
+    <text x="28" y="226" font-size="12.5" fill="#F2F1EC">Probabilistic recommendation engine per learner.</text>
+    <text x="28" y="256" font-size="11" font-weight="700" fill="#8A8A8F">View on GitHub</text>
+  </g>
+
+  <!-- Card 4 -->
+  <g transform="translate(500,320)">
+    <rect width="470" height="280" rx="18" fill="url(#fpBg)" stroke="#2A2410" stroke-width="1.2" filter="url(#fpShadow)"/>
+    <rect x="0" y="0" width="470" height="6" rx="3" fill="url(#fpStrip)"/>
+    <text x="28" y="44" font-size="19" font-weight="800" fill="#F2F1EC">ASI-Gen - Agentic Report Engine</text>
+    <text x="28" y="80" font-size="12.5" fill="#B8B8BC">RAG + multi-agent LLM pipeline automates government</text>
+    <text x="28" y="98" font-size="12.5" fill="#B8B8BC">survey processing with strict statistical validation.</text>
+    <g font-size="10.5" font-weight="700" fill="#141210">
+      <rect x="28" y="120" width="48" height="24" rx="12" fill="#D4AF37"/><text x="52" y="136" text-anchor="middle">RAG</text>
+      <rect x="82" y="120" width="92" height="24" rx="12" fill="#D4AF37"/><text x="128" y="136" text-anchor="middle">Multi-Agent</text>
+      <rect x="180" y="120" width="54" height="24" rx="12" fill="#D4AF37"/><text x="207" y="136" text-anchor="middle">BERT</text>
+      <rect x="240" y="120" width="62" height="24" rx="12" fill="#D4AF37"/><text x="271" y="136" text-anchor="middle">Python</text>
+    </g>
+    <line x1="28" y1="176" x2="442" y2="176" stroke="#D4AF37" stroke-opacity="0.15"/>
+    <text x="28" y="204" font-size="12" font-weight="700" fill="#E8A33D">HIGHLIGHT</text>
+    <text x="28" y="226" font-size="12.5" fill="#F2F1EC">Z-score / IQR + BERT gates for deviation-free output.</text>
+    <text x="28" y="256" font-size="11" font-weight="700" fill="#8A8A8F">View on GitHub</text>
+  </g>
+</svg>

@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 620" width="460" height="620" fill="none" role="img" aria-label="Holographic 3D standing developer avatar">
   <defs>
     <radialGradient id="fHeadG" cx="38%" cy="32%" r="68%">
-      <stop offset="0%" stop-color="#FFF8D6"/>
-      <stop offset="45%" stop-color="#F5E36A"/>
-      <stop offset="100%" stop-color="#7A5E10"/>
+      <stop offset="0%" stop-color="#F3E6C4"/>
+      <stop offset="45%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#6B5220"/>
     </radialGradient>
     <linearGradient id="fBodyG" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#1C1800"/>
@@ -11,17 +11,17 @@
       <stop offset="100%" stop-color="#1C1800"/>
     </linearGradient>
     <linearGradient id="fGoldV" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#FFF1A6"/>
-      <stop offset="60%" stop-color="#F5E36A"/>
-      <stop offset="100%" stop-color="#A9851C"/>
+      <stop offset="0%" stop-color="#EAD9A0"/>
+      <stop offset="60%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#B5883A"/>
     </linearGradient>
     <linearGradient id="fAura" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#F5E36A" stop-opacity="0.18"/>
-      <stop offset="100%" stop-color="#F5E36A" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#D4AF37" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#D4AF37" stop-opacity="0"/>
     </linearGradient>
     <radialGradient id="fHalo" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#F5E36A" stop-opacity="0.22"/>
-      <stop offset="100%" stop-color="#F5E36A" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#D4AF37" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#D4AF37" stop-opacity="0"/>
     </radialGradient>
     <filter id="fGlow" x="-60%" y="-60%" width="220%" height="220%">
       <feGaussianBlur stdDeviation="7" result="b"/>
@@ -71,11 +71,11 @@
   </style>
 
   <!-- ── GROUND SHADOW ── -->
-  <ellipse class="shadow" cx="230" cy="568" rx="88" ry="14" fill="#F5E36A"/>
+  <ellipse class="shadow" cx="230" cy="568" rx="88" ry="14" fill="#D4AF37"/>
 
   <!-- ── ORBITAL RINGS (behind figure) ── -->
-  <ellipse class="ring1" cx="230" cy="340" rx="170" ry="65" stroke="#F5E36A" stroke-width="1" stroke-dasharray="4 10" opacity="0.28"/>
-  <ellipse class="ring2" cx="230" cy="340" rx="140" ry="52" stroke="#FFF1A6" stroke-width="0.7" stroke-dasharray="2 8" opacity="0.20"/>
+  <ellipse class="ring1" cx="230" cy="340" rx="170" ry="65" stroke="#D4AF37" stroke-width="1" stroke-dasharray="4 10" opacity="0.28"/>
+  <ellipse class="ring2" cx="230" cy="340" rx="140" ry="52" stroke="#EAD9A0" stroke-width="0.7" stroke-dasharray="2 8" opacity="0.20"/>
 
   <!-- ── FIGURE GROUP (floats) ── -->
   <g class="fig">
@@ -91,14 +91,14 @@
     <path d="M277 388 Q282 460 290 538 L268 538 Q264 460 260 388 Z"
           fill="url(#fBodyG)" stroke="url(#fGoldV)" stroke-width="1.6"/>
     <!-- Knee pads -->
-    <ellipse cx="182" cy="454" rx="12" ry="8" fill="#0D0B00" stroke="#F5E36A" stroke-width="1.2"/>
-    <ellipse cx="278" cy="454" rx="12" ry="8" fill="#0D0B00" stroke="#F5E36A" stroke-width="1.2"/>
+    <ellipse cx="182" cy="454" rx="12" ry="8" fill="#0D0B00" stroke="#D4AF37" stroke-width="1.2"/>
+    <ellipse cx="278" cy="454" rx="12" ry="8" fill="#0D0B00" stroke="#D4AF37" stroke-width="1.2"/>
     <!-- Boots -->
-    <path d="M168 534 Q162 542 158 552 L195 552 L195 534 Z" fill="#1C1800" stroke="#F5E36A" stroke-width="1.5"/>
-    <path d="M292 534 Q298 542 302 552 L265 552 L265 534 Z" fill="#1C1800" stroke="#F5E36A" stroke-width="1.5"/>
+    <path d="M168 534 Q162 542 158 552 L195 552 L195 534 Z" fill="#1C1800" stroke="#D4AF37" stroke-width="1.5"/>
+    <path d="M292 534 Q298 542 302 552 L265 552 L265 534 Z" fill="#1C1800" stroke="#D4AF37" stroke-width="1.5"/>
     <!-- Boot shine -->
-    <line x1="162" y1="544" x2="188" y2="540" stroke="#F5E36A" stroke-width="1" opacity="0.5"/>
-    <line x1="298" y1="544" x2="272" y2="540" stroke="#F5E36A" stroke-width="1" opacity="0.5"/>
+    <line x1="162" y1="544" x2="188" y2="540" stroke="#D4AF37" stroke-width="1" opacity="0.5"/>
+    <line x1="298" y1="544" x2="272" y2="540" stroke="#D4AF37" stroke-width="1" opacity="0.5"/>
 
     <!-- ══ TORSO / HOODIE ══ -->
     <!-- Back shadow of hoodie for depth -->
@@ -106,14 +106,14 @@
     <!-- Main hoodie body -->
     <path d="M148 205 L312 205 L295 390 L165 390 Z" fill="url(#fBodyG)" stroke="url(#fGoldV)" stroke-width="1.8"/>
     <!-- Center zip line -->
-    <line x1="230" y1="210" x2="230" y2="388" stroke="#F5E36A" stroke-width="1.2" opacity="0.4"/>
+    <line x1="230" y1="210" x2="230" y2="388" stroke="#D4AF37" stroke-width="1.2" opacity="0.4"/>
     <!-- Hoodie pocket -->
-    <path d="M190 330 Q190 370 230 372 Q270 370 270 330" fill="none" stroke="#F5E36A" stroke-width="1.2" opacity="0.5"/>
+    <path d="M190 330 Q190 370 230 372 Q270 370 270 330" fill="none" stroke="#D4AF37" stroke-width="1.2" opacity="0.5"/>
     <!-- Chest emblem -->
     <circle cx="230" cy="268" r="20" fill="#0D0B00" stroke="url(#fGoldV)" stroke-width="1.5"/>
-    <text x="230" y="274" text-anchor="middle" font-family="'Fira Code','Courier New',monospace" font-size="14" font-weight="800" fill="#F5E36A">&lt;/&gt;</text>
+    <text x="230" y="274" text-anchor="middle" font-family="'Fira Code','Courier New',monospace" font-size="14" font-weight="800" fill="#D4AF37">&lt;/&gt;</text>
     <!-- Circuit traces on torso -->
-    <g stroke="#F5E36A" stroke-width="0.8" opacity="0.35" fill="none">
+    <g stroke="#D4AF37" stroke-width="0.8" opacity="0.35" fill="none">
       <polyline points="162,240 175,240 180,250 195,250"/>
       <polyline points="298,240 285,240 280,250 265,250"/>
       <polyline points="163,300 178,300 182,308"/>
@@ -130,29 +130,29 @@
     <path d="M312 210 L345 222 L360 320 L352 370 L336 370 L344 322 L330 224 L312 218 Z"
           fill="url(#fBodyG)" stroke="url(#fGoldV)" stroke-width="1.6"/>
     <!-- Elbow pads -->
-    <ellipse cx="112" cy="326" rx="11" ry="8" fill="#0D0B00" stroke="#F5E36A" stroke-width="1.2"/>
-    <ellipse cx="348" cy="326" rx="11" ry="8" fill="#0D0B00" stroke="#F5E36A" stroke-width="1.2"/>
+    <ellipse cx="112" cy="326" rx="11" ry="8" fill="#0D0B00" stroke="#D4AF37" stroke-width="1.2"/>
+    <ellipse cx="348" cy="326" rx="11" ry="8" fill="#0D0B00" stroke="#D4AF37" stroke-width="1.2"/>
     <!-- Gloves / hands -->
     <path d="M106 368 Q100 380 102 392 Q110 402 124 398 Q128 388 126 372 Z"
-          fill="url(#fHeadG)" stroke="#F5E36A" stroke-width="1.2"/>
+          fill="url(#fHeadG)" stroke="#D4AF37" stroke-width="1.2"/>
     <path d="M354 368 Q360 380 358 392 Q350 402 336 398 Q332 388 334 372 Z"
-          fill="url(#fHeadG)" stroke="#F5E36A" stroke-width="1.2"/>
+          fill="url(#fHeadG)" stroke="#D4AF37" stroke-width="1.2"/>
     <!-- Wrist bands -->
-    <rect x="102" y="364" width="28" height="8" rx="4" fill="#0D0B00" stroke="#F5E36A" stroke-width="1.2"/>
-    <rect x="330" y="364" width="28" height="8" rx="4" fill="#0D0B00" stroke="#F5E36A" stroke-width="1.2"/>
+    <rect x="102" y="364" width="28" height="8" rx="4" fill="#0D0B00" stroke="#D4AF37" stroke-width="1.2"/>
+    <rect x="330" y="364" width="28" height="8" rx="4" fill="#0D0B00" stroke="#D4AF37" stroke-width="1.2"/>
 
     <!-- ══ SHOULDERS ══ -->
     <ellipse cx="148" cy="207" rx="26" ry="16" fill="#0D0B00" stroke="url(#fGoldV)" stroke-width="2"/>
     <ellipse cx="312" cy="207" rx="26" ry="16" fill="#0D0B00" stroke="url(#fGoldV)" stroke-width="2"/>
-    <ellipse cx="148" cy="203" rx="20" ry="10" fill="#F5E36A" opacity="0.12"/>
-    <ellipse cx="312" cy="203" rx="20" ry="10" fill="#F5E36A" opacity="0.12"/>
+    <ellipse cx="148" cy="203" rx="20" ry="10" fill="#D4AF37" opacity="0.12"/>
+    <ellipse cx="312" cy="203" rx="20" ry="10" fill="#D4AF37" opacity="0.12"/>
 
     <!-- ══ NECK ══ -->
-    <rect x="212" y="154" width="36" height="54" rx="10" fill="url(#fHeadG)" stroke="#F5E36A" stroke-width="1.2"/>
+    <rect x="212" y="154" width="36" height="54" rx="10" fill="url(#fHeadG)" stroke="#D4AF37" stroke-width="1.2"/>
 
     <!-- ══ HEAD ══ -->
     <!-- Head glow -->
-    <circle cx="230" cy="105" r="62" fill="#F5E36A" opacity="0.08" filter="url(#fDeepGlow)"/>
+    <circle cx="230" cy="105" r="62" fill="#D4AF37" opacity="0.08" filter="url(#fDeepGlow)"/>
     <!-- Hoodie hood (behind head) -->
     <path d="M168 118 Q162 64 230 52 Q298 64 292 118 Q270 88 230 86 Q190 88 168 118 Z"
           fill="#1C1800" stroke="url(#fGoldV)" stroke-width="1.5"/>
@@ -164,20 +164,20 @@
     <ellipse cx="212" cy="108" rx="10" ry="6" fill="#1A1500"/>
     <ellipse cx="248" cy="108" rx="10" ry="6" fill="#1A1500"/>
     <!-- Eye glow -->
-    <ellipse class="eyegl" cx="212" cy="107" rx="5" ry="5" fill="#F5E36A" filter="url(#fSoftGlow)"/>
-    <ellipse class="eyegl" cx="248" cy="107" rx="5" ry="5" fill="#F5E36A" filter="url(#fSoftGlow)"/>
+    <ellipse class="eyegl" cx="212" cy="107" rx="5" ry="5" fill="#D4AF37" filter="url(#fSoftGlow)"/>
+    <ellipse class="eyegl" cx="248" cy="107" rx="5" ry="5" fill="#D4AF37" filter="url(#fSoftGlow)"/>
     <!-- Nose hint -->
-    <circle cx="230" cy="120" r="2.5" fill="#8A6A12" opacity="0.6"/>
+    <circle cx="230" cy="120" r="2.5" fill="#7A5A1E" opacity="0.6"/>
     <!-- Smile -->
-    <path d="M216 131 Q230 141 244 131" stroke="#7A5E10" stroke-width="2" stroke-linecap="round" fill="none"/>
+    <path d="M216 131 Q230 141 244 131" stroke="#6B5220" stroke-width="2" stroke-linecap="round" fill="none"/>
     <!-- Scan line on head -->
-    <rect class="scan" x="176" y="145" width="108" height="3" rx="1.5" fill="#F5E36A" opacity="0.45" clip-path="url(#fHeadClip)"/>
+    <rect class="scan" x="176" y="145" width="108" height="3" rx="1.5" fill="#D4AF37" opacity="0.45" clip-path="url(#fHeadClip)"/>
     <!-- Head circuit -->
     <path class="circ" cx="230" cy="108" d="M176 108 Q176 55 230 52 Q284 55 284 108"
-          stroke="#F5E36A" stroke-width="0.8" fill="none" opacity="0.35"/>
+          stroke="#D4AF37" stroke-width="0.8" fill="none" opacity="0.35"/>
 
     <!-- ══ FLOATING TECH PARTICLES ══ -->
-    <g fill="#F5E36A">
+    <g fill="#D4AF37">
       <circle class="dot1" cx="80"  cy="170" r="3.5"/>
       <circle class="dot2" cx="62"  cy="290" r="2.5"/>
       <circle class="dot3" cx="90"  cy="420" r="2"/>
@@ -185,13 +185,13 @@
       <circle class="dot5" cx="392" cy="360" r="2.5"/>
     </g>
     <!-- Small diamond particles -->
-    <g fill="#FFF8D6" opacity="0.5">
+    <g fill="#F3E6C4" opacity="0.5">
       <rect class="dot2" x="374" y="148" width="5" height="5" rx="1" transform="rotate(45 376.5 150.5)"/>
       <rect class="dot4" x="68"  y="460" width="4" height="4" rx="1" transform="rotate(45 70 462)"/>
     </g>
 
     <!-- ══ HALO / HEADING BAND ══ -->
-    <ellipse class="hband" cx="230" cy="60" rx="56" ry="8" fill="none" stroke="#F5E36A" stroke-width="1.5" stroke-dasharray="5 4" opacity="0.5"/>
+    <ellipse class="hband" cx="230" cy="60" rx="56" ry="8" fill="none" stroke="#D4AF37" stroke-width="1.5" stroke-dasharray="5 4" opacity="0.5"/>
 
   </g>
 
