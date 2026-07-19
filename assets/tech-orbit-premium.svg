@@ -78,7 +78,7 @@
   </g>
   <g class="n7" transform="translate(530,300)">
     <circle r="27" fill="#141416" stroke="#8A6A28" stroke-width="1.4" filter="url(#poGlow)"/>
-    <text x="0" y="5" text-anchor="middle" font-size="10" font-weight="700" fill="#E8A33D">TensorFlow</text>
+    <text x="0" y="5" text-anchor="middle" font-size="11.5" font-weight="700" fill="#E8A33D">Flutter</text>
   </g>
   <g class="n0" transform="translate(462.6,462.6)">
     <circle r="27" fill="#141416" stroke="#8A6A28" stroke-width="1.4" filter="url(#poGlow)"/>

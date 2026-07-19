@@ -1,14 +1,11 @@
 <!-- ============================================================= -->
-<!--  SYLESH PAVENDAN · LUXURY BLACK & ROYAL GOLD PORTFOLIO · v7.0 -->
+<!--  SYLESH PAVENDAN · LUXURY BLACK & ROYAL GOLD PORTFOLIO · v7.1 -->
 <!--  Theme  → Black #0A0A0B · Charcoal #17171A · Royal Gold      -->
 <!--           #D4AF37 · Amber #E8A33D · Soft White #F2F1EC ·     -->
 <!--           tiny orange accent #FF6B35. Minimal, no neon.      -->
-<!--  Structure → Hero → About → Now Building → Orbit Tech Stack  -->
-<!--    → Skill Cards → Neural Skill Atlas → GitHub Skyline       -->
-<!--    → GitHub City → Yearly Journey → GitHub Analytics         -->
-<!--    → Featured Projects → Achievements → Competitive Prog.    -->
-<!--    → Open Source → Connect                                   -->
-<!--  All custom SVGs are hand-crafted and live in /assets.       -->
+<!--  All facts sourced from resume + github.com/SYLESH-1125.     -->
+<!--  Badge images kept to services verified reachable; nav/CTA   -->
+<!--  links use plain text to avoid third-party image outages.    -->
 <!-- ============================================================= -->
 
 <a id="top"></a>
@@ -21,20 +18,15 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=20&pause=1000&color=D4AF37&center=true&vCenter=true&width=760&height=44&lines=Building+production-grade+AI+%2B+full-stack+systems;Team+Lead+%40+DYNAMITE+%E2%80%94+3%C3%97+National+Hackathon+Winner;LeetCode+Knight+%E2%80%94+Top+4.39%25+Globally;Exploring+Agentic+AI%2C+RAG+%26+Cloud+at+Scale" alt="Animated rotating subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=20&pause=1000&color=D4AF37&center=true&vCenter=true&width=760&height=44&lines=Agentic+AI+%26+DevOps+Intern+%40+Cognizant;Building+SLM%2FDeepAgents+pipelines+for+production+DevOps;LeetCode+Knight+%E2%80%94+Top+4.39%25+Globally;Team+DYNAMITE+%E2%80%94+6+National+Hackathons" alt="Animated rotating subtitle" />
 
 <br/><br/>
 
-<a href="mailto:sylesh1125@gmail.com"><img src="https://img.shields.io/badge/Get_in_Touch-D4AF37?style=flat-square&labelColor=141416&color=D4AF37" alt="Get in touch" /></a>
-<a href="https://github.com/SYLESH-1125?tab=repositories"><img src="https://img.shields.io/badge/View_Projects-141416?style=flat-square&labelColor=141416&color=8A6A28" alt="View projects" /></a>
-<a href="https://www.linkedin.com/in/sylesh-pavendan-361a69328/"><img src="https://img.shields.io/badge/LinkedIn-141416?style=flat-square&labelColor=141416&color=8A6A28" alt="LinkedIn" /></a>
+**[Get in Touch](mailto:sylesh1125@gmail.com)** &nbsp;·&nbsp; **[View Projects](https://github.com/SYLESH-1125?tab=repositories)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/sylesh-pavendan-361a69328/)**
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=SYLESH-1125&label=Profile+Views&color=D4AF37&style=flat-square" alt="Profile view counter" />
-<img src="https://img.shields.io/github/followers/SYLESH-1125?label=Followers&style=flat-square&color=D4AF37&labelColor=141416" alt="GitHub followers" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/SYLESH-1125&label=Repositories&query=$.public_repos&color=D4AF37&style=flat-square&labelColor=141416" alt="Public repository count" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/SYLESH-1125&label=Followers&query=$.followers&color=D4AF37&style=flat-square&labelColor=141416&logo=github" alt="Followers count" />
 
 </div>
 
@@ -42,16 +34,7 @@
 
 <div align="center">
 
-### Navigate
-
-<a href="#about"><img src="https://img.shields.io/badge/About-141416?style=flat-square&color=D4AF37" /></a>
-<a href="#now-building"><img src="https://img.shields.io/badge/Now_Building-141416?style=flat-square&color=D4AF37" /></a>
-<a href="#tech-stack"><img src="https://img.shields.io/badge/Tech_Stack-141416?style=flat-square&color=D4AF37" /></a>
-<a href="#skills"><img src="https://img.shields.io/badge/Skills-141416?style=flat-square&color=D4AF37" /></a>
-<a href="#analytics"><img src="https://img.shields.io/badge/Analytics-141416?style=flat-square&color=D4AF37" /></a>
-<a href="#projects"><img src="https://img.shields.io/badge/Projects-141416?style=flat-square&color=D4AF37" /></a>
-<a href="#achievements"><img src="https://img.shields.io/badge/Achievements-141416?style=flat-square&color=D4AF37" /></a>
-<a href="#connect"><img src="https://img.shields.io/badge/Connect-141416?style=flat-square&color=D4AF37" /></a>
+**[About](#about)** &nbsp;·&nbsp; **[Experience](#about)** &nbsp;·&nbsp; **[Tech Stack](#tech-stack)** &nbsp;·&nbsp; **[Skills](#skills)** &nbsp;·&nbsp; **[Analytics](#analytics)** &nbsp;·&nbsp; **[Projects](#projects)** &nbsp;·&nbsp; **[Achievements](#achievements)** &nbsp;·&nbsp; **[Connect](#connect)**
 
 </div>
 
@@ -69,24 +52,22 @@
 
 <br/>
 
-**Full-stack developer and AI/ML engineer** building production-grade systems that merge clean engineering with applied intelligence. I specialize in **Flutter, Next.js, Node.js and Firebase** for shipping fast, and **Agentic AI, LLMs, and RAG pipelines** for making that software genuinely smart.
+**Full-stack developer and AI/ML engineer**, currently in my second year of **B.E. Computer Science & Engineering at Chennai Institute of Technology** (CGPA 9.1/10, Sep 2024 – Apr 2028). I build production-grade systems that merge clean full-stack engineering with applied intelligence — from AI forensic platforms to agentic government-reporting tools.
 
-As Team Lead of **DYNAMITE**, I've turned six-person hackathon sprints into three national wins and twenty-five-plus finalist selections — usually by scoping ruthlessly, shipping a working demo early, and iterating live. Outside of hackathons, I compete on LeetCode as a **Knight, top 4.39% globally**, because contest pressure is the fastest way to keep data-structure instincts sharp.
+I compete on **LeetCode as a Knight, top 4.39% globally** — 1000+ problems solved, 223+ active days, max contest rating 2000 — because contest pressure keeps data-structure instincts sharp. Alongside solo builds, I lead **Team DYNAMITE** through national hackathons: six finishes across Statathon, CSIC 1.0, Hack-A-Thon 1.0, HackSetu 1.0, CYBERHACKATHON v4.0, and SUVIDHA 2026.
 
-**Currently exploring** — Web3 and smart contracts, Azure AI Foundry, and how far an agent pipeline can go before it needs a human in the loop.
+**Currently** — Agentic AI & DevOps Intern at Cognizant, building Agentic AI applications with SLMs, DeepAgents, and LLM orchestration for DevOps automation.
 
-**Career goal** — merge full-stack engineering, applied AI, and decentralized systems into products that ship to real users, not just demo days.
+### Experience
 
-<div align="center">
+**Cognizant Technology Solutions** — Agentic AI & DevOps Intern &nbsp;·&nbsp; *Apr 2026 – Sep 2026*
+Building scalable Agentic AI applications using SLMs, DeepAgents, and LLM orchestration for DevOps pipelines; designing automation agents that improved deployment reliability and cut operational overhead.
 
-<br/>
+**Reach Skyline** — Full-Stack & AI Engineer Intern &nbsp;·&nbsp; *Nov 2025 – Dec 2025*
+Delivered a full-stack business platform integrating React/Node services with AI/ML models for data-driven operational decisions; architected scalable APIs and frontends across core business modules.
 
-<img src="https://img.shields.io/badge/B.E._CSE_@_CIT-141416?style=flat-square&color=D4AF37" />
-<img src="https://img.shields.io/badge/CGPA_9.1_/_10-141416?style=flat-square&color=D4AF37" />
-<img src="https://img.shields.io/badge/Chennai,_India-141416?style=flat-square&color=D4AF37" />
-<img src="https://img.shields.io/badge/Open_to_Opportunities-141416?style=flat-square&color=E8A33D" />
-
-</div>
+**BetShow Technologies** — Full-Stack App & Web Developer &nbsp;·&nbsp; *Nov 2024 – Jun 2025*
+Designed and built a hospital management system (Flutter + React) to streamline patient flow and appointment booking, with real-time tracking for patients, doctors, and staff.
 
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/divider.svg" width="100%" alt="" />
@@ -96,23 +77,15 @@ As Team Lead of **DYNAMITE**, I've turned six-person hackathon sprints into thre
 <a id="now-building"></a>
 ## Now Building
 
-🟢&nbsp; **Cryptographic AI Forensic Platform** — explainable anomaly detection, GDPR-safe by design
+🟢&nbsp; **Agentic AI & DevOps automation @ Cognizant** — SLMs, DeepAgents, LLM orchestration for deployment pipelines
 
-🟢&nbsp; **Patient–Doctor Management Portal** — agentic scheduling, GenAI-driven routing
+🟢&nbsp; **[Cryptographically Enforced AI Forensic Platform](https://github.com/SYLESH-1125/csic-backend)** — JIT tokens, DuckDB analytics, GDPR-safe anomaly detection
 
-🟡&nbsp; **EDUMITE — Adaptive Learning AI** — LLM + NLP driven tutoring, in active development
+🟢&nbsp; **[CrimeGPT](https://github.com/SYLESH-1125/CRIMEGPT)** — grounded RAG + OCR + LLMs auto-generating statutory legal documents
 
-🟡&nbsp; **ASI-Gen — Agentic Report Engine** — RAG + multi-agent pipeline for statistical reporting
+🟡&nbsp; **ASI-Gen** — multi-agent RAG pipeline for government statistical report generation
 
-🔵&nbsp; **Currently learning** — Azure AI Foundry, smart-contract fundamentals, distributed system design
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/4+_Years_Coding-141416?style=flat-square&color=D4AF37" />
-<img src="https://img.shields.io/badge/4_Active_Builds-141416?style=flat-square&color=D4AF37" />
-<img src="https://img.shields.io/badge/Open_to_Opportunities-141416?style=flat-square&color=E8A33D" />
-
-</div>
+🟡&nbsp; **[EDUMITE](https://github.com/SYLESH-1125/SYLEDUTECH)** — LLM tutor with NLP intent detection and adaptive study paths
 
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/divider.svg" width="100%" alt="" />
@@ -124,7 +97,7 @@ As Team Lead of **DYNAMITE**, I've turned six-person hackathon sprints into thre
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/tech-orbit-premium.svg" width="440" alt="Premium technology orbit — React, Next.js, FastAPI, Node.js, TypeScript, Python at the core; AWS, Docker, TensorFlow, MongoDB, Postgres, LangChain, RAG, PyTorch orbiting outside" />
+<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/tech-orbit-premium.svg" width="440" alt="Premium technology orbit — React, Next.js, FastAPI, Node.js, TypeScript, Python at the core; AWS, Docker, Flutter, MongoDB, Postgres, LangChain, RAG, PyTorch orbiting outside" />
 
 <br/>
 <sub>Core stack orbiting a central identity — full breakdown in Skill Cards below</sub>
@@ -141,7 +114,7 @@ As Team Lead of **DYNAMITE**, I've turned six-person hackathon sprints into thre
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/skill-cards-premium.svg" width="100%" alt="Six premium skill cards — Backend, Frontend, AI and Machine Learning, Cloud and DevOps, Databases, Programming Languages — each with years, project count, and mastery level" />
+<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/skill-cards-premium.svg" width="100%" alt="Six premium skill cards — Backend, Frontend, AI and Machine Learning, Cloud and DevOps, Databases, Programming Languages — each with tools, years, project count, and mastery level" />
 
 </div>
 
@@ -177,10 +150,7 @@ A 3D-printable model of my contribution history, rendered by GitHub's own Skylin
 
 <br/><br/>
 
-<a href="https://skyline.github.com/SYLESH-1125/2026"><img src="https://img.shields.io/badge/2026_(live)-141416?style=flat-square&color=D4AF37" /></a>
-<a href="https://skyline.github.com/SYLESH-1125/2025"><img src="https://img.shields.io/badge/2025-141416?style=flat-square&color=8A6A28" /></a>
-<a href="https://skyline.github.com/SYLESH-1125/2024"><img src="https://img.shields.io/badge/2024-141416?style=flat-square&color=8A6A28" /></a>
-<a href="https://skyline.github.com/SYLESH-1125/2023"><img src="https://img.shields.io/badge/2023-141416?style=flat-square&color=8A6A28" /></a>
+**[2026 (live)](https://skyline.github.com/SYLESH-1125/2026)** &nbsp;·&nbsp; **[2025](https://skyline.github.com/SYLESH-1125/2025)** &nbsp;·&nbsp; **[2024](https://skyline.github.com/SYLESH-1125/2024)**
 
 <br/>
 <sub>Opens an interactive 3D model at <a href="https://skyline.github.com">skyline.github.com</a> — spin it, zoom it, download the .stl to 3D print.</sub>
@@ -201,10 +171,7 @@ The same contribution history, reimagined as a drivable procedural city — dens
 
 <br/><br/>
 
-<a href="https://honzaap.github.io/GithubCity?name=SYLESH-1125&year=2026"><img src="https://img.shields.io/badge/2026_city_(live)-141416?style=flat-square&color=D4AF37" /></a>
-<a href="https://honzaap.github.io/GithubCity?name=SYLESH-1125&year=2025"><img src="https://img.shields.io/badge/2025_city-141416?style=flat-square&color=8A6A28" /></a>
-<a href="https://honzaap.github.io/GithubCity?name=SYLESH-1125&year=2024"><img src="https://img.shields.io/badge/2024_city-141416?style=flat-square&color=8A6A28" /></a>
-<a href="https://honzaap.github.io/GithubCity?name=SYLESH-1125&year=2023"><img src="https://img.shields.io/badge/2023_city-141416?style=flat-square&color=8A6A28" /></a>
+**[2026 city (live)](https://honzaap.github.io/GithubCity?name=SYLESH-1125&year=2026)** &nbsp;·&nbsp; **[2025 city](https://honzaap.github.io/GithubCity?name=SYLESH-1125&year=2025)** &nbsp;·&nbsp; **[2024 city](https://honzaap.github.io/GithubCity?name=SYLESH-1125&year=2024)**
 
 <br/>
 <sub>Powered by <a href="https://honzaap.github.io/GithubCity">honzaap.github.io/GithubCity</a> — an independent open-source visualizer, not affiliated with GitHub.</sub>
@@ -221,7 +188,7 @@ The same contribution history, reimagined as a drivable procedural city — dens
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/yearly-journey-premium.svg" width="100%" alt="Yearly journey cards 2022 to 2026 — First Steps, Team DYNAMITE, Hackathon Wins, AI and Recognition, Scaling Up — with a summary stat strip" />
+<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/yearly-journey-premium.svg" width="100%" alt="Yearly journey cards 2024 to 2026 — First Steps at CIT and BetShow, Shipping and Scaling with Reach Skyline, Agentic AI and DevOps at Cognizant, and the Team DYNAMITE hackathon circuit" />
 
 </div>
 
@@ -234,15 +201,15 @@ The same contribution history, reimagined as a drivable procedural city — dens
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SYLESH-1125&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&title_color=D4AF37&icon_color=E8A33D&text_color=F2F1EC&border_color=2A2410&bg_color=00000000" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=SYLESH-1125&theme=transparent&background=00000000&border=2A2410&stroke=D4AF37&ring=D4AF37&fire=E8A33D&currStreakLabel=F2F1EC&sideLabels=F2F1EC&dates=8A8A8F&currStreakNum=F2F1EC&sideNums=F2F1EC" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SYLESH-1125&theme=github_dark" height="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SYLESH-1125&theme=github_dark" height="200" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SYLESH-1125&layout=compact&langs_count=10&theme=transparent&title_color=D4AF37&text_color=F2F1EC&border_color=2A2410&bg_color=00000000" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SYLESH-1125&theme=github_dark&utcOffset=5.5" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=SYLESH-1125&theme=transparent&background=00000000&border=2A2410&stroke=D4AF37&ring=D4AF37&fire=E8A33D&currStreakLabel=F2F1EC&sideLabels=F2F1EC&dates=8A8A8F&currStreakNum=F2F1EC&sideNums=F2F1EC" height="175" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SYLESH-1125&theme=github_dark&utcOffset=5.5" height="175"/>
 </div>
 
 <br/>
@@ -279,11 +246,11 @@ The same contribution history, reimagined as a drivable procedural city — dens
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/featured-projects-premium.svg" width="100%" alt="Four premium project cards — Cryptographic AI Forensic Platform, Patient-Doctor Management Portal, EDUMITE Adaptive Learning AI, ASI-Gen Agentic Report Engine — each with tech-stack pills and a highlight" />
+<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/featured-projects-premium.svg" width="100%" alt="Four premium project cards: Cryptographically Enforced AI Forensic Intelligence Platform, CrimeGPT AI Legal Intelligence and Case Management, ASI-Gen Agentic Statistical Report Generation System, EDUMITE Adaptive AI Tutoring" />
 
 <br/>
 
-<a href="https://github.com/SYLESH-1125?tab=repositories"><img src="https://img.shields.io/badge/Explore_All_Repositories-141416?style=flat-square&color=D4AF37" /></a>
+**[Explore All Repositories →](https://github.com/SYLESH-1125?tab=repositories)**
 
 </div>
 
@@ -297,7 +264,7 @@ The same contribution history, reimagined as a drivable procedural city — dens
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/achievements-premium.svg" width="100%" alt="Achievement cards for Statathon, CSIC 1.0, Hack-A-Thon 1.0, HackSetu 1.0, CYBERHACKATHON v4.0, SUVIDHA 2026, LeetCode Knight, and a career summary" />
+<img src="https://cdn.jsdelivr.net/gh/SYLESH-1125/SYLESH-1125@main/assets/achievements-premium.svg" width="100%" alt="Achievement cards for Statathon, CSIC 1.0, Hack-A-Thon 1.0, HackSetu 1.0, CYBERHACKATHON v4.0, SUVIDHA 2026, a competitive-programming summary, and certifications in Java, Cisco AI and Cybersecurity, MongoDB, and AWS" />
 
 <br/>
 
@@ -315,17 +282,15 @@ The same contribution history, reimagined as a drivable procedural city — dens
 
 <div align="center">
 
-<a href="https://leetcode.com/u/SYLESH_/"><img src="https://img.shields.io/badge/LeetCode-Knight_·_Top_4.39%25_·_1000%2B_Solved-141416?style=flat-square&logo=leetcode&logoColor=D4AF37&color=D4AF37" /></a>
+**[LeetCode](https://leetcode.com/u/SYLESH_/)** — Knight Badge, Top 4.39% globally, 1000+ problems solved, max contest rating 2000, 223+ active days
 
 <br/><br/>
 
-<img src="https://leetcard.jacoblin.cool/SYLESH_?theme=dark&font=Segoe%20UI&ext=contest&border=0&radius=10" />
+<img src="https://leetcard.jacoblin.cool/SYLESH_?theme=dark&font=Segoe%20UI&ext=contest&border=0&radius=10" alt="LeetCode contest and solved-problem statistics card" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/CodeChef-Div_4_·_Rating_911_·_50%2B_Solved-141416?style=flat-square&logo=codechef&logoColor=D4AF37&color=8A6A28" />
-<img src="https://img.shields.io/badge/Codeforces-50%2B_Solved_·_Active-141416?style=flat-square&logo=codeforces&logoColor=D4AF37&color=8A6A28" />
-<img src="https://img.shields.io/badge/Skillrack-272_Solved_·_106_Bronze-141416?style=flat-square&logo=hackerrank&logoColor=D4AF37&color=8A6A28" />
+**CodeChef** — Div 4, Rating 911 &nbsp;·&nbsp; **Codeforces** — 50+ solved &nbsp;·&nbsp; **SkillRack** (CS24CIT0933) — Rank 88,210, Bronze 106
 
 </div>
 
@@ -339,17 +304,15 @@ The same contribution history, reimagined as a drivable procedural city — dens
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/SYLESH-1125&label=Public+Repositories&query=$.public_repos&color=D4AF37&style=flat-square&labelColor=141416" />
-<img src="https://img.shields.io/github/stars/SYLESH-1125/SYLESH-1125?label=Stars+on+this+profile&style=flat-square&color=D4AF37&labelColor=141416" />
-<a href="LICENSE"><img src="https://img.shields.io/badge/This_README-MIT_Licensed-141416?style=flat-square&color=E8A33D" /></a>
-
-<br/><br/>
-
-Most of my work lives in project-specific repos rather than a single "awesome-list" — the four builds in **Featured Projects** above are the ones I actively maintain. This profile README itself is open for anyone to fork: the layout, dividers, and SVG cards are MIT-licensed — swap in your own content and ship it.
+**[CRIMEGPT](https://github.com/SYLESH-1125/CRIMEGPT)** — AI legal intelligence & case management &nbsp;·&nbsp; **[SYLEDUTECH](https://github.com/SYLESH-1125/SYLEDUTECH)** — EDUMITE learning ecosystem &nbsp;·&nbsp; **[csic-backend](https://github.com/SYLESH-1125/csic-backend)** — Forensic AI engine &nbsp;·&nbsp; **[Basic-Projects](https://github.com/SYLESH-1125/Basic-Projects)** ⭐ 2
 
 <br/>
 
-<a href="https://github.com/SYLESH-1125?tab=repositories"><img src="https://img.shields.io/badge/Browse_My_Repositories-141416?style=flat-square&color=D4AF37" /></a>
+This profile README itself is open for anyone to fork under the MIT license below — the layout, dividers, and SVG cards are yours to reuse; swap in your own content and ship it.
+
+<br/>
+
+**[Browse My Repositories →](https://github.com/SYLESH-1125?tab=repositories)** &nbsp;·&nbsp; **[This README's License](LICENSE)**
 
 </div>
 
@@ -365,22 +328,14 @@ Most of my work lives in project-specific repos rather than a single "awesome-li
 
 <br/>
 
-<a href="https://www.linkedin.com/in/sylesh-pavendan-361a69328/"><img src="https://img.shields.io/badge/LinkedIn-141416?style=for-the-badge&logo=linkedin&logoColor=D4AF37&color=141416" /></a>
-<a href="mailto:sylesh1125@gmail.com"><img src="https://img.shields.io/badge/Email-141416?style=for-the-badge&logo=gmail&logoColor=D4AF37&color=141416" /></a>
-<a href="https://github.com/SYLESH-1125"><img src="https://img.shields.io/badge/GitHub-141416?style=for-the-badge&logo=github&logoColor=D4AF37&color=141416" /></a>
-<a href="https://discord.com/invite/YzzuBVk9"><img src="https://img.shields.io/badge/Discord-141416?style=for-the-badge&logo=discord&logoColor=D4AF37&color=141416" /></a>
-<a href="https://instagram.com/syl._.star"><img src="https://img.shields.io/badge/Instagram-141416?style=for-the-badge&logo=instagram&logoColor=D4AF37&color=141416" /></a>
+**[LinkedIn](https://www.linkedin.com/in/sylesh-pavendan-361a69328/)** &nbsp;&nbsp;·&nbsp;&nbsp; **[Email](mailto:sylesh1125@gmail.com)** &nbsp;&nbsp;·&nbsp;&nbsp; **[GitHub](https://github.com/SYLESH-1125)** &nbsp;&nbsp;·&nbsp;&nbsp; **[Instagram](https://instagram.com/syl._.star)**
 
 <br/><br/>
 
-[![Visitor count](https://visitcount.itsvg.in/api?id=SYLESH-1125&icon=8&color=0)](https://visitcount.itsvg.in)
-
-<br/>
-
-<sub>Designed and engineered by <b>Sylesh Pavendan</b> · Luxury Black &amp; Royal Gold, v7.0</sub>
+<sub>Designed and engineered by <b>Sylesh Pavendan</b> · Luxury Black &amp; Royal Gold, v7.1</sub>
 
 <br/><br/>
 
-<a href="#top"><img src="https://img.shields.io/badge/Back_to_Top-141416?style=flat-square&color=D4AF37" /></a>
+**[Back to Top ↑](#top)**
 
 </div>
