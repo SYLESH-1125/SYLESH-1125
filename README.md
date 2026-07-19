@@ -84,7 +84,7 @@
 
 <div align="center">
 <a href="https://github.com/SYLESH-1125">
-<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/clone-about-hero.svg" width="100%" alt="Sylesh Pavendan — editorial profile banner, currently grinding four active builds" />
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/clone-about-hero.svg" width="100%" alt="Sylesh Pavendan — editorial profile banner, currently cooking four active builds" />
 </a>
 </div>
 
@@ -160,7 +160,7 @@ Always open to discussions on **AI**, **Software Engineering**, **System Design*
 <img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/divider.svg" width="100%" alt="" />
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░░░░  3 · NOW BUILDING  ░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░░  3 · NOW COOKING  ░░░░░░░░░░░░░░░░░░ -->
 <a id="now-building"></a>
 <img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/headers/now-grinding.svg" width="100%" alt="" />
 
