@@ -155,11 +155,15 @@ Designed and built a hospital management system (Flutter + React) to streamline 
 
 <div align="center">
 
-<sub>A living map of how my technical mind is organized — an original brain-shaped illustration, recolored in luxury gold, mapping six domains onto six regions.</sub>
+<sub>A living map of how my technical mind is organized — anatomically-accurate human brain (lateral view), recolored in Luxury Black &amp; Royal Gold.</sub>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/neural-brain-premium.svg" width="100%" alt="Original stylized brain illustration in luxury gold mapping Backend to the frontal lobe, System Design to the parietal lobe, Frontend to the occipital lobe, AI and Data to the temporal lobe, Cloud and DevOps to the brainstem, and Competitive Programming to the cerebellum" />
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/neural-brain-anatomical.svg" width="100%" alt="Sylesh Pavendan's skill brain — anatomical brain illustration in luxury gold mapping Backend to the frontal lobe, Architecture to the parietal lobe, Frontend to the occipital lobe, Data Layer to the temporal lobe, DevOps to the cerebellum, and AI and Data to the brainstem" />
+
+<br/>
+
+**[🖱️ View Full Resolution](https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/neural-brain-anatomical.svg)** &nbsp;·&nbsp; <sub>Brain anatomy: Wikimedia Commons, **Hugh Guiney · CC-BY-SA 3.0** — recolored &amp; recomposed for this profile</sub>
 
 </div>
 
