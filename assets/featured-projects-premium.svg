@@ -20,11 +20,11 @@
   <g transform="translate(20,20)">
     <rect width="460" height="280" rx="18" fill="url(#fpBg)" stroke="#2A2410" stroke-width="1.2" filter="url(#fpShadow)"/>
     <rect x="0" y="0" width="460" height="6" rx="3" fill="url(#fpStrip)"/>
-    <text x="28" y="40" font-size="17" font-weight="800" fill="#F2F1EC">Cryptographically Enforced AI</text>
-    <text x="28" y="62" font-size="17" font-weight="800" fill="#F2F1EC">Forensic Intelligence Platform</text>
-    <text x="28" y="86" font-size="12.5" fill="#B8B8BC">Automates the threat lifecycle with JIT tokens,</text>
-    <text x="28" y="104" font-size="12.5" fill="#B8B8BC">Parquet + DuckDB analytics, Drain3 + Isolation</text>
-    <text x="28" y="122" font-size="12.5" fill="#B8B8BC">Forest anomaly detection and SHAP explainability.</text>
+    <text x="28" y="40" font-size="19" font-weight="800" fill="#F2F1EC">csic-backend</text>
+    <text x="28" y="66" font-size="13" font-weight="700" fill="#8A8A8F">Forensic AI Engine</text>
+    <text x="28" y="92" font-size="12.5" fill="#B8B8BC">FastAPI backend for tamper-evident log ingestion,</text>
+    <text x="28" y="110" font-size="12.5" fill="#B8B8BC">JIT auth, Merkle sealing, WORM storage, and AI</text>
+    <text x="28" y="128" font-size="12.5" fill="#B8B8BC">anomaly detection with forensic reporting.</text>
     <g font-size="10.5" font-weight="700" fill="#141210">
       <rect x="28" y="140" width="60" height="24" rx="12" fill="#D4AF37"/><text x="58" y="156" text-anchor="middle">Python</text>
       <rect x="94" y="140" width="62" height="24" rx="12" fill="#D4AF37"/><text x="125" y="156" text-anchor="middle">DuckDB</text>
@@ -33,7 +33,7 @@
     </g>
     <line x1="28" y1="182" x2="432" y2="182" stroke="#D4AF37" stroke-opacity="0.15"/>
     <text x="28" y="208" font-size="12" font-weight="700" fill="#E8A33D">HIGHLIGHT</text>
-    <text x="28" y="230" font-size="12.5" fill="#F2F1EC">GDPR-compliant cryptographic data shredding.</text>
+    <text x="28" y="230" font-size="12.5" fill="#F2F1EC">57/57 tests &#183; SHA-256 chain &#183; GDPR-safe shredding.</text>
     <text x="28" y="256" font-size="11" font-weight="700" fill="#8A8A8F">github.com/SYLESH-1125/csic-backend</text>
   </g>
 
@@ -43,9 +43,9 @@
     <rect x="0" y="0" width="470" height="6" rx="3" fill="url(#fpStrip)"/>
     <text x="28" y="44" font-size="19" font-weight="800" fill="#F2F1EC">CrimeGPT</text>
     <text x="28" y="66" font-size="13" font-weight="700" fill="#8A8A8F">AI Legal Intelligence &amp; Case Management</text>
-    <text x="28" y="92" font-size="12.5" fill="#B8B8BC">Grounded RAG + OCR + LLMs auto-generate 11</text>
-    <text x="28" y="110" font-size="12.5" fill="#B8B8BC">statutory documents with an immutable,</text>
-    <text x="28" y="128" font-size="12.5" fill="#B8B8BC">event-sourced, cryptographically verified audit trail.</text>
+    <text x="28" y="92" font-size="12.5" fill="#B8B8BC">Karnataka Police Datathon 2026 — grounded RAG,</text>
+    <text x="28" y="110" font-size="12.5" fill="#B8B8BC">OCR, and LLMs for legal case management and</text>
+    <text x="28" y="128" font-size="12.5" fill="#B8B8BC">auto-generated statutory document drafting.</text>
     <g font-size="10.5" font-weight="700" fill="#141210">
       <rect x="28" y="146" width="70" height="24" rx="12" fill="#D4AF37"/><text x="63" y="162" text-anchor="middle">FastAPI</text>
       <rect x="104" y="146" width="76" height="24" rx="12" fill="#D4AF37"/><text x="142" y="162" text-anchor="middle">pgvector</text>
@@ -54,7 +54,7 @@
     </g>
     <line x1="28" y1="188" x2="442" y2="188" stroke="#D4AF37" stroke-opacity="0.15"/>
     <text x="28" y="212" font-size="12" font-weight="700" fill="#E8A33D">HIGHLIGHT</text>
-    <text x="28" y="234" font-size="12.5" fill="#F2F1EC">AI-driven legal reasoning with cryptographic proof.</text>
+    <text x="28" y="234" font-size="12.5" fill="#F2F1EC">Legal AI with immutable audit trail for casework.</text>
     <text x="28" y="258" font-size="11" font-weight="700" fill="#8A8A8F">github.com/SYLESH-1125/CRIMEGPT</text>
   </g>
 
@@ -64,9 +64,9 @@
     <rect x="0" y="0" width="460" height="6" rx="3" fill="url(#fpStrip)"/>
     <text x="28" y="44" font-size="19" font-weight="800" fill="#F2F1EC">ASI-Gen</text>
     <text x="28" y="66" font-size="13" font-weight="700" fill="#8A8A8F">Agentic Statistical Report Generation System</text>
-    <text x="28" y="92" font-size="12.5" fill="#B8B8BC">Multi-agent RAG pipeline processes large-scale</text>
-    <text x="28" y="110" font-size="12.5" fill="#B8B8BC">surveys and auto-generates government statistical</text>
-    <text x="28" y="128" font-size="12.5" fill="#B8B8BC">reports with Z-score / IQR + BERT validation.</text>
+    <text x="28" y="92" font-size="12.5" fill="#B8B8BC">bharatstat — multi-agent RAG for government</text>
+    <text x="28" y="110" font-size="12.5" fill="#B8B8BC">statistical reports: survey ingestion, Z-score / IQR</text>
+    <text x="28" y="128" font-size="12.5" fill="#B8B8BC">validation, and BERT-backed report generation.</text>
     <g font-size="10.5" font-weight="700" fill="#141210">
       <rect x="28" y="146" width="48" height="24" rx="12" fill="#D4AF37"/><text x="52" y="162" text-anchor="middle">RAG</text>
       <rect x="82" y="146" width="86" height="24" rx="12" fill="#D4AF37"/><text x="125" y="162" text-anchor="middle">LangChain</text>
@@ -76,7 +76,7 @@
     <line x1="28" y1="182" x2="432" y2="182" stroke="#D4AF37" stroke-opacity="0.15"/>
     <text x="28" y="208" font-size="12" font-weight="700" fill="#E8A33D">HIGHLIGHT</text>
     <text x="28" y="230" font-size="12.5" fill="#F2F1EC">Statistical-deviation-free government reporting.</text>
-    <text x="28" y="256" font-size="11" font-weight="700" fill="#8A8A8F">github.com/SYLESH-1125?tab=repositories</text>
+    <text x="28" y="256" font-size="11" font-weight="700" fill="#8A8A8F">github.com/SYLESH-1125/bharatstat</text>
   </g>
 
   <!-- Card 4: EDUMITE -->
@@ -85,9 +85,9 @@
     <rect x="0" y="0" width="470" height="6" rx="3" fill="url(#fpStrip)"/>
     <text x="28" y="44" font-size="19" font-weight="800" fill="#F2F1EC">EDUMITE</text>
     <text x="28" y="66" font-size="13" font-weight="700" fill="#8A8A8F">Adaptive AI Tutoring &amp; Cognitive Analytics</text>
-    <text x="28" y="92" font-size="12.5" fill="#B8B8BC">LLM tutor with NLP intent detection and behavioral</text>
-    <text x="28" y="110" font-size="12.5" fill="#B8B8BC">analytics that spots weak concepts and personalizes</text>
-    <text x="28" y="128" font-size="12.5" fill="#B8B8BC">study paths with probabilistic recommendation models.</text>
+    <text x="28" y="92" font-size="12.5" fill="#B8B8BC">SYLEDUTECH / EDUMITE — AI tutoring, 3D sign-language</text>
+    <text x="28" y="110" font-size="12.5" fill="#B8B8BC">avatars, Gemini-powered study paths, gamified learning,</text>
+    <text x="28" y="128" font-size="12.5" fill="#B8B8BC">and 30+ integrated features for accessible education.</text>
     <g font-size="10.5" font-weight="700" fill="#141210">
       <rect x="28" y="146" width="54" height="24" rx="12" fill="#D4AF37"/><text x="55" y="162" text-anchor="middle">LLMs</text>
       <rect x="88" y="146" width="50" height="24" rx="12" fill="#D4AF37"/><text x="113" y="162" text-anchor="middle">NLP</text>
@@ -96,7 +96,7 @@
     </g>
     <line x1="28" y1="182" x2="442" y2="182" stroke="#D4AF37" stroke-opacity="0.15"/>
     <text x="28" y="208" font-size="12" font-weight="700" fill="#E8A33D">HIGHLIGHT</text>
-    <text x="28" y="230" font-size="12.5" fill="#F2F1EC">Probabilistic recommendation engine per learner.</text>
+    <text x="28" y="230" font-size="12.5" fill="#F2F1EC">850+ ISL signs · Gemini tutor · WCAG AA certified.</text>
     <text x="28" y="256" font-size="11" font-weight="700" fill="#8A8A8F">github.com/SYLESH-1125/SYLEDUTECH</text>
   </g>
 </svg>

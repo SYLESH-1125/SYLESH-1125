@@ -94,12 +94,12 @@
       <text x="32" y="96" class="t-title">⚙️ Backend</text>
       <text x="32" y="130" class="t-tagline">Robust APIs powering real products.</text>
       <text x="32" y="180" class="t-tool" fill="#FFFFFF" font-weight="700">Node.js · FastAPI</text>
-      <text x="32" y="208" class="t-tool">Firebase Functions</text>
+      <text x="32" y="208" class="t-tool">Firebase · Express</text>
       <text x="32" y="236" class="t-tool" fill="#8A8A8F">REST · WebSockets</text>
       <line x1="32" y1="266" x2="368" y2="266" stroke="#141210" stroke-width="1"/>
       <text x="32"  y="306" class="t-stat-num" fill="#D4AF37">2+</text>
       <text x="32"  y="324" class="t-stat-lbl">YEARS</text>
-      <text x="152"  y="306" class="t-stat-num" fill="#D4AF37">6+</text>
+      <text x="152"  y="306" class="t-stat-num" fill="#D4AF37">38+</text>
       <text x="152"  y="324" class="t-stat-lbl">PROJECTS</text>
       <text x="272"  y="308" class="t-stat-num-sm" fill="#D4AF37">ADVANCED</text>
       <text x="272"  y="324" class="t-stat-lbl">MASTERY</text>
@@ -121,7 +121,7 @@
       <line x1="32" y1="266" x2="368" y2="266" stroke="#141210" stroke-width="1"/>
       <text x="32"  y="306" class="t-stat-num" fill="#E8A33D">2+</text>
       <text x="32"  y="324" class="t-stat-lbl">YEARS</text>
-      <text x="152"  y="306" class="t-stat-num" fill="#E8A33D">6+</text>
+      <text x="152"  y="306" class="t-stat-num" fill="#E8A33D">10+</text>
       <text x="152"  y="324" class="t-stat-lbl">PROJECTS</text>
       <text x="272"  y="308" class="t-stat-num-sm" fill="#E8A33D">ADVANCED</text>
       <text x="272"  y="324" class="t-stat-lbl">MASTERY</text>
@@ -137,13 +137,13 @@
       <rect x="0" y="0" width="400" height="380" rx="14" fill="url(#cardHighlight)"/>
       <text x="32" y="52" class="t-caption" fill="#E8A33D">MODELS · RAG · AGENTS</text>
       <text x="32" y="96" class="t-title">🤖 AI &amp; ML</text>
-      <text x="32" y="130" class="t-tagline">RAG pipelines, agents, LLM apps.</text>
+      <text x="32" y="130" class="t-tagline">Agentic AI, RAG, and LLM apps.</text>
       <text x="32" y="180" class="t-tool" fill="#FFFFFF" font-weight="700">PyTorch · LangChain</text>
-      <text x="32" y="208" class="t-tool">RAG · DeepAgents</text>
+      <text x="32" y="208" class="t-tool">SLMs · DeepAgents · RAG</text>
       <line x1="32" y1="266" x2="368" y2="266" stroke="#141210" stroke-width="1"/>
       <text x="32"  y="306" class="t-stat-num" fill="#E8A33D">2+</text>
       <text x="32"  y="324" class="t-stat-lbl">YEARS</text>
-      <text x="152"  y="306" class="t-stat-num" fill="#E8A33D">6+</text>
+      <text x="152"  y="306" class="t-stat-num" fill="#E8A33D">12+</text>
       <text x="152"  y="324" class="t-stat-lbl">PROJECTS</text>
       <text x="272"  y="308" class="t-stat-num-sm" fill="#E8A33D">ADVANCED</text>
       <text x="272"  y="324" class="t-stat-lbl">MASTERY</text>
@@ -161,11 +161,11 @@
       <text x="32" y="96" class="t-title">💾 Databases</text>
       <text x="32" y="130" class="t-tagline">Modeling, indexing, performance.</text>
       <text x="32" y="180" class="t-tool" fill="#FFFFFF" font-weight="700">MongoDB · Firebase</text>
-      <text x="32" y="208" class="t-tool">PostgreSQL · MySQL</text>
+      <text x="32" y="208" class="t-tool">PostgreSQL · Redis · DuckDB</text>
       <line x1="32" y1="266" x2="368" y2="266" stroke="#141210" stroke-width="1"/>
       <text x="32"  y="306" class="t-stat-num" fill="#F3E6C4">3+</text>
       <text x="32"  y="324" class="t-stat-lbl">YEARS</text>
-      <text x="152"  y="306" class="t-stat-num" fill="#F3E6C4">8+</text>
+      <text x="152"  y="306" class="t-stat-num" fill="#F3E6C4">15+</text>
       <text x="152"  y="324" class="t-stat-lbl">PROJECTS</text>
       <text x="272"  y="308" class="t-stat-num-sm" fill="#F3E6C4">PROFICIENT</text>
       <text x="272"  y="324" class="t-stat-lbl">MASTERY</text>
@@ -183,11 +183,11 @@
       <text x="32" y="96" class="t-title">☁️ Cloud &amp; DevOps</text>
       <text x="32" y="130" class="t-tagline">AWS pipelines that ship reliably.</text>
       <text x="32" y="180" class="t-tool" fill="#FFFFFF" font-weight="700">AWS · Docker</text>
-      <text x="32" y="208" class="t-tool">GitHub Actions · Vercel</text>
+      <text x="32" y="208" class="t-tool">GitHub Actions · K8s · Azure DevOps</text>
       <line x1="32" y1="266" x2="368" y2="266" stroke="#141210" stroke-width="1"/>
       <text x="32"  y="306" class="t-stat-num" fill="#8A6A28">2+</text>
       <text x="32"  y="324" class="t-stat-lbl">YEARS</text>
-      <text x="152"  y="306" class="t-stat-num" fill="#8A6A28">6+</text>
+      <text x="152"  y="306" class="t-stat-num" fill="#8A6A28">10+</text>
       <text x="152"  y="324" class="t-stat-lbl">PROJECTS</text>
       <text x="272"  y="308" class="t-stat-num-sm" fill="#8A6A28">ADVANCED</text>
       <text x="272"  y="324" class="t-stat-lbl">MASTERY</text>
@@ -205,7 +205,7 @@
       <text x="32" y="96" class="t-title">💻 Languages</text>
       <text x="32" y="130" class="t-tagline">DSA sharpened across 4 languages.</text>
       <text x="32" y="180" class="t-tool" fill="#FFFFFF" font-weight="700">Python · Java</text>
-      <text x="32" y="208" class="t-tool">C++ · JavaScript</text>
+      <text x="32" y="208" class="t-tool">C++ · TypeScript</text>
       <line x1="32" y1="266" x2="368" y2="266" stroke="#141210" stroke-width="1"/>
       <text x="32"  y="306" class="t-stat-num" fill="#C9A24A">3+</text>
       <text x="32"  y="324" class="t-stat-lbl">YEARS</text>

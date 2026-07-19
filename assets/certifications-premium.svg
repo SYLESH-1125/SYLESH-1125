@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 990 180" width="990" height="180" fill="none" role="img" aria-label="Professional certifications">
+  <defs>
+    <linearGradient id="certBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#17171A"/>
+      <stop offset="100%" stop-color="#0F0F11"/>
+    </linearGradient>
+    <filter id="certShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000000" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+  <style>text{font-family:'Segoe UI',Arial,sans-serif}</style>
+  <rect width="990" height="180" fill="#0A0A0B"/>
+  <text x="20" y="22" font-size="10.5" font-weight="700" letter-spacing="2" fill="#6E6E73">CERTIFICATIONS</text>
+  <g transform="translate(20,32)">
+    <rect width="226" height="130" rx="14" fill="url(#certBg)" stroke="#2A2410" stroke-width="1.1" filter="url(#certShadow)"/>
+    <text x="18" y="36" font-size="13.5" font-weight="800" fill="#F2F1EC">Java Programming</text>
+    <text x="18" y="56" font-size="10.5" fill="#B8B8BC">Beginner to Advanced</text>
+    <text x="18" y="96" font-size="11" font-weight="700" fill="#D4AF37">Udemy &#183; GeeksforGeeks</text>
+    <text x="18" y="116" font-size="9" letter-spacing="1" fill="#6E6E73">CERTIFICATION</text>
+  </g>
+  <g transform="translate(261,32)">
+    <rect width="226" height="130" rx="14" fill="url(#certBg)" stroke="#2A2410" stroke-width="1.1" filter="url(#certShadow)"/>
+    <text x="18" y="36" font-size="13.5" font-weight="800" fill="#F2F1EC">AI &amp; Cybersecurity</text>
+    <text x="18" y="56" font-size="10.5" fill="#B8B8BC">Intro to Modern AI + Security</text>
+    <text x="18" y="96" font-size="11" font-weight="700" fill="#D4AF37">Cisco</text>
+    <text x="18" y="116" font-size="9" letter-spacing="1" fill="#6E6E73">CERTIFICATION</text>
+  </g>
+  <g transform="translate(502,32)">
+    <rect width="226" height="130" rx="14" fill="url(#certBg)" stroke="#2A2410" stroke-width="1.1" filter="url(#certShadow)"/>
+    <text x="18" y="36" font-size="13.5" font-weight="800" fill="#F2F1EC">MongoDB</text>
+    <text x="18" y="56" font-size="10.5" fill="#B8B8BC">Basics + Relational-to-Document</text>
+    <text x="18" y="96" font-size="11" font-weight="700" fill="#D4AF37">MongoDB</text>
+    <text x="18" y="116" font-size="9" letter-spacing="1" fill="#6E6E73">2 CERTIFICATIONS</text>
+  </g>
+  <g transform="translate(743,32)">
+    <rect width="226" height="130" rx="14" fill="url(#certBg)" stroke="#2A2410" stroke-width="1.1" filter="url(#certShadow)"/>
+    <text x="18" y="36" font-size="13.5" font-weight="800" fill="#F2F1EC">AWS IoT SiteWise</text>
+    <text x="18" y="56" font-size="10.5" fill="#B8B8BC">Building with AWS IoT SiteWise</text>
+    <text x="18" y="96" font-size="11" font-weight="700" fill="#D4AF37">AWS</text>
+    <text x="18" y="116" font-size="9" letter-spacing="1" fill="#6E6E73">CERTIFICATION</text>
+  </g>
+</svg>

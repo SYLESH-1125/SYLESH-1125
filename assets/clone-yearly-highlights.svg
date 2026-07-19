@@ -81,52 +81,53 @@
     <rect x="6" y="6" width="308" height="448" rx="12" fill="#C9A24A" fill-opacity="0.10" class="card-inner-pulse"/>
     <rect x="0" y="0" width="320" height="460" rx="16" fill="none" stroke="#C9A24A" stroke-width="2" pathLength="1780" class="card-edge ce0"/>
     <text x="24" y="42" class="t-year-tag" fill="#C9A24A">2024 · FOUNDATION</text>
-    <text x="24" y="84" class="t-headline">First Steps</text>
+    <text x="24" y="84" class="t-headline">BetShow &amp; CIT</text>
     <line x1="24" y1="108" x2="296" y2="108" stroke="#141210" stroke-width="1"/>
     <text x="24"  y="144" class="t-bullet" fill="#C9A24A">▸</text>
     <text x="48"  y="144" class="t-highlight">Started B.E. CSE at Chennai</text>
-    <text x="48"  y="164" class="t-highlight">Institute of Technology —</text>
-    <text x="48"  y="184" class="t-highlight">CGPA 9.1/10 from day one.</text>
-    <text x="24"  y="222" class="t-bullet" fill="#C9A24A">▸</text>
-    <text x="48"  y="222" class="t-highlight">Built early projects in Python,</text>
-    <text x="48"  y="242" class="t-highlight">Java, C++, and web basics.</text>
+    <text x="48"  y="164" class="t-highlight">Institute of Technology — CGPA 9.1.</text>
+    <text x="24"  y="202" class="t-bullet" fill="#C9A24A">▸</text>
+    <text x="48"  y="202" class="t-highlight">At BetShow Technologies, built a</text>
+    <text x="48"  y="222" class="t-highlight">hospital-management POC for Apollo</text>
+    <text x="48"  y="242" class="t-highlight">Hospitals (Flutter + React).</text>
     <text x="24"  y="280" class="t-bullet" fill="#C9A24A">▸</text>
-    <text x="48"  y="280" class="t-highlight">Began the hackathon circuit —</text>
-    <text x="48"  y="300" class="t-highlight">first wins with Team</text>
-    <text x="48"  y="320" class="t-highlight">DYNAMITE.</text>
+    <text x="48"  y="280" class="t-highlight">Shipped early full-stack and AI</text>
+    <text x="48"  y="300" class="t-highlight">projects across Python, Java, and</text>
+    <text x="48"  y="320" class="t-highlight">web fundamentals.</text>
     <line x1="24" y1="388" x2="296" y2="388" stroke="#141210" stroke-width="1"/>
     <text x="24"  y="422" class="t-stat-num" fill="#C9A24A">9.1</text>
     <text x="24"  y="444" class="t-stat-lbl">CGPA /10</text>
-    <text x="114"  y="422" class="t-stat-num" fill="#C9A24A">6</text>
-    <text x="114"  y="444" class="t-stat-lbl-sm">HACKATHONS</text>
-    <text x="204"  y="424" class="t-stat-num-sm" fill="#C9A24A">TEAM</text>
-    <text x="204"  y="444" class="t-stat-lbl">DYNAMITE</text>
+    <text x="114"  y="422" class="t-stat-num" fill="#C9A24A">POC</text>
+    <text x="114"  y="444" class="t-stat-lbl-sm">APOLLO HMS</text>
+    <text x="204"  y="424" class="t-stat-num-sm" fill="#C9A24A">BETSHOW</text>
+    <text x="204"  y="444" class="t-stat-lbl">START</text>
   </g>
   <g transform="translate(360, 230)" class="card-rise y1">
     <line x1="160" y1="0" x2="160" y2="-60" stroke="#D4AF37" stroke-width="1" stroke-opacity="0.5"/>
     <rect x="0" y="0" width="320" height="460" rx="16" fill="url(#cardBg)" filter="url(#cardShadowStacked)"/>
     <rect x="6" y="6" width="308" height="448" rx="12" fill="#D4AF37" fill-opacity="0.10" class="card-inner-pulse"/>
     <rect x="0" y="0" width="320" height="460" rx="16" fill="none" stroke="#D4AF37" stroke-width="2" pathLength="1780" class="card-edge ce1"/>
-    <text x="24" y="42" class="t-year-tag" fill="#D4AF37">2025 · GROWTH</text>
-    <text x="24" y="84" class="t-headline">Internships &amp; Impact</text>
+    <text x="24" y="42" class="t-year-tag" fill="#D4AF37">2025 · MOMENTUM</text>
+    <text x="24" y="84" class="t-headline">Team DYNAMITE</text>
     <line x1="24" y1="108" x2="296" y2="108" stroke="#141210" stroke-width="1"/>
     <text x="24"  y="144" class="t-bullet" fill="#D4AF37">▸</text>
-    <text x="48"  y="144" class="t-highlight">Delivered a Flutter + React</text>
-    <text x="48"  y="164" class="t-highlight">hospital platform at BetShow.</text>
-    <text x="24"  y="202" class="t-bullet" fill="#D4AF37">▸</text>
-    <text x="48"  y="202" class="t-highlight">Built a React/Node + AI/ML</text>
-    <text x="48"  y="222" class="t-highlight">platform at Reach Skyline.</text>
-    <text x="24"  y="260" class="t-bullet" fill="#D4AF37">▸</text>
-    <text x="48"  y="260" class="t-highlight">Climbed LeetCode to Knight —</text>
-    <text x="48"  y="280" class="t-highlight">top 4.39% globally, 1000+</text>
-    <text x="48"  y="300" class="t-highlight">problems solved.</text>
+    <text x="48"  y="144" class="t-highlight">Formed Team DYNAMITE and won</text>
+    <text x="48"  y="164" class="t-highlight">back-to-back national hackathons</text>
+    <text x="48"  y="184" class="t-highlight">at MP Hyderabad.</text>
+    <text x="24"  y="222" class="t-bullet" fill="#D4AF37">▸</text>
+    <text x="48"  y="222" class="t-highlight">Full-Stack &amp; AI intern at Reach</text>
+    <text x="48"  y="242" class="t-highlight">Skyline — React/Node + ML stack.</text>
+    <text x="24"  y="280" class="t-bullet" fill="#D4AF37">▸</text>
+    <text x="48"  y="280" class="t-highlight">Taught DSA &amp; LeetCode prep at</text>
+    <text x="48"  y="300" class="t-highlight">Internzo — structured problem-</text>
+    <text x="48"  y="320" class="t-highlight">solving for peers.</text>
     <line x1="24" y1="388" x2="296" y2="388" stroke="#141210" stroke-width="1"/>
-    <text x="24"  y="422" class="t-stat-num" fill="#D4AF37">2</text>
-    <text x="24"  y="444" class="t-stat-lbl">INTERNSHIPS</text>
-    <text x="114"  y="422" class="t-stat-num" fill="#D4AF37">Knight</text>
-    <text x="114"  y="444" class="t-stat-lbl-sm">LEETCODE RANK</text>
-    <text x="204"  y="422" class="t-stat-num" fill="#D4AF37">1000+</text>
-    <text x="204"  y="444" class="t-stat-lbl">SOLVED</text>
+    <text x="24"  y="422" class="t-stat-num" fill="#D4AF37">2×</text>
+    <text x="24"  y="444" class="t-stat-lbl">WINS · MP</text>
+    <text x="114"  y="422" class="t-stat-num" fill="#D4AF37">REACH</text>
+    <text x="114"  y="444" class="t-stat-lbl-sm">SKYLINE</text>
+    <text x="204"  y="422" class="t-stat-num" fill="#D4AF37">DSA</text>
+    <text x="204"  y="444" class="t-stat-lbl">INTERNZO</text>
   </g>
   <g transform="translate(700, 230)" class="card-rise y2">
     <line x1="160" y1="0" x2="160" y2="-60" stroke="#E8A33D" stroke-width="1" stroke-opacity="0.5"/>
@@ -134,51 +135,51 @@
     <rect x="6" y="6" width="308" height="448" rx="12" fill="#E8A33D" fill-opacity="0.10" class="card-inner-pulse"/>
     <rect x="0" y="0" width="320" height="460" rx="16" fill="none" stroke="#E8A33D" stroke-width="2" pathLength="1780" class="card-edge ce2"/>
     <text x="24" y="42" class="t-year-tag" fill="#E8A33D">2026 · SHIPPING</text>
-    <text x="24" y="84" class="t-headline">Agentic AI &amp; Production</text>
+    <text x="24" y="84" class="t-headline">Govt &amp; Agentic AI</text>
     <line x1="24" y1="108" x2="296" y2="108" stroke="#141210" stroke-width="1"/>
     <text x="24"  y="144" class="t-bullet" fill="#E8A33D">▸</text>
-    <text x="48"  y="144" class="t-highlight">Agentic AI &amp; DevOps Intern</text>
-    <text x="48"  y="164" class="t-highlight">at Cognizant — SLMs,</text>
-    <text x="48"  y="184" class="t-highlight">DeepAgents, LLM orchestration.</text>
+    <text x="48"  y="144" class="t-highlight">Built for 4 Government Ministries;</text>
+    <text x="48"  y="164" class="t-highlight">Statathon runner-up &amp; CSIC Top 4</text>
+    <text x="48"  y="184" class="t-highlight">with ₹1.5L+ in govt grants.</text>
     <text x="24"  y="222" class="t-bullet" fill="#E8A33D">▸</text>
-    <text x="48"  y="222" class="t-highlight">Shipping AI Forensic Platform,</text>
-    <text x="48"  y="242" class="t-highlight">CrimeGPT, ASI-Gen, and</text>
-    <text x="48"  y="262" class="t-highlight">EDUMITE in parallel.</text>
+    <text x="48"  y="222" class="t-highlight">LeetCode Knight — led Team</text>
+    <text x="48"  y="242" class="t-highlight">DYNAMITE to 30+ hackathon finals</text>
+    <text x="48"  y="262" class="t-highlight">nationwide.</text>
     <text x="24"  y="300" class="t-bullet" fill="#E8A33D">▸</text>
-    <text x="48"  y="300" class="t-highlight">Leading Team DYNAMITE through</text>
-    <text x="48"  y="320" class="t-highlight">6 national hackathons</text>
-    <text x="48"  y="340" class="t-highlight">total.</text>
+    <text x="48"  y="300" class="t-highlight">Agentic AI &amp; DevOps intern at</text>
+    <text x="48"  y="320" class="t-highlight">Cognizant — pushing SLMs &amp;</text>
+    <text x="48"  y="340" class="t-highlight">DeepAgents to production.</text>
     <line x1="24" y1="388" x2="296" y2="388" stroke="#141210" stroke-width="1"/>
     <text x="24"  y="422" class="t-stat-num" fill="#E8A33D">4</text>
-    <text x="24"  y="444" class="t-stat-lbl">LIVE BUILDS</text>
-    <text x="114"  y="422" class="t-stat-num" fill="#E8A33D">6</text>
-    <text x="114"  y="444" class="t-stat-lbl-sm">HACKATHONS</text>
-    <text x="204"  y="422" class="t-stat-num" fill="#E8A33D">2000</text>
-    <text x="204"  y="444" class="t-stat-lbl">MAX RATING</text>
+    <text x="24"  y="444" class="t-stat-lbl">MINISTRIES</text>
+    <text x="114"  y="422" class="t-stat-num" fill="#E8A33D">30+</text>
+    <text x="114"  y="444" class="t-stat-lbl-sm">FINALS</text>
+    <text x="204"  y="422" class="t-stat-num" fill="#E8A33D">KNIGHT</text>
+    <text x="204"  y="444" class="t-stat-lbl">LEETCODE</text>
   </g>
   <g transform="translate(1040, 230)" class="card-rise y3">
     <line x1="160" y1="0" x2="160" y2="-60" stroke="#F3E6C4" stroke-width="1" stroke-opacity="0.5"/>
     <rect x="0" y="0" width="320" height="460" rx="16" fill="url(#cardBg)" filter="url(#cardShadowStacked)"/>
     <rect x="6" y="6" width="308" height="448" rx="12" fill="#F3E6C4" fill-opacity="0.10" class="card-inner-pulse"/>
     <rect x="0" y="0" width="320" height="460" rx="16" fill="none" stroke="#F3E6C4" stroke-width="2" pathLength="1780" class="card-edge ce3"/>
-    <text x="24" y="42" class="t-year-tag" fill="#F3E6C4">2026 · WHAT’S NEXT</text>
-    <text x="24" y="84" class="t-headline">Cloud &amp; Open Source</text>
+    <text x="24" y="42" class="t-year-tag" fill="#F3E6C4">2026 · WHAT'S NEXT</text>
+    <text x="24" y="84" class="t-headline">Scale &amp; Impact</text>
     <line x1="24" y1="108" x2="296" y2="108" stroke="#141210" stroke-width="1"/>
     <text x="24"  y="144" class="t-bullet" fill="#F3E6C4">▸</text>
-    <text x="48"  y="144" class="t-highlight">Deepening AWS and</text>
-    <text x="48"  y="164" class="t-highlight">distributed-systems expertise</text>
-    <text x="48"  y="184" class="t-highlight">for production scale.</text>
-    <text x="24"  y="222" class="t-bullet" fill="#F3E6C4">▸</text>
-    <text x="48"  y="222" class="t-highlight">Growing open-source footprint</text>
-    <text x="48"  y="242" class="t-highlight">across AI and forensic tooling.</text>
-    <text x="24"  y="280" class="t-bullet" fill="#F3E6C4">▸</text>
-    <text x="48"  y="280" class="t-highlight">Aiming for a full-time AI/ML</text>
-    <text x="48"  y="300" class="t-highlight">or full-stack engineering role.</text>
+    <text x="48"  y="144" class="t-highlight">Scale Agentic AI pipelines across</text>
+    <text x="48"  y="164" class="t-highlight">cloud-native DevOps at Cognizant.</text>
+    <text x="24"  y="202" class="t-bullet" fill="#F3E6C4">▸</text>
+    <text x="48"  y="202" class="t-highlight">Ship ASI-Gen, CrimeGPT, and</text>
+    <text x="48"  y="222" class="t-highlight">Forensic AI to production users.</text>
+    <text x="24"  y="260" class="t-bullet" fill="#F3E6C4">▸</text>
+    <text x="48"  y="260" class="t-highlight">Target full-time AI/ML or full-</text>
+    <text x="48"  y="280" class="t-highlight">stack roles — graduate B.E. CSE</text>
+    <text x="48"  y="300" class="t-highlight">in 2028 with impact-first builds.</text>
     <line x1="24" y1="388" x2="296" y2="388" stroke="#141210" stroke-width="1"/>
-    <text x="24"  y="422" class="t-stat-num" fill="#F3E6C4">AWS</text>
-    <text x="24"  y="444" class="t-stat-lbl">FOCUS AREA</text>
-    <text x="114"  y="422" class="t-stat-num" fill="#F3E6C4">OSS</text>
-    <text x="114"  y="444" class="t-stat-lbl-sm">GOAL</text>
+    <text x="24"  y="422" class="t-stat-num" fill="#F3E6C4">35+</text>
+    <text x="24"  y="444" class="t-stat-lbl">PROJECTS</text>
+    <text x="114"  y="422" class="t-stat-num" fill="#F3E6C4">AGENTIC</text>
+    <text x="114"  y="444" class="t-stat-lbl-sm">AI FOCUS</text>
     <text x="204"  y="422" class="t-stat-num" fill="#F3E6C4">'28</text>
     <text x="204"  y="444" class="t-stat-lbl">GRADUATION</text>
   </g>

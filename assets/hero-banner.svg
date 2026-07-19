@@ -30,9 +30,9 @@
   <circle class="accent" cx="944" cy="40" r="5" fill="#FF6B35"/>
   <text x="924" y="44" text-anchor="end" font-size="11" font-weight="700" letter-spacing="2" fill="#8A8A8F">AVAILABLE</text>
 
-  <text x="60" y="120" font-size="52" font-weight="800" fill="url(#heroText)">Sylesh Pavendan</text>
-  <text x="61" y="160" font-size="20" font-weight="600" fill="#F2F1EC">Full-Stack Developer &#183; AI/ML Engineer</text>
-  <text x="61" y="192" font-size="14" fill="#8A8A8F">Team Lead @ DYNAMITE &#8212; 3&#215; National Hackathon Winner &#183; LeetCode Knight</text>
+  <text x="60" y="120" font-size="54" font-weight="800" fill="url(#heroText)">Sylesh Pavendan</text>
+  <text x="61" y="160" font-size="22" font-weight="600" fill="#F2F1EC">Agentic AI Developer &#183; Full-Stack Engineer</text>
+  <text x="61" y="192" font-size="15" fill="#8A8A8F">Govt of India projects &#183; 4 Ministries &#183; 35+ builds &#183; Agentic AI &amp; Cloud</text>
 
   <rect x="60" y="216" width="230" height="1.4" fill="#D4AF37" opacity="0.5"/>
 </svg>
