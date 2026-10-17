@@ -61,9 +61,9 @@
 <td align="center"><a href="#tech-stack"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/tech-stack.svg" alt="Tech Stack" /></a></td>
 <td align="center"><a href="#skills"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/skills-cards.svg" alt="Skills" /></a></td>
 </tr><tr>
+<td align="center"><a href="#achievements"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/achievements-wins.svg" alt="Achievements" /></a></td>
 <td align="center"><a href="#analytics"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/analytics-dashboard.svg" alt="Analytics" /></a></td>
 <td align="center"><a href="#projects"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/projects-featured.svg" alt="Projects" /></a></td>
-<td align="center"><a href="#achievements"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/achievements-wins.svg" alt="Achievements" /></a></td>
 <td align="center"><a href="#connect"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/connect-footer.svg" alt="Connect" /></a></td>
 </tr></table>
 </div>
@@ -279,9 +279,42 @@ A 3D-printable model of my contribution history, built by the official <code>gh-
 <img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/divider.svg" width="100%" alt="" />
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░░░░  10 · GITHUB ANALYTICS  ░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░░  10 · ACHIEVEMENTS  ░░░░░░░░░░░░░░░░░░ -->
+<a id="achievements"></a>
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/headers/achievements.svg?v=order" width="100%" alt="" />
+
+<div align="center">
+
+<table align="center" width="100%"><tr>
+<td width="200" align="center" valign="middle"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/trophy-3d.svg" width="180" alt="3x National Hackathon Winner trophy" /></td>
+<td align="left" valign="middle">
+<b>3× National Hackathon Winner</b><br/>
+<b>Team DYNAMITE Lead</b> — led the team to <b>30+ hackathon finals</b> and <b>6 national wins</b><br/>
+<sub>Statathon · CSIC Top 4 · MP Hyderabad · CYBERHACKATHON · SUVIDHA</sub>
+</td>
+</tr></table>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/achievements-premium.svg" width="100%" alt="Hackathon wins and competitive programming achievements" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/headers/certifications.svg" width="100%" alt="" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/certifications-premium.svg" width="100%" alt="Professional certifications — Java, Cisco AI and Cybersecurity, MongoDB, AWS" />
+
+</div>
+
+<br/>
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/divider.svg" width="100%" alt="" />
+<br/>
+
+<!-- ░░░░░░░░░░░░░░░░░░  11 · GITHUB ANALYTICS  ░░░░░░░░░░░░░░░░░░ -->
 <a id="analytics"></a>
-<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/headers/analytics.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/headers/analytics.svg?v=order" width="100%" alt="" />
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SYLESH-1125&theme=github_dark" height="200"/>
@@ -327,9 +360,9 @@ A 3D-printable model of my contribution history, built by the official <code>gh-
 <img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/divider.svg" width="100%" alt="" />
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░░░░  11 · FEATURED PROJECTS  ░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░░  12 · FEATURED PROJECTS  ░░░░░░░░░░░░░░░░░░ -->
 <a id="projects"></a>
-<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/headers/projects.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/headers/projects.svg?v=order" width="100%" alt="" />
 
 <div align="center">
 
@@ -348,39 +381,6 @@ A 3D-printable model of my contribution history, built by the official <code>gh-
 <table align="center"><tr>
 <td align="center"><a href="https://github.com/SYLESH-1125?tab=repositories"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/explore-all-repos.svg" alt="Explore all repositories" /></a></td>
 </tr></table>
-
-</div>
-
-<br/>
-<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/divider.svg" width="100%" alt="" />
-<br/>
-
-<!-- ░░░░░░░░░░░░░░░░░░  12 · ACHIEVEMENTS  ░░░░░░░░░░░░░░░░░░ -->
-<a id="achievements"></a>
-<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/headers/achievements.svg" width="100%" alt="" />
-
-<div align="center">
-
-<table align="center" width="100%"><tr>
-<td width="200" align="center" valign="middle"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/trophy-3d.svg" width="180" alt="3x National Hackathon Winner trophy" /></td>
-<td align="left" valign="middle">
-<b>3× National Hackathon Winner</b><br/>
-<b>Team DYNAMITE Lead</b> — led the team to <b>30+ hackathon finals</b> and <b>6 national wins</b><br/>
-<sub>Statathon · CSIC Top 4 · MP Hyderabad · CYBERHACKATHON · SUVIDHA</sub>
-</td>
-</tr></table>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/achievements-premium.svg" width="100%" alt="Hackathon wins and competitive programming achievements" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/headers/certifications.svg" width="100%" alt="" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/certifications-premium.svg" width="100%" alt="Professional certifications — Java, Cisco AI and Cybersecurity, MongoDB, AWS" />
 
 </div>
 
@@ -410,9 +410,9 @@ A 3D-printable model of my contribution history, built by the official <code>gh-
 <img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/divider.svg" width="100%" alt="" />
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░░░░  15 · CONNECT  ░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░░  14 · CONNECT  ░░░░░░░░░░░░░░░░░░ -->
 <a id="connect"></a>
-<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/headers/connect.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/headers/connect.svg?v=order" width="100%" alt="" />
 
 <div align="center">
 
