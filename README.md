@@ -288,7 +288,7 @@ A 3D-printable model of my contribution history, built by the official <code>gh-
 <table align="center" width="100%"><tr>
 <td width="200" align="center" valign="middle"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/trophy-3d.svg" width="180" alt="3x National Hackathon Winner trophy" /></td>
 <td align="left" valign="middle">
-<b>3× National Hackathon Winner</b><br/>
+<b>4× National Hackathon Winner</b><br/>
 <b>Team DYNAMITE Lead</b> — led the team to <b>30+ hackathon finals</b> and <b>6 national wins</b><br/>
 <sub>Statathon · CSIC Top 4 · MP Hyderabad · CYBERHACKATHON · SUVIDHA</sub>
 </td>
