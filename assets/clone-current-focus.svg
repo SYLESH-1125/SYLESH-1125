@@ -112,7 +112,7 @@
         <circle cx="16" cy="14" r="4" fill="#C9A24A" class="live-dot"/>
         <text x="73" y="19" class="t-status" fill="#C9A24A" text-anchor="middle">BUILDING</text>
       </g>
-      <text x="24" y="106" class="t-title">📊 ASI-Gen</text>
+      <text x="24" y="106" class="t-title">📊 BharatStat</text>
       <text x="24" y="146" class="t-desc">Multi-agent RAG for Bharat</text>
       <text x="24" y="168" class="t-desc">statistical report generation</text>
       <text x="24" y="190" class="t-desc">at national scale.</text>

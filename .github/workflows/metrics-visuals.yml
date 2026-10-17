@@ -1,12 +1,8 @@
-name: Skyline & City Visuals
+name: Skyline Visuals
 
-# Mirrors AbdullahBakir97/AbdullahBakir97's metrics.yml pipeline:
-#   1. city-screenshots — lowlighter/metrics plugin_skyline screenshots the
-#      real honzaap.github.io/GithubCity visualizer per year and commits the
-#      SVG to the metrics-output branch.
-#   2. stl-skylines — github/gh-skyline CLI builds a real 3D-printable .stl
-#      per year from the contributions GraphQL API, committed to the same
-#      branch, viewable in GitHub's native 3D viewer.
+# github/gh-skyline CLI builds a real 3D-printable .stl per year from the
+# contributions GraphQL API, committed to the metrics-output branch and
+# viewable in GitHub's native 3D viewer.
 
 on:
   schedule:
@@ -28,11 +24,8 @@ jobs:
           echo "Years to render: $years"
           echo "years=$years" >> "$GITHUB_OUTPUT"
 
-  # Pre-create the metrics-output branch ourselves. lowlighter/metrics is
-  # known to sometimes fail silently mid-commit (hence continue-on-error
-  # everywhere), which leaves the branch missing entirely if it doesn't
-  # already exist. Guaranteeing the branch exists up front makes every
-  # downstream commit/checkout against it reliable.
+  # Pre-create the metrics-output branch so the skyline job can commit
+  # against it even on a fresh repository.
   setup-branch:
     runs-on: ubuntu-latest
     permissions:
@@ -56,42 +49,8 @@ jobs:
             git push origin metrics-output
           fi
 
-  city-screenshots:
-    needs: [setup-years, setup-branch]
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    strategy:
-      max-parallel: 1
-      fail-fast: false
-      matrix:
-        year: ${{ fromJSON(needs.setup-years.outputs.years) }}
-    steps:
-      - uses: lowlighter/metrics@latest
-        continue-on-error: true
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: SYLESH-1125
-          template: classic
-          filename: github-metrics-city-${{ matrix.year }}.svg
-          base: ""
-          plugin_skyline: yes
-          plugin_skyline_year: ${{ matrix.year }}
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 0.8
-          plugin_skyline_settings: |
-            {
-              "url": "https://honzaap.github.io/GithubCity?name=${login}&year=${year}",
-              "ready": "[...document.querySelectorAll('.display-info span')].map(span => span.innerText).includes('${login}')",
-              "wait": 8,
-              "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
-            }
-          committer_branch: metrics-output
-          committer_message: "Update city ${{ matrix.year }}"
-          output_action: commit
-
   stl-skylines:
-    needs: [setup-years, setup-branch, city-screenshots]
+    needs: [setup-years, setup-branch]
     runs-on: ubuntu-latest
     permissions:
       contents: write
