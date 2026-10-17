@@ -1,0 +1,70 @@
+name: Profile Views Badge
+
+on:
+  schedule:
+    - cron: "30 2 * * *"
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Rebuild profile views badge from komarev
+        run: |
+          python3 - << 'PY'
+          import re
+          import urllib.request
+          from pathlib import Path
+
+          url = "https://komarev.com/ghpvc/?username=SYLESH-1125&label=PROFILE%20VIEWS&color=D4AF37&style=flat"
+          req = urllib.request.Request(url, headers={"User-Agent": "SYLESH-1125-profile-views"})
+          with urllib.request.urlopen(req, timeout=30) as response:
+              body = response.read().decode("utf-8", "replace")
+          match = re.search(r"PROFILE VIEWS:\s*([0-9]+)", body)
+          if not match:
+              raise SystemExit("profile view count missing from komarev response")
+          count = match.group(1)
+
+          left = 122
+          right = max(52, 28 + len(count) * 8)
+          total = left + right + 1
+          label_x = left / 2
+          count_x = left + 1 + (right / 2)
+          svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{total}" height="28" role="img" aria-label="PROFILE VIEWS: {count}">
+            <defs>
+              <linearGradient id="bg-profile-views" x1="0" y1="0" x2="0" y2="1">
+                <stop offset="0%" stop-color="#1E1B12"/>
+                <stop offset="100%" stop-color="#0A0A0B"/>
+              </linearGradient>
+              <linearGradient id="gold-profile-views" x1="0" y1="0" x2="1" y2="1">
+                <stop offset="0%" stop-color="#E8A33D"/>
+                <stop offset="50%" stop-color="#D4AF37"/>
+                <stop offset="100%" stop-color="#C9A24A"/>
+              </linearGradient>
+            </defs>
+            <rect width="{total}" height="28" rx="4" fill="url(#bg-profile-views)" stroke="#6E5420" stroke-width="1"/>
+            <rect x="1" y="1" width="{left}" height="26" rx="3" fill="#0A0A0B"/>
+            <rect x="{left + 1}" y="1" width="{right - 1}" height="26" rx="3" fill="url(#gold-profile-views)"/>
+            <text x="{label_x}" y="18" text-anchor="middle" font-family="Segoe UI,Inter,sans-serif" font-size="10" font-weight="600" fill="#D4AF37" letter-spacing="0.4">PROFILE VIEWS</text>
+            <text x="{count_x}" y="18" text-anchor="middle" font-family="Segoe UI,Inter,sans-serif" font-size="10" font-weight="700" fill="#0A0A0B" letter-spacing="0.3">{count}</text>
+          </svg>
+          '''
+          Path("assets/badges/profile-views.svg").write_text(svg.strip() + "\n", encoding="utf-8")
+          print(f"profile views: {count}")
+          PY
+
+      - name: Commit badge if the count changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/badges/profile-views.svg
+          if git diff --cached --quiet; then
+            echo "profile views unchanged"
+          else
+            git commit -m "chore: refresh profile views badge"
+            git push
+          fi

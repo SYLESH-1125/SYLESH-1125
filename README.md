@@ -41,7 +41,7 @@
 <br/><br/>
 
 <table align="center"><tr>
-<td align="center"><img src="https://komarev.com/ghpvc/?username=SYLESH-1125&label=PROFILE+VIEWS&color=D4AF37&style=for-the-badge" alt="Profile view counter" /></td>
+<td align="center"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/profile-views.svg" alt="Profile views" /></td>
 <td align="center"><a href="https://github.com/SYLESH-1125?tab=followers"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/followers.svg" alt="GitHub followers" /></a></td>
 <td align="center"><a href="https://github.com/SYLESH-1125?tab=stars"><img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/badges/total-stars.svg" alt="Total stars" /></a></td>
 </tr></table>
@@ -304,7 +304,7 @@ A 3D-printable model of my contribution history, built by the official <code>gh-
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/certifications-premium.svg" width="100%" alt="Professional certifications — Java, Cisco AI and Cybersecurity, MongoDB, AWS" />
+<img src="https://raw.githubusercontent.com/SYLESH-1125/SYLESH-1125/main/assets/certifications-premium.svg?v=aws" width="100%" alt="Professional certifications — AWS AI Practitioner, AWS Cloud Practitioner, Java, Cisco AI and Cybersecurity" />
 
 </div>
 
